@@ -25,11 +25,12 @@ function shuffle(o) {
 };
 
 function btnProvideQuestion() { 
-  
 	var randomNumber = Math.floor(Math.random()*quiz.length);
 	randomQuestion = quiz[randomNumber]; //getQuestion
   answers = [randomQuestion.rightAnswer, randomQuestion.wrongAnswer1, randomQuestion.wrongAnswer2, randomQuestion.wrongAnswer3];
   shuffle(answers);
+
+  var mainColor = "#EC4E4E";
   
   document.getElementById("question").innerHTML= randomQuestion.question;
   document.getElementById("A").value= answers[0];
@@ -41,34 +42,31 @@ function btnProvideQuestion() {
   document.getElementById("D").value= answers[3];
   document.getElementById("D").innerHTML= answers[3];
 
+  document.getElementById("A").style.backgroundColor = mainColor;
+  document.getElementById("B").style.backgroundColor = mainColor;
+  document.getElementById("C").style.backgroundColor = mainColor;
+  document.getElementById("D").style.backgroundColor = mainColor;
 }
 
 function answerA_clicked() {
-  var answerA = document.getElementById("A").value;
-  	checkAnswer(answerA);
+  var btn = document.getElementById("A");
+  var answerA = btn.value;
+  	checkAnswer(answerA, btn);
 }
 function answerB_clicked() {
-		var answerB = document.getElementById("B").value;
-  checkAnswer(answerB);
+  var btn = document.getElementById("B");
+  var answerB = btn.value;
+    checkAnswer(answerB, btn);
 }
 function answerC_clicked() {
-  var answerC = document.getElementById("C").value;
-  	
-		checkAnswer(answerC);
+  var btn = document.getElementById("C");
+  var answerC = btn.value;	
+		checkAnswer(answerC, btn);
 }
 function answerD_clicked() {
-  var answerC = document.getElementById("D").value;
-  	
-		checkAnswer(answerD);
-}
-
-var btn_gameStart = document.getElementById('gameStart');
-btn_gameStart.addEventListener('click', function(){
-  btn_gameStart.style.color='blue';
-  alert("게임을 시작합니다");
-});
-function gameStart(onClass){
-  alert("게임을 시작합니다");
+  var btn = document.getElementById("D");
+  var answerD = btn.value;
+		checkAnswer(answerD, btn);
 }
 
 function adjustScore(isCorrect) {
@@ -80,15 +78,20 @@ function adjustScore(isCorrect) {
       currentScore--;
   	}
   }
-  document.getElementById("점수").innerHTML = currentScore;
+  document.getElementById("score").innerHTML = "점수: "+currentScore;
 }
 
-function checkAnswer(answer) {  
+function btnDisable(btn){
+  btn.style.backgroundColor='gray';
+}
+
+function checkAnswer(answer, btn) {  
   if (answer == randomQuestion.rightAnswer) {
     adjustScore(true);
     btnProvideQuestion();
   } else { 
-    alert("오답!");
+    //alert("오답!");
     adjustScore(false);
+    btnDisable(btn);
   }	  
 }
