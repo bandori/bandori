@@ -6,16 +6,37 @@ var answer2 = new Array();
 var answer3 = new Array();
 var answer4 = new Array();
 
-var quiz = [];
-quiz[0] = new Question("포피파 보컬의 이름은?", "토야마 카스미", "토야마 아스카", "뿔버섯", "몰라");
-quiz[1] = new Question("포피파 기타의 이름은?", "하나조노 타에", "한화노조 타에", "오타에", "아리사");
-quiz[2] = new Question("포피파ㅠㅠ 피포파ㅠㅠ", "포피파파 피포파!!", "스마일 예이!!", "뉴 콘 팡!!", "헤헤");
+var quiz = new Array();
 var randomQuestion;
 var answers = [];
 var currentScore = 0;
 
+
+$(document).ready(function(){
+  var ajaxRequest = $.ajax({
+    url: 'https://bandori.github.io/bandori/json/question.json',
+    dataType: 'json',
+    success: function(data) {
+      $.each(data, function(index){
+
+        quiz[index] = new Question(data[index].question, data[index].answer1, data[index].answer2, data[index].answer3, data[index].answer4)
+        //alert(quiz[index].question);
+
+        //question[index] = data[index].question;
+        //answer1[index] = data[index].answer1
+        //answer2[index] = data[index].answer2
+        //answer3[index] = data[index].answer3
+        //answer4[index] = data[index].answer4
+      });
+    }
+  })
+
+  $.when(ajaxRequest).done(function(){
+    btnProvideQuestion();
+  });
+});
+
 document.addEventListener("DOMContentLoaded", function(event) { 
-  btnProvideQuestion();
 });
 
 function Question(question,rightAnswer,wrongAnswer1,wrongAnswer2, wrongAnswer3) {
@@ -25,31 +46,15 @@ function Question(question,rightAnswer,wrongAnswer1,wrongAnswer2, wrongAnswer3) 
     this.wrongAnswer2 = wrongAnswer2;
     this.wrongAnswer3 = wrongAnswer3;
 };
-alert("question");
-$(document).ready(function(){
-
-  var ajexRequest = $.ajax({
-    url: 'https://bandori.github.io/bandori/json/question.json',
-    dataType: 'json',
-    success: function(data){
-      var len=data.length;
-
-      $.each(data, function(index, item) {
-        alert(data[index].type);
-        if(data[index].type == "question"){
-
-        }
-      })
-    }
-  });
-});
 
 function shuffle(o) {
 	for(var j, x, i = o.length; i; j = parseInt(Math.random() * i), x = o[--i], o[i] = o[j], o[j] = x);
 	return o;
 };
 
+
 function btnProvideQuestion() { 
+  //alert("왜 실행? 개수: " + quiz.length);
 	var randomNumber = Math.floor(Math.random()*quiz.length);
 	randomQuestion = quiz[randomNumber]; //getQuestion
   answers = [randomQuestion.rightAnswer, randomQuestion.wrongAnswer1, randomQuestion.wrongAnswer2, randomQuestion.wrongAnswer3];
