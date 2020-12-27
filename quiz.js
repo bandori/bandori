@@ -5,6 +5,7 @@ var answer1 = new Array();
 var answer2 = new Array();
 var answer3 = new Array();
 var answer4 = new Array();
+var questionImage = new Array();
 
 var quiz = new Array();
 var randomQuestion;
@@ -19,7 +20,7 @@ $(document).ready(function(){
     success: function(data) {
       $.each(data, function(index){
 
-        quiz[index] = new Question(data[index].question, data[index].answer1, data[index].answer2, data[index].answer3, data[index].answer4)
+        quiz[index] = new Question(data[index].question, data[index].questionImage, data[index].answer1, data[index].answer2, data[index].answer3, data[index].answer4)
         //alert(quiz[index].question);
 
         //question[index] = data[index].question;
@@ -39,8 +40,9 @@ $(document).ready(function(){
 document.addEventListener("DOMContentLoaded", function(event) { 
 });
 
-function Question(question,rightAnswer,wrongAnswer1,wrongAnswer2, wrongAnswer3) {
+function Question(question,questionImage,rightAnswer,wrongAnswer1,wrongAnswer2, wrongAnswer3) {
     this.question = question;
+    this.questionImage = questionImage;
     this.rightAnswer = rightAnswer;
     this.wrongAnswer1 = wrongAnswer1;
     this.wrongAnswer2 = wrongAnswer2;
@@ -63,6 +65,7 @@ function btnProvideQuestion() {
   var mainColor = "#EC4E4E";
   
   document.getElementById("question").innerHTML= randomQuestion.question;
+  document.getElementById("questionImage").src = randomQuestion.questionImage;
   document.getElementById("A").value= answers[0];
   document.getElementById("A").innerHTML= answers[0];
   document.getElementById("B").value= answers[1];
