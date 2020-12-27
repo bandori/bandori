@@ -1,4 +1,11 @@
 //variables
+
+var question = new Array();
+var answer1 = new Array();
+var answer2 = new Array();
+var answer3 = new Array();
+var answer4 = new Array();
+
 var quiz = [];
 quiz[0] = new Question("포피파 보컬의 이름은?", "토야마 카스미", "토야마 아스카", "뿔버섯", "몰라");
 quiz[1] = new Question("포피파 기타의 이름은?", "하나조노 타에", "한화노조 타에", "오타에", "아리사");
@@ -18,6 +25,24 @@ function Question(question,rightAnswer,wrongAnswer1,wrongAnswer2, wrongAnswer3) 
     this.wrongAnswer2 = wrongAnswer2;
     this.wrongAnswer3 = wrongAnswer3;
 };
+alert("question");
+$(document).ready(function(){
+
+  var ajexRequest = $.ajax({
+    url: 'https://bandori.github.io/bandori/json/question.json',
+    dataType: 'json',
+    success: function(data){
+      var len=data.length;
+
+      $.each(data, function(index, item) {
+        alert(data[index].type);
+        if(data[index].type == "question"){
+
+        }
+      })
+    }
+  });
+});
 
 function shuffle(o) {
 	for(var j, x, i = o.length; i; j = parseInt(Math.random() * i), x = o[--i], o[i] = o[j], o[j] = x);
