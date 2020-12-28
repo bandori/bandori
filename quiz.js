@@ -80,7 +80,6 @@ function gameReady(){
           }
         }
       })
-
     }
   })
 
@@ -118,6 +117,7 @@ function shuffle(o, shuffleType) {
 
 
 function btnProvideQuestion() { 
+
   randomNumber = Math.floor(Math.random()*quizName.length);
   
   answers = [answer1[randomNumber], answer2[randomNumber], answer3[randomNumber], answer4[randomNumber]];
@@ -138,9 +138,11 @@ function btnProvideQuestion() {
     _quizImage.style.display="none";
   }
   else{
+    alert("d");
     _quizImage.style.display="block";
     _quizImage.style.margin="0 auto";
     _quizImage.src = quizImage[randomNumber];
+    alert("d");
   }
 
   _answer1.value= answers[0];
@@ -189,8 +191,6 @@ function checkAnswer(answer, btn) {
     adjustScore(false);
     adjustLife();
     btnDisable(btn);
-
-    showNotification();
   }	  
 }
 
