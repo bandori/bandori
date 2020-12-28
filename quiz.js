@@ -142,12 +142,9 @@ function btnProvideQuestion() {
     _quizImage.style.display="none";
   }
   else{
-    var _resizeImage = getThumbFile(_quizImage);
-    _resizeImage.style.display="block";
-
-    _resizeImage.style.margin="0 auto";
-
-    _resizeImage.src = quizImage[randomNumber];
+    _quizImage.style.display="block";
+    _quizImage.style.margin="0 auto";
+    _quizImage.src = quizImage[randomNumber];
 
   }
 
@@ -216,7 +213,7 @@ function btnDisable(btn){
   btn.disabled=true;
 }
 
-
+/*
 function getThumbFile(_IMG){
   //canvas에 이미지 객체를 리사이징해서 담는 과정
   var canvas = document.createElement("canvas");
@@ -240,4 +237,7 @@ function getThumbFile(_IMG){
   var tmpThumbFile = new Blob([ab], {type: mimeString});
   return tmpThumbFile;
 }
+*/
+
+
 
