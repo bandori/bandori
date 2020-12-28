@@ -21,14 +21,7 @@ $(document).ready(function(){
     success: function(data) {
       $.each(data, function(index){
 
-        quiz[index] = new Question(data[index].quiz, data[index].quizImage, data[index].answer1, data[index].answer2, data[index].answer3, data[index].answer4)
-        //alert(quiz[index].question);
-
-        //question[index] = data[index].question;
-        //answer1[index] = data[index].answer1
-        //answer2[index] = data[index].answer2
-        //answer3[index] = data[index].answer3
-        //answer4[index] = data[index].answer4
+        quiz[index] = new Question(data[index].type, data[index].quiz, data[index].quizImage, data[index].answer1, data[index].answer2, data[index].answer3, data[index].answer4)
       });
     }
   })
@@ -41,13 +34,14 @@ $(document).ready(function(){
 document.addEventListener("DOMContentLoaded", function(event) { 
 });
 
-function Question(quiz,quizImage,rightAnswer,wrongAnswer1,wrongAnswer2, wrongAnswer3) {
-    this.quiz = quiz;
-    this.quizImage = quizImage;
-    this.rightAnswer = rightAnswer;
-    this.wrongAnswer1 = wrongAnswer1;
-    this.wrongAnswer2 = wrongAnswer2;
-    this.wrongAnswer3 = wrongAnswer3;
+function Question(quizType, quiz,quizImage,rightAnswer,wrongAnswer1,wrongAnswer2, wrongAnswer3) {
+  this.quizType = quizType;  
+  this.quiz = quiz;
+  this.quizImage = quizImage;
+  this.rightAnswer = rightAnswer;
+  this.wrongAnswer1 = wrongAnswer1;
+  this.wrongAnswer2 = wrongAnswer2;
+  this.wrongAnswer3 = wrongAnswer3;
 };
 
 function shuffle(o) {
@@ -58,13 +52,11 @@ function shuffle(o) {
 
 function btnProvideQuestion() { 
 	var randomNumber = Math.floor(Math.random()*quiz.length);
-	randomQuiz = quiz[randomNumber]; //getQuestion
+	randomQuiz = quiz[randomNumber];
   answers = [randomQuiz.rightAnswer, randomQuiz.wrongAnswer1, randomQuiz.wrongAnswer2, randomQuiz.wrongAnswer3];
   shuffle(answers);
 
   var mainColor = "#EC4E4E";
-  
-
 
   document.getElementById("quiz").innerHTML= randomQuiz.quiz;
 

@@ -1,7 +1,7 @@
-[{"quiz":"포피파의 보컬은?","quizImage":"https://i.bandori.party/u/cos/z/tthumb/1606Kasumi-Toyama-Sweet-Time-u3Kevq.png","answer1":"토야마 카스미","answer2":"우시고메 리미","answer3":"야마부키 사아야","answer4":"이치가야 아리사"},
-    {"quiz":"앱글의 리더는?","quizImage":"https://i.bandori.party/u/c/art/1552Himari-Uehara-Cool-bcthVf.png","answer1":"우에하라 히마리","answer2":"미타케 란","answer3":"하자와 츠구미","answer4":"아오바 모카"},
-    {"quiz":"로젤리아의 기타는?","quizImage":"https://i.bandori.party/u/cos/z/tthumb/1570Kasumi-Toyama-%E8%89%B2%E3%81%A8%E3%82%8A%E3%81%A9%E3%82%8A%E3%81%AA%E5%B2%A9%E5%A0%B4-MVsy88.png","answer1":"히카와 사요","answer2":"히카와 히나","answer3":"이마이 리사","answer4":"하나조노 타에"},
-    {"quiz":"파스파레의 키보드는?","quizImage":"https://i.bandori.party/u/cos/z/tthumb/1566Kasumi-Toyama-Swimsuit-HVOxwn.png","answer1":"와카미야 이브","answer2":"와카마야 이브","answer3":"와키미야 이브","answer4":"와카야마 이브"},
-    {"quiz":"헬로해피의 드럼은?","quizImage":"https://i.bandori.party/u/cos/z/tthumb/1512Kasumi-Toyama-%E5%AE%9D%E7%89%A9%E3%82%92%E3%81%8A%E5%B1%8A%E3%81%91-EY6hmu.png","answer1":"마츠바라 카논","answer2":"우다가와 토모에","answer3":"우다가와 아코","answer4":"미셸"},
-    {"quiz":"이미지 없음 1","quizImage":"","answer1":"1","answer2":"2","answer3":"3","answer4":"4"},
-    {"quiz":"이미지 없음 2","quizImage":"","answer1":"1","answer2":"2","answer3":"3","answer4":"4"}]
+[{"type":"illust","quiz":"포피파의 보컬은?","quizImage":"https://i.bandori.party/u/cos/z/tthumb/1606Kasumi-Toyama-Sweet-Time-u3Kevq.png","answer1":"토야마 카스미","answer2":"우시고메 리미","answer3":"야마부키 사아야","answer4":"이치가야 아리사"},
+    {"type":"illust","quiz":"앱글의 리더는?","quizImage":"https://i.bandori.party/u/c/art/1552Himari-Uehara-Cool-bcthVf.png","answer1":"우에하라 히마리","answer2":"미타케 란","answer3":"하자와 츠구미","answer4":"아오바 모카"},
+    {"type":"illust","quiz":"로젤리아의 기타는?","quizImage":"https://i.bandori.party/u/cos/z/tthumb/1570Kasumi-Toyama-%E8%89%B2%E3%81%A8%E3%82%8A%E3%81%A9%E3%82%8A%E3%81%AA%E5%B2%A9%E5%A0%B4-MVsy88.png","answer1":"히카와 사요","answer2":"히카와 히나","answer3":"이마이 리사","answer4":"하나조노 타에"},
+    {"type":"illust","quiz":"파스파레의 키보드는?","quizImage":"https://i.bandori.party/u/cos/z/tthumb/1566Kasumi-Toyama-Swimsuit-HVOxwn.png","answer1":"와카미야 이브","answer2":"와카마야 이브","answer3":"와키미야 이브","answer4":"와카야마 이브"},
+    {"type":"illust","quiz":"헬로해피의 드럼은?","quizImage":"https://i.bandori.party/u/cos/z/tthumb/1512Kasumi-Toyama-%E5%AE%9D%E7%89%A9%E3%82%92%E3%81%8A%E5%B1%8A%E3%81%91-EY6hmu.png","answer1":"마츠바라 카논","answer2":"우다가와 토모에","answer3":"우다가와 아코","answer4":"미셸"},
+    {"type":"song","quiz":"이 노래의 EXPERT 난이도는?","quizImage":"https://i.bandori.party/u/s/266EXPOSE-Burn-out-IbzEG2.png","answer1":"26","answer2":"25","answer3":"27","answer4":"28"},
+    {"type":"song","quiz":"이 노래의 EXPERT 난이도는?","quizImage":"https://i.bandori.party/u/s/233White-Afternoon-0KcWm0.png","answer1":"24","answer2":"25","answer3":"27","answer4":"28"}]
