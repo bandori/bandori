@@ -44,7 +44,9 @@
 
       .scoreBoard {
         text-align: center;
-        align-items: flex-start
+        margin-top:20;
+        font-size:16;
+        font-weight: bold;
       }     
 
       #footer {
@@ -66,6 +68,7 @@
       <br><br><br>
       <button class="mainMenu" id="gameStart_Type1" onclick="gameModeSelect(1)">일러 퀴즈</button>
       <button class="mainMenu" id="gameStart_Type2" onclick="gameModeSelect(2)">노래 퀴즈</button>
+      <button class="mainMenu" id="gameStart_Type3" onclick="gameModeSelect(3)">배경 퀴즈</button>
       <button class="mainMenu" id="gameStart_All" onclick="gameModeSelect(99)">종합</button>
     </div> 
 
@@ -96,8 +99,8 @@
       </div>
 
       <div class="scoreBoard">
-        <h3><div id="score" class="field">점수: 0</div></h3>
-        <h3><div id="life" class="field">라이프: 5 / 5</div></h3>
+        <div id="score" class="field" style="display:inline">점수: 0</div>
+        <div id="life" class="field" style="display:inline">라이프: 5 / 5</div>
       </div>
 
 

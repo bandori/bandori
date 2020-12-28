@@ -22,6 +22,7 @@ button.gotoMain{
 button.mainMenu{
   height: 40px;
   width: 220px;
+  max-width: 45%;
   outline: black;
   background: rgb(236, 78, 78);
   border: rgb(255, 255, 255) solid 2px;
@@ -35,7 +36,7 @@ button.mainMenu{
 button.answer {
   height: 45px;
   width: 250px;
-  max-width: 40%;
+  max-width: 45%;
   outline: none;
   background: rgb(236, 78, 78);
   border: rgb(255, 255, 255) solid 2px;

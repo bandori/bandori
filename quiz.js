@@ -31,12 +31,17 @@ function gameModeSelect(type){
     case 2:
       gameMode="song";
       break;
+    case 3:
+      gameMode="background";
+      break;
     case 99:
       gameMode="all";
       break;
   }
   $("#main").css("display","none");
+  $("#footer").css("display","none");
   $("#mainGame").css("display","block");
+
 
   gameReady();
 }
@@ -114,16 +119,8 @@ function shuffle(o, shuffleType) {
 
 function btnProvideQuestion() { 
   randomNumber = Math.floor(Math.random()*quizName.length);
-
-
   
-	//randomQuiz = quizData[randomNumber];
-  //answers = [randomQuiz.rightAnswer, randomQuiz.wrongAnswer1, randomQuiz.wrongAnswer2, randomQuiz.wrongAnswer3];
-
-  //randomQuiz = question[randomNumber];
   answers = [answer1[randomNumber], answer2[randomNumber], answer3[randomNumber], answer4[randomNumber]];
-
-  //shuffle(answers, quizData[randomNumber].type);
 
   shuffle(answers, quizType[randomNumber]);
 
@@ -135,9 +132,7 @@ function btnProvideQuestion() {
   var _answer3 = document.getElementById("C");
   var _answer4 = document.getElementById("D");
 
-
   _quizName.innerHTML= quizName[randomNumber];
-
 
   if(quizImage[randomNumber] == ""){
     _quizImage.style.display="none";
@@ -146,7 +141,6 @@ function btnProvideQuestion() {
     _quizImage.style.display="block";
     _quizImage.style.margin="0 auto";
     _quizImage.src = quizImage[randomNumber];
-
   }
 
   _answer1.value= answers[0];
@@ -187,6 +181,19 @@ function answerD_clicked() {
 		checkAnswer(answerD, btn);
 }
 
+function checkAnswer(answer, btn) {  
+  if (answer == answer1[randomNumber]) {
+    adjustScore(true);
+    btnProvideQuestion();
+  } else { 
+    adjustScore(false);
+    adjustLife();
+    btnDisable(btn);
+
+    showNotification();
+  }	  
+}
+
 function adjustScore(isCorrect) {
   debugger;
   if (isCorrect) {
@@ -207,19 +214,6 @@ function adjustLife(){
 function setQuizNumber(){
   quizNum++;
   document.getElementById("quizNum").innerHTML = "문제 "+quizNum;
-}
-
-function checkAnswer(answer, btn) {  
-  if (answer == answer1[randomNumber]) {
-    adjustScore(true);
-    btnProvideQuestion();
-  } else { 
-    adjustScore(false);
-    adjustLife();
-    btnDisable(btn);
-
-    showNotification();
-  }	  
 }
 
 function btnDisable(btn){
