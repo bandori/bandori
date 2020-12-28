@@ -6,7 +6,33 @@
   margin: 10px;
 }
 
-button {
+button.gotoMain{
+  height: 30px;
+  width: 170px;
+  outline: black;
+  background: rgb(236, 78, 78);
+  border: rgb(255, 255, 255) solid 2px;
+  border-radius: 14px;
+  color: white;
+  font-size: 12;
+  font-weight: bold;
+  transition: 0.2s;
+}
+
+button.mainMenu{
+  height: 40px;
+  width: 220px;
+  outline: black;
+  background: rgb(236, 78, 78);
+  border: rgb(255, 255, 255) solid 2px;
+  border-radius: 20px;
+  color: white;
+  font-size: 20;
+  font-weight: bold;
+  transition: 0.2s;
+}
+
+button.answer {
   height: 45px;
   width: 220px;
   outline: none;
@@ -18,8 +44,8 @@ button {
   font-weight: bold;
   box-shadow: 0 4px 16px rgba(255, 72, 72, 0.3);
   transition: 0.2s;
-  
 }
+
 button:focus{
   outline:0;
 }
@@ -30,3 +56,4 @@ button:hover{
 button:active {
   background: rgb(255, 62, 62);
 }
+

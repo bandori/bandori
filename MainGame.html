@@ -36,8 +36,7 @@
       .answer{
         text-align: center;
         width:100%;
-        height:7%;
-        margin-top:3%;
+        margin-top:1%;
       }
 
       .score {
@@ -51,7 +50,7 @@
   <body>
     <script src="jquery-3.5.1.min.js"></script>
     <div class="menu">
-      <button id="gotoMain" onclick="location.href='index.html'">메인 메뉴로</button>
+      <button class="gotoMain" id="gotoMain" onclick="location.href='index.html'">메인 메뉴로</button>
     </div>
 
     <div class="question">
@@ -64,13 +63,13 @@
     </div>
 
     <div class="answer">
-      <button id="A" onclick="answerA_clicked()"></button>
+      <button class="answer" id="A" onclick="answerA_clicked()"></button>
 
-      <button id="B" onclick="answerB_clicked()"></button>
+      <button class="answer" id="B" onclick="answerB_clicked()"></button>
 
-      <button id="C" onclick="answerC_clicked()"></button>
+      <button class="answer" id="C" onclick="answerC_clicked()"></button>
 
-      <button id="D" onclick="answerD_clicked()"></button>
+      <button class="answer" id="D" onclick="answerD_clicked()"></button>
     </div>
 
     <div class="score">
