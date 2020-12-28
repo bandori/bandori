@@ -150,7 +150,7 @@ function btnProvideQuestion() {
     _quizImage.style.margin="0 auto";
     _quizImage.src = quizImage[randomNumber];
   }
-
+  
   _answer1.value= answers[0];
   _answer1.innerHTML= answers[0];
   _answer2.value= answers[1];
