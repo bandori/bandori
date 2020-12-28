@@ -65,7 +65,17 @@ function btnProvideQuestion() {
   var mainColor = "#EC4E4E";
   
   document.getElementById("question").innerHTML= randomQuestion.question;
-  document.getElementById("questionImage").src = randomQuestion.questionImage;
+
+  var _questionImage = document.getElementById("questionImage");
+  if(randomQuestion.questionImage == ""){
+    _questionImage.style.display="none";
+  }
+  else{
+    _questionImage.style.display="block";
+    _questionImage.style.margin="0 auto";
+    _questionImage.src = randomQuestion.questionImage;
+  }
+
   document.getElementById("A").value= answers[0];
   document.getElementById("A").innerHTML= answers[0];
   document.getElementById("B").value= answers[1];
