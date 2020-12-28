@@ -55,8 +55,8 @@ function gameReady(){
 
           }
         }
-        alert(quiz[index].quiz);
-        alert(quiz[index].type);
+        //alert(quiz[index].quiz);
+        //alert(quiz[index].type);
       })
 
     }
