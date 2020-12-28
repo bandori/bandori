@@ -136,5 +136,59 @@ function checkAnswer(answer, btn) {
     //alert("오답!");
     adjustScore(false);
     btnDisable(btn);
+
+    $( "#reguser" ).blur(function(e){
+      popToolTip("#reguser", "아이디가 존재하지 않습니다.");
+     });
   }	  
 }
+
+var tooltip_handle = null;
+function popToolTip(p_selector, p_txt){
+ var v_id = $(p_selector).attr("id") || $(p_selector).attr("name");
+ v_id = "#"+v_id+"_tooltip_text";
+
+ $tooltip_layer = $(v_id);
+
+ if ( $tooltip_layer.length == 0 )
+ {
+  return;
+ }
+
+ p_txt = p_txt ? $.trim(p_txt) : "";
+ 
+ if (p_txt!="")
+ {
+  $tooltip_layer.find( "div" ).text(p_txt);
+  $tooltip_layer.show();
+  
+  if (tooltip_handle)
+  {
+   clearTimeout(tooltip_handle);
+   tooltip_handle = null;
+  }
+  tooltip_handle = setTimeout(function(){
+   $tooltip_layer.hide();
+  }, 2000);
+ }
+}
+
+//함수안에서 after 함수안에 원하시는 디자인을 붙여시면 됩니다. 그리고 top과 left 값을 조정하셔서 레이어박스 위치를 조정하시면 됩니다. 아니면 파라미터를 넘기게 함수를 수정하셔서 각 레이어별로 위치지정을 할 수 있도록 하셔도 됩니다.
+function setToolTip(p_selector){
+ var v_id = $(p_selector).attr("id") || $(p_selector).attr("name");
+ $(p_selector).each(function(idx,obj){
+  $(this).after('<div id="'+v_id+'_tooltip_text" style="display:none;position:absolute;"><div style="border:3px solid #dadada;position:relative;left:5px;top:-60px;background-color:#ffffff;padding:3px;"></div></div>');
+ });
+}
+
+$(function(){
+
+//아이디가 reguser 인 입력박스에 대해서, 아래와 같이 레이어팝업을 초기화 시켜 줍니다. (위함수에서 정의된대로)
+ setToolTip("#reguser");
+
+//popToolTip 함수를 이용해서 아래와 같이 툴팁을 띄워주시면 됩니다.
+//여기서는 입력박스에서 현재 초점을 잃었을때 아이디등을 체크해서, 알맞는 메시지를 툴팁으로 띄우게 됩니다.
+//비밀번호 체크나 기타 여러 상황에 사용하실 수 있을 것 같습니다.
+
+
+});
