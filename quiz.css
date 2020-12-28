@@ -48,6 +48,20 @@ button.answer {
   transition: 0.2s;
 }
 
+button.result{
+  height: 40px;
+  width: 180px;
+  max-width: 75%;
+  outline: black;
+  background: rgb(236, 78, 78);
+  border: rgb(255, 255, 255) solid 2px;
+  border-radius: 14px;
+  color: white;
+  font-size: 12;
+  font-weight: bold;
+  transition: 0.2s;
+}
+
 button:focus{
   outline:0;
 }

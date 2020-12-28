@@ -18,10 +18,18 @@ var maxLife = 5;
 var gameMode = "";
 
 
+
 $(document).ready(function(){
   $("#mainGame").css("display","none");
+  $("#result").css("display","none");
   gameMode="";
 });
+
+function initalize(){
+  quizNum=0;
+  adjustScore(true, true);
+  adjustLife(true);
+}
 
 function gameModeSelect(type){
   switch(type){
@@ -41,7 +49,6 @@ function gameModeSelect(type){
   $("#main").css("display","none");
   $("#footer").css("display","none");
   $("#mainGame").css("display","block");
-
 
   gameReady();
 }
@@ -139,11 +146,9 @@ function btnProvideQuestion() {
     _quizImage.style.display="none";
   }
   else{
-    alert("d");
     _quizImage.style.display="block";
     _quizImage.style.margin="0 auto";
     _quizImage.src = quizImage[randomNumber];
-    alert("d");
   }
 
   _answer1.value= answers[0];
@@ -186,30 +191,45 @@ function answerD_clicked() {
 
 function checkAnswer(answer, btn) {  
   if (answer == answer1[randomNumber]) {
-    adjustScore(true);
+    adjustScore(true, false);
     btnProvideQuestion();
   } else { 
-    adjustScore(false);
+    adjustScore(false, false);
     adjustLife();
     btnDisable(btn);
   }	  
 }
 
-function adjustScore(isCorrect) {
-  debugger;
+function adjustScore(isCorrect, isInitalized) {
+  if(isInitalized){
+    currentScore=0;
+    document.getElementById("score").innerHTML = "점수: "+currentScore;
+    return;
+  }
   if (isCorrect) {
-    currentScore++;
-  } else {
+    currentScore+=10;
+  } 
+  else {
     if (currentScore > 0) {
-      currentScore--;
-  	}
+      currentScore-=5;
+    }
   }
   document.getElementById("score").innerHTML = "점수: "+currentScore;
 }
 
-function adjustLife(){
+function adjustLife(isInitalized){
+  if(isInitalized){
+    currentLife=maxLife;
+    document.getElementById("life").innerHTML = "라이프: "+currentLife +" / " + maxLife;
+    return;
+  }
+
   currentLife--;
   document.getElementById("life").innerHTML = "라이프: "+currentLife +" / " + maxLife;
+
+  if(currentLife <= 0){
+    result();
+  }
 }
 
 function setQuizNumber(){
@@ -219,6 +239,47 @@ function setQuizNumber(){
 
 function btnDisable(btn){
   btn.disabled=true;
+}
+
+function result(){
+  $("#mainGame").css("display","none");
+  $("#result").css("display","block");
+  document.getElementById("resultScore").innerHTML = "점수: "+currentScore;
+
+  var _review;
+  if(currentScore >= 1000){
+    _review = "사람이신가요?";
+  }
+  else if(currentScore >= 500){
+    _review = "대단하시네요!";
+  }
+  else if(currentScore >= 300){
+    _review = "방잘알 이시네요!";
+  }
+  else if(currentScore >= 200){
+    _review = "조금 하시는데요?"
+  }
+  else if (currentScore >= 100){
+    _review ="당신은 방청년입니다."
+  }
+  else{
+    _review ="방린이시네요!";
+  }
+  document.getElementById("resultReview").innerHTML = "한줄 평: "+_review;
+}
+
+function result_retry_clicked() {
+  $("#mainGame").css("display","block");
+  $("#result").css("display","none");
+  initalize();
+  btnProvideQuestion();
+}
+
+function result_gotoMain_clicked() {
+  $("#main").css("display","block");
+  $("#result").css("display","none");
+  initalize();
+  window.location.reload();
 }
 
 /*
