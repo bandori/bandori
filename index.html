@@ -10,6 +10,7 @@
         text-align: center;
         margin-top:3%;
       }
+
       #footer {
         position:absolute;
         bottom:0;
@@ -18,18 +19,54 @@
         background:rgb(255, 225, 225);
         margin:0 auto;
         text-align: center;
-  
-}
-      
+      }
+
+      html{
+        width:100%;
+        height:100%;
+      }
+
+      body {
+        width: 100%;
+        height: 100%;
+        margin: 10px;
+      }
+
+      .menu{
+        color:#000000 !important
+      }
+
+      .quiz{
+        text-align: center;
+        margin-top:2%;
+        font-size: 20;
+      }
+
+      .quizImage{
+        text-align: center;
+      }
+
+      .answer{
+        text-align: center;
+        width:100%;
+        margin-top:1%;
+      }
+
+      .score {
+        text-align: center;
+        align-items: flex-start
+      }     
     </style>
   </head>
 
   <body>
     <script src="jquery-3.5.1.min.js"></script>
-    <div class="main">
+    <div id="main" class="main">
       <img class="index" src="img/Kasumi.png" alt="포피파!ㅠㅠㅠ">
       <br><br><br>
-      <button class="mainMenu" id="gameStart" onclick="location.href='MainGame.html'">게임 시작</button>
+      <button class="mainMenu" id="gameStart_Type1" onclick="gameModeSelect(1)">일러스트</button>
+      <button class="mainMenu" id="gameStart_Type2" onclick="gameModeSelect(2)">노래</button>
+      <button class="mainMenu" id="gameStart_All" onclick="gameModeSelect(99)">종합</button>
     </div> 
 
     <div id="footer">
@@ -37,6 +74,35 @@
       <div><a href="https://www.youtube.com/channel/UCDIWNxgdDJk2J3v4UZ3U01Q">유튜브 채널 방문</a></div>
     </div>
 
+    <div id="mainGame">
+      <div class="menu">
+        <button class="gotoMain" id="gotoMain" onclick="location.href='index.html'">메인 메뉴로</button>
+      </div>
+
+      <div class="quiz">
+        <h2><div id="quizNum" class="field">문제</div></h2>
+        <div id="quiz" class="field"></div>
+      </div>
+
+      <div class="quizImage">
+        <img class="quizImage" id="quizImage" alt="문제 이미지">
+      </div>
+
+      <div class="answer">
+        <button class="answer" id="A" onclick="answerA_clicked()"></button>
+        <button class="answer" id="B" onclick="answerB_clicked()"></button>
+        <button class="answer" id="C" onclick="answerC_clicked()"></button>
+        <button class="answer" id="D" onclick="answerD_clicked()"></button>
+      </div>
+
+      <div class="score">
+        <h3><div id="score" class="field">점수: 0</div></h3>
+      </div>
+
+      <div class="notification-container" id="notification-container">
+        <p>You have already entered the letter</p>
+      </div>
+    </div>
 
     <script src="quiz.js"></script>
   </body>
