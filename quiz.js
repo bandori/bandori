@@ -47,18 +47,16 @@ function gameReady(){
       $.each(data, function(index){
         if(gameMode=="all"){
           quiz[index] = new Question(data[index].type, data[index].quiz, data[index].quizImage, data[index].answer1, data[index].answer2, data[index].answer3, data[index].answer4)
-          //alert(quiz[index].quiz + " " +quiz[index].quizImage + " " + quiz[index].answer1 + " " + quiz[index].answer2
-          //+ " " + quiz[index].answer3 + " " + quiz[index].answer4);
         }
         else{
           if(data[index].type == gameMode){
             quiz[_num] = new Question(data[index].type, data[index].quiz, data[index].quizImage, data[index].answer1, data[index].answer2, data[index].answer3, data[index].answer4)
-            //alert(quiz[_num].quiz + " " +quiz[_num].quizImage + " " + quiz[_num].answer1 + " " + quiz[_num].answer2
-            //+ " " + quiz[_num].answer3 + " " + quiz[_num].answer4);
             _num++;
 
           }
         }
+        alert(quiz[index].quiz);
+        alert(quiz[index].type);
       })
 
     }
@@ -71,14 +69,16 @@ function gameReady(){
 
 }
 
-function Question(quizType,quiz,quizImage,rightAnswer,wrongAnswer1,wrongAnswer2, wrongAnswer3) {
-  this.quizType = quizType;  
-  this.quiz = quiz;
-  this.quizImage = quizImage;
-  this.rightAnswer = rightAnswer;
-  this.wrongAnswer1 = wrongAnswer1;
-  this.wrongAnswer2 = wrongAnswer2;
-  this.wrongAnswer3 = wrongAnswer3;
+class Question {
+  constructor(quizType, quiz, quizImage, rightAnswer, wrongAnswer1, wrongAnswer2, wrongAnswer3) {
+    this.quizType = quizType;
+    this.quiz = quiz;
+    this.quizImage = quizImage;
+    this.rightAnswer = rightAnswer;
+    this.wrongAnswer1 = wrongAnswer1;
+    this.wrongAnswer2 = wrongAnswer2;
+    this.wrongAnswer3 = wrongAnswer3;
+  }
 };
 
 function shuffle(o, shuffleType) {
@@ -99,6 +99,10 @@ function btnProvideQuestion() {
 	var randomNumber = Math.floor(Math.random()*quiz.length);
 	randomQuiz = quiz[randomNumber];
   answers = [randomQuiz.rightAnswer, randomQuiz.wrongAnswer1, randomQuiz.wrongAnswer2, randomQuiz.wrongAnswer3];
+  
+  //alert(quiz[randomNumber].rightAnswer);
+  //alert(randomQuiz.rightAnswer);
+  //alert(answers[0]);
   
   shuffle(answers, quiz[randomNumber].type);
 
@@ -121,6 +125,7 @@ function btnProvideQuestion() {
     _quizImage.src = randomQuiz.quizImage;
   }
 
+  _answer1.value= answers[0];
   _answer1.innerHTML= answers[0];
   _answer2.value= answers[1];
   _answer2.innerHTML= answers[1];
@@ -131,7 +136,7 @@ function btnProvideQuestion() {
 
   _answer1.disabled=false;
   _answer2.disabled=false;
-  _answer4.disabled=false;
+  _answer3.disabled=false;
   _answer4.disabled=false;
 }
 
