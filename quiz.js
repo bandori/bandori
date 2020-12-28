@@ -151,6 +151,11 @@ function btnProvideQuestion() {
   var _answerImage3 = document.getElementById("answerImageC");
   var _answerImage4 = document.getElementById("answerImageD");
 
+  $(_answer1).css("background-color", "");
+  $(_answer2).css("background-color", "");
+  $(_answer3).css("background-color", "");
+  $(_answer4).css("background-color", "");
+
   _quizName.innerHTML= quizName[randomNumber];
 
   if(quizImage[randomNumber] == ""){
@@ -265,6 +270,7 @@ function setQuizNumber(){
 
 function btnDisable(btn){
   btn.disabled=true;
+  $(btn).css("background-color", "rgb(50,50,50)");
 }
 
 function result(){
