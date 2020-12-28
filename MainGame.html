@@ -23,13 +23,13 @@
         color:#000000 !important
       }
 
-      .question{
+      .quiz{
         text-align: center;
         margin-top:2%;
         font-size: 20;
       }
 
-      .questionImage{
+      .quizImage{
         text-align: center;
       }
 
@@ -53,13 +53,13 @@
       <button class="gotoMain" id="gotoMain" onclick="location.href='index.html'">메인 메뉴로</button>
     </div>
 
-    <div class="question">
-      <h2><div id="questionNum" class="field">문제</div></h2>
-      <div id="question" class="field"></div>
+    <div class="quiz">
+      <h2><div id="quizNum" class="field">문제</div></h2>
+      <div id="quiz" class="field"></div>
     </div>
 
-    <div class="questionImage">
-      <img class="questionImage" id="questionImage" alt="문제 이미지">
+    <div class="quizImage">
+      <img class="quizImage" id="quizImage" alt="문제 이미지">
     </div>
 
     <div class="answer">
@@ -76,7 +76,9 @@
       <h3><div id="score" class="field">점수: 0</div></h3>
     </div>
 
-    <input id="reguser" value="" style="width:208px;" type="text"/>
+    <div class="notification-container" id="notification-container">
+      <p>You have already entered the letter</p>
+    </div>
 
     <script src="quiz.js"></script>
   </body>

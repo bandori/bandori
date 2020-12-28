@@ -62,6 +62,19 @@ img.index{
   height: auto;
 }
 
-img.questionImage{
+img.quizImage{
   height: 300;
+}
+
+.notification-container {
+  background: rgba(0,0,0,.3);
+  border-radius: 10px 10px 0 0 ;
+  padding: 15px 20px;
+  position: absolute;
+  bottom: -50px;
+  transition: transform 0.3s ease-in-out;
+}
+
+.notification-container.show {
+  transform: translateY(-50px);
 }
