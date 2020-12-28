@@ -57,3 +57,6 @@ button:active {
   background: rgb(255, 62, 62);
 }
 
+img{
+  max-width: 100%;
+}
