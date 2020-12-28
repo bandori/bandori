@@ -1,974 +1,974 @@
 [
-        {
-            "type": "illust",
-            "quiz": "일러스트의 이름은?",
-            "quizImage": "https://i.bandori.party/u/c/art/a/tthumb/833Kasumi-Toyama-Cool-To-the-best-stage-OLdx6i.png",
-            "answer1": "최고의 스테이지로!",
-            "answer2": "모두와 함께 라이브",
-            "answer3": "Let's Sing♪",
-            "answer4": "희망의 멜로디"
-        },
-        {
-            "type": "illust",
-            "quiz": "일러스트의 이름은?",
-            "quizImage": "https://i.bandori.party/u/c/art/a/tthumb/925Kasumi-Toyama-Happy-Look-up-at-the-starry-sky-QS9zZB.png",
-            "answer1": "밤하늘을 올려다보고",
-            "answer2": "컬러풀 팝핀!",
-            "answer3": "추억 여행",
-            "answer4": "최고의 스테이지로!"
-        },
-        {
-            "type": "illust",
-            "quiz": "일러스트의 이름은?",
-            "quizImage": "https://i.bandori.party/u/c/art/a/tthumb/622Kasumi-Toyama-Pure-Sound-of-the-Beginning-8eUGd5.png",
-            "answer1": "시작의 소리",
-            "answer2": "선서! 불꽃놀이!",
-            "answer3": "모두 함께 꽃놀이",
-            "answer4": "다 같이 종이접기"
-        },
-        {
-            "type": "illust",
-            "quiz": "일러스트의 이름은?",
-            "quizImage": "https://i.bandori.party/u/c/art/a/tthumb/633Tae-Hanazono-Cool-The-Great-Bunny-Strategy-2yrB1f.png",
-            "answer1": "토끼 대작전",
-            "answer2": "파자마로 홈 파티",
-            "answer3": "손을 잡으면",
-            "answer4": "행복의 공유"
-        },
-        {
-            "type": "illust",
-            "quiz": "일러스트의 이름은?",
-            "quizImage": "https://i.bandori.party/u/c/art/tthumb/1081Tae-Hanazono-Power-LHMMFO.png",
-            "answer1": "자신 있는 재주 한 가지",
-            "answer2": "토끼 대작전",
-            "answer3": "토끼처럼 보이는 것",
-            "answer4": "오후의 햄버그"
-        },
-        {
-            "type": "illust",
-            "quiz": "일러스트의 이름은?",
-            "quizImage": "https://i.bandori.party/u/c/art/tthumb/834Tae-Hanazono-Cool-Beyond-just-there-Y0HC8M.png",
-            "answer1": "오직 앞을 향해서",
-            "answer2": "강제연행",
-            "answer3": "손을 잡으면",
-            "answer4": "모두의 노래"
-        },
-        {
-            "type": "illust",
-            "quiz": "이 일러스트의 특훈 후는?",
-            "quizImage": "https://i.bandori.party/u/c/art/tthumb/1332Kasumi-Toyama-Cool-Memories-of-Old-Days-fiHHf2.png",
-            "answer1": "https://i.bandori.party/u/c/art/a/tthumb/1332Kasumi-Toyama-Cool-Memories-of-Old-Days-vXxC3I.png",
-            "answer2": "https://i.bandori.party/u/c/art/a/tthumb/1295Kasumi-Toyama-Pure-ZYD9I7.png",
-            "answer3": "https://i.bandori.party/u/c/art/a/tthumb/1274Kasumi-Toyama-Power-9XoLfy.png",
-            "answer4": "https://i.bandori.party/u/c/art/a/tthumb/1225Kasumi-Toyama-Cool-8fLeCy.png"
-        },
-        {
-            "type": "illust",
-            "quiz": "이 일러스트의 특훈 후는?",
-            "quizImage": "https://i.bandori.party/u/c/art/tthumb/1332Kasumi-Toyama-Cool-Memories-of-Old-Days-fiHHf2.png",
-            "answer1": "https://i.bandori.party/u/c/art/a/tthumb/1332Kasumi-Toyama-Cool-Memories-of-Old-Days-vXxC3I.png",
-            "answer2": "https://i.bandori.party/u/c/art/a/tthumb/1295Kasumi-Toyama-Pure-ZYD9I7.png",
-            "answer3": "https://i.bandori.party/u/c/art/a/tthumb/1274Kasumi-Toyama-Power-9XoLfy.png",
-            "answer4": "https://i.bandori.party/u/c/art/a/tthumb/1225Kasumi-Toyama-Cool-8fLeCy.png"
-        },
-        {
-            "type": "song",
-            "quiz": "이 노래의 EXPERT 난이도는?",
-            "quizImage": "https://bestdori.com/assets/kr/musicjacket/musicjacket70_rip/assets-star-forassetbundle-startapp-musicjacket-musicjacket70-062_himawari-jacket.png",
-            "answer1": "21",
-            "answer2": "20",
-            "answer3": "22",
-            "answer4": "23"
-        },
-        {
-            "type": "song",
-            "quiz": "이 노래의 EXPERT 난이도는?",
-            "quizImage": "https://bestdori.com/assets/kr/musicjacket/musicjacket50_rip/assets-star-forassetbundle-startapp-musicjacket-musicjacket50-kimimora-jacket.png",
-            "answer1": "21",
-            "answer2": "22",
-            "answer3": "23",
-            "answer4": "24"
-        },
-        {
-            "type": "song",
-            "quiz": "이 노래의 EXPERT 난이도는?",
-            "quizImage": "https://bestdori.com/assets/kr/musicjacket/musicjacket170_rip/assets-star-forassetbundle-startapp-musicjacket-musicjacket170-162_kanade-jacket.png",
-            "answer1": "22",
-            "answer2": "23",
-            "answer3": "24",
-            "answer4": "25"
-        },
-        {
-            "type": "song",
-            "quiz": "이 노래의 EXPERT 난이도는?",
-            "quizImage": "https://bestdori.com/assets/kr/musicjacket/musicjacket120_rip/assets-star-forassetbundle-startapp-musicjacket-musicjacket120-115_wata_choco-jacket.png",
-            "answer1": "22",
-            "answer2": "23",
-            "answer3": "24",
-            "answer4": "25"
-        },
-        {
-            "type": "song",
-            "quiz": "이 노래의 EXPERT 난이도는?",
-            "quizImage": "https://bestdori.com/assets/kr/musicjacket/musicjacket10_rip/assets-star-forassetbundle-startapp-musicjacket-musicjacket10-yes_bang_dream-jacket.png",
-            "answer1": "22",
-            "answer2": "23",
-            "answer3": "24",
-            "answer4": "25"
-        },
-        {
-            "type": "song",
-            "quiz": "이 노래의 EXPERT 난이도는?",
-            "quizImage": "https://bestdori.com/assets/jp/musicjacket/musicjacket270_rip/assets-star-forassetbundle-startapp-musicjacket-musicjacket270-264_winking-jacket.png",
-            "answer1": "23",
-            "answer2": "22",
-            "answer3": "24",
-            "answer4": "25"
-        },
-        {
-            "type": "song",
-            "quiz": "이 노래의 EXPERT 난이도는?",
-            "quizImage": "https://bestdori.com/assets/kr/musicjacket/musicjacket160_rip/assets-star-forassetbundle-startapp-musicjacket-musicjacket160-156_rambling-jacket.png",
-            "answer1": "23",
-            "answer2": "24",
-            "answer3": "25",
-            "answer4": "26"
-        },
-        {
-            "type": "song",
-            "quiz": "이 노래의 EXPERT 난이도는?",
-            "quizImage": "https://bestdori.com/assets/kr/musicjacket/musicjacket90_rip/assets-star-forassetbundle-startapp-musicjacket-musicjacket90-088_dragon_night-jacket.png",
-            "answer1": "23",
-            "answer2": "22",
-            "answer3": "24",
-            "answer4": "25"
-        },
-        {
-            "type": "song",
-            "quiz": "이 노래의 EXPERT 난이도는?",
-            "quizImage": "https://bestdori.com/assets/kr/musicjacket/musicjacket80_rip/assets-star-forassetbundle-startapp-musicjacket-musicjacket80-079_sekaochi-jacket.png",
-            "answer1": "23",
-            "answer2": "24",
-            "answer3": "25",
-            "answer4": "26"
-        },
-        {
-            "type": "song",
-            "quiz": "이 노래의 EXPERT 난이도는?",
-            "quizImage": "https://bestdori.com/assets/kr/musicjacket/musicjacket50_rip/assets-star-forassetbundle-startapp-musicjacket-musicjacket50-sobakasu-jacket.png",
-            "answer1": "23",
-            "answer2": "24",
-            "answer3": "25",
-            "answer4": "26"
-        },
-        {
-            "type": "song",
-            "quiz": "이 노래의 EXPERT 난이도는?",
-            "quizImage": "https://bestdori.com/assets/kr/musicjacket/musicjacket50_rip/assets-star-forassetbundle-startapp-musicjacket-musicjacket50-hikarunara-jacket.png",
-            "answer1": "23",
-            "answer2": "22",
-            "answer3": "24",
-            "answer4": "25"
-        },
-        {
-            "type": "song",
-            "quiz": "이 노래의 EXPERT 난이도는?",
-            "quizImage": "https://bestdori.com/assets/kr/musicjacket/musicjacket40_rip/assets-star-forassetbundle-startapp-musicjacket-musicjacket40-egaoke-jacket.png",
-            "answer1": "23",
-            "answer2": "22",
-            "answer3": "24",
-            "answer4": "25"
-        },
-        {
-            "type": "song",
-            "quiz": "이 노래의 EXPERT 난이도는?",
-            "quizImage": "https://bestdori.com/assets/kr/musicjacket/musicjacket230_rip/assets-star-forassetbundle-startapp-musicjacket-musicjacket230-228_stayalive-jacket.png",
-            "answer1": "23",
-            "answer2": "24",
-            "answer3": "25",
-            "answer4": "26"
-        },
-        {
-            "type": "song",
-            "quiz": "이 노래의 EXPERT 난이도는?",
-            "quizImage": "https://i.bandori.party/u/s/233White-Afternoon-0KcWm0.png",
-            "answer1": "24",
-            "answer2": "23",
-            "answer3": "25",
-            "answer4": "26"
-        },
-        {
-            "type": "song",
-            "quiz": "이 노래의 EXPERT 난이도는?",
-            "quizImage": "https://bestdori.com/assets/jp/musicjacket/musicjacket280_rip/assets-star-forassetbundle-startapp-musicjacket-musicjacket280-280_mikketa-jacket.png",
-            "answer1": "24",
-            "answer2": "23",
-            "answer3": "25",
-            "answer4": "26"
-        },
-        {
-            "type": "song",
-            "quiz": "이 노래의 EXPERT 난이도는?",
-            "quizImage": "https://bestdori.com/assets/kr/musicjacket/musicjacket220_rip/assets-star-forassetbundle-startapp-musicjacket-musicjacket220-212_smilebouque-jacket.png",
-            "answer1": "24",
-            "answer2": "23",
-            "answer3": "25",
-            "answer4": "26"
-        },
-        {
-            "type": "song",
-            "quiz": "이 노래의 EXPERT 난이도는?",
-            "quizImage": "https://bestdori.com/assets/kr/musicjacket/musicjacket210_rip/assets-star-forassetbundle-startapp-musicjacket-musicjacket210-205_aoishiori-jacket.png",
-            "answer1": "24",
-            "answer2": "23",
-            "answer3": "25",
-            "answer4": "26"
-        },
-        {
-            "type": "song",
-            "quiz": "이 노래의 EXPERT 난이도는?",
-            "quizImage": "https://bestdori.com/assets/kr/musicjacket/musicjacket170_rip/assets-star-forassetbundle-startapp-musicjacket-musicjacket170-168_safe_sound-jacket.png",
-            "answer1": "24",
-            "answer2": "25",
-            "answer3": "26",
-            "answer4": "27"
-        },
-        {
-            "type": "song",
-            "quiz": "이 노래의 EXPERT 난이도는?",
-            "quizImage": "https://bestdori.com/assets/kr/musicjacket/musicjacket120_rip/assets-star-forassetbundle-startapp-musicjacket-musicjacket120-116_kimagure-jacket.png",
-            "answer1": "24",
-            "answer2": "25",
-            "answer3": "26",
-            "answer4": "27"
-        },
-        {
-            "type": "song",
-            "quiz": "이 노래의 EXPERT 난이도는?",
-            "quizImage": "https://bestdori.com/assets/kr/musicjacket/musicjacket110_rip/assets-star-forassetbundle-startapp-musicjacket-musicjacket110-105_shangrila-jacket.png",
-            "answer1": "24",
-            "answer2": "25",
-            "answer3": "26",
-            "answer4": "27"
-        },
-        {
-            "type": "song",
-            "quiz": "이 노래의 EXPERT 난이도는?",
-            "quizImage": "https://bestdori.com/assets/kr/musicjacket/musicjacket100_rip/assets-star-forassetbundle-startapp-musicjacket-musicjacket100-100_melancholic-jacket.png",
-            "answer1": "24",
-            "answer2": "23",
-            "answer3": "25",
-            "answer4": "26"
-        },
-        {
-            "type": "song",
-            "quiz": "이 노래의 EXPERT 난이도는?",
-            "quizImage": "https://bestdori.com/assets/kr/musicjacket/musicjacket70_rip/assets-star-forassetbundle-startapp-musicjacket-musicjacket70-064_if-jacket.png",
-            "answer1": "24",
-            "answer2": "23",
-            "answer3": "25",
-            "answer4": "26"
-        },
-        {
-            "type": "song",
-            "quiz": "이 노래의 EXPERT 난이도는?",
-            "quizImage": "https://bestdori.com/assets/kr/musicjacket/musicjacket70_rip/assets-star-forassetbundle-startapp-musicjacket-musicjacket70-061_natsudon-jacket.png",
-            "answer1": "24",
-            "answer2": "25",
-            "answer3": "26",
-            "answer4": "27"
-        },
-        {
-            "type": "song",
-            "quiz": "이 노래의 EXPERT 난이도는?",
-            "quizImage": "https://bestdori.com/assets/kr/musicjacket/musicjacket60_rip/assets-star-forassetbundle-startapp-musicjacket-musicjacket60-060_ring_dong_dance-jacket.png",
-            "answer1": "24",
-            "answer2": "23",
-            "answer3": "25",
-            "answer4": "26"
-        },
-        {
-            "type": "song",
-            "quiz": "이 노래의 EXPERT 난이도는?",
-            "quizImage": "https://bestdori.com/assets/kr/musicjacket/musicjacket60_rip/assets-star-forassetbundle-startapp-musicjacket-musicjacket60-051_singout-jacket.png",
-            "answer1": "24",
-            "answer2": "25",
-            "answer3": "26",
-            "answer4": "27"
-        },
-        {
-            "type": "song",
-            "quiz": "이 노래의 EXPERT 난이도는?",
-            "quizImage": "https://bestdori.com/assets/kr/musicjacket/musicjacket20_rip/assets-star-forassetbundle-startapp-musicjacket-musicjacket20-butterfly-jacket.png",
-            "answer1": "24",
-            "answer2": "23",
-            "answer3": "25",
-            "answer4": "26"
-        },
-        {
-            "type": "song",
-            "quiz": "이 노래의 EXPERT 난이도는?",
-            "quizImage": "https://bestdori.com/assets/kr/musicjacket/musicjacket250_rip/assets-star-forassetbundle-startapp-musicjacket-musicjacket250-246_doremifa-jacket.png",
-            "answer1": "24",
-            "answer2": "22",
-            "answer3": "23",
-            "answer4": "25"
-        },
-        {
-            "type": "song",
-            "quiz": "이 노래의 EXPERT 난이도는?",
-            "quizImage": "https://bestdori.com/assets/kr/musicjacket/musicjacket170_rip/assets-star-forassetbundle-startapp-musicjacket-musicjacket170-161_moon_road-jacket.png",
-            "answer1": "24",
-            "answer2": "23",
-            "answer3": "25",
-            "answer4": "26"
-        },
-        {
-            "type": "song",
-            "quiz": "이 노래의 EXPERT 난이도는?",
-            "quizImage": "https://i.bandori.party/u/s/297sister-s-noise-HMvq28.png",
-            "answer1": "25",
-            "answer2": "24",
-            "answer3": "26",
-            "answer4": "27"
-        },
-        {
-            "type": "song",
-            "quiz": "이 노래의 EXPERT 난이도는?",
-            "quizImage": "https://bestdori.com/assets/kr/musicjacket/musicjacket280_rip/assets-star-forassetbundle-startapp-musicjacket-musicjacket280-274_nostalgic-jacket.png",
-            "answer1": "25",
-            "answer2": "23",
-            "answer3": "24",
-            "answer4": "26"
-        },
-        {
-            "type": "song",
-            "quiz": "이 노래의 EXPERT 난이도는?",
-            "quizImage": "https://bestdori.com/assets/kr/musicjacket/musicjacket230_rip/assets-star-forassetbundle-startapp-musicjacket-musicjacket230-230_omoide-jacket.png",
-            "answer1": "25",
-            "answer2": "23",
-            "answer3": "24",
-            "answer4": "26"
-        },
-        {
-            "type": "song",
-            "quiz": "이 노래의 EXPERT 난이도는?",
-            "quizImage": "https://bestdori.com/assets/kr/musicjacket/musicjacket150_rip/assets-star-forassetbundle-startapp-musicjacket-musicjacket150-147_no_alone-jacket.png",
-            "answer1": "25",
-            "answer2": "24",
-            "answer3": "26",
-            "answer4": "27"
-        },
-        {
-            "type": "song",
-            "quiz": "이 노래의 EXPERT 난이도는?",
-            "quizImage": "https://bestdori.com/assets/jp/musicjacket/musicjacket300_rip/assets-star-forassetbundle-startapp-musicjacket-musicjacket300-294_photograph-jacket.png",
-            "answer1": "25",
-            "answer2": "24",
-            "answer3": "26",
-            "answer4": "27"
-        },
-        {
-            "type": "song",
-            "quiz": "이 노래의 EXPERT 난이도는?",
-            "quizImage": "https://bestdori.com/assets/kr/musicjacket/musicjacket250_rip/assets-star-forassetbundle-startapp-musicjacket-musicjacket250-244_stepstep-jacket.png",
-            "answer1": "25",
-            "answer2": "23",
-            "answer3": "24",
-            "answer4": "26"
-        },
-        {
-            "type": "song",
-            "quiz": "이 노래의 EXPERT 난이도는?",
-            "quizImage": "https://bestdori.com/assets/kr/musicjacket/musicjacket150_rip/assets-star-forassetbundle-startapp-musicjacket-musicjacket150-142_sanctuary-jacket.png",
-            "answer1": "25",
-            "answer2": "24",
-            "answer3": "26",
-            "answer4": "27"
-        },
-        {
-            "type": "song",
-            "quiz": "이 노래의 EXPERT 난이도는?",
-            "quizImage": "https://bestdori.com/assets/kr/musicjacket/musicjacket140_rip/assets-star-forassetbundle-startapp-musicjacket-musicjacket140-133_kimino_kioku-jacket.png",
-            "answer1": "25",
-            "answer2": "23",
-            "answer3": "24",
-            "answer4": "26"
-        },
-        {
-            "type": "song",
-            "quiz": "이 노래의 EXPERT 난이도는?",
-            "quizImage": "https://bestdori.com/assets/kr/musicjacket/musicjacket120_rip/assets-star-forassetbundle-startapp-musicjacket-musicjacket120-120_days-jacket.png",
-            "answer1": "25",
-            "answer2": "23",
-            "answer3": "24",
-            "answer4": "26"
-        },
-        {
-            "type": "song",
-            "quiz": "이 노래의 EXPERT 난이도는?",
-            "quizImage": "https://bestdori.com/assets/kr/musicjacket/musicjacket120_rip/assets-star-forassetbundle-startapp-musicjacket-musicjacket120-119_legendary-jacket.png",
-            "answer1": "25",
-            "answer2": "24",
-            "answer3": "26",
-            "answer4": "27"
-        },
-        {
-            "type": "song",
-            "quiz": "이 노래의 EXPERT 난이도는?",
-            "quizImage": "https://bestdori.com/assets/kr/musicjacket/musicjacket110_rip/assets-star-forassetbundle-startapp-musicjacket-musicjacket110-106_wonderlandgirl-jacket.png",
-            "answer1": "25",
-            "answer2": "24",
-            "answer3": "26",
-            "answer4": "27"
-        },
-        {
-            "type": "song",
-            "quiz": "이 노래의 EXPERT 난이도는?",
-            "quizImage": "https://bestdori.com/assets/kr/musicjacket/musicjacket110_rip/assets-star-forassetbundle-startapp-musicjacket-musicjacket110-101_sakura_skip-jacket.png",
-            "answer1": "25",
-            "answer2": "24",
-            "answer3": "26",
-            "answer4": "27"
-        },
-        {
-            "type": "song",
-            "quiz": "이 노래의 EXPERT 난이도는?",
-            "quizImage": "https://bestdori.com/assets/kr/musicjacket/musicjacket90_rip/assets-star-forassetbundle-startapp-musicjacket-musicjacket90-083_pride_kakumei-jacket.png",
-            "answer1": "25",
-            "answer2": "24",
-            "answer3": "26",
-            "answer4": "27"
-        },
-        {
-            "type": "song",
-            "quiz": "이 노래의 EXPERT 난이도는?",
-            "quizImage": "https://bestdori.com/assets/kr/musicjacket/musicjacket90_rip/assets-star-forassetbundle-startapp-musicjacket-musicjacket90-090_quintuple_smile-jacket.png",
-            "answer1": "25",
-            "answer2": "23",
-            "answer3": "24",
-            "answer4": "26"
-        },
-        {
-            "type": "song",
-            "quiz": "이 노래의 EXPERT 난이도는?",
-            "quizImage": "https://bestdori.com/assets/kr/musicjacket/musicjacket100_rip/assets-star-forassetbundle-startapp-musicjacket-musicjacket100-091_xmas-jacket.png",
-            "answer1": "25",
-            "answer2": "23",
-            "answer3": "24",
-            "answer4": "26"
-        },
-        {
-            "type": "song",
-            "quiz": "이 노래의 EXPERT 난이도는?",
-            "quizImage": "https://bestdori.com/assets/kr/musicjacket/musicjacket80_rip/assets-star-forassetbundle-startapp-musicjacket-musicjacket80-074_heart_beat-jacket.png",
-            "answer1": "25",
-            "answer2": "23",
-            "answer3": "24",
-            "answer4": "26"
-        },
-        {
-            "type": "song",
-            "quiz": "이 노래의 EXPERT 난이도는?",
-            "quizImage": "https://bestdori.com/assets/kr/musicjacket/musicjacket70_rip/assets-star-forassetbundle-startapp-musicjacket-musicjacket70-068_y_s_c-jacket.png",
-            "answer1": "25",
-            "answer2": "24",
-            "answer3": "26",
-            "answer4": "27"
-        },
-        {
-            "type": "song",
-            "quiz": "이 노래의 EXPERT 난이도는?",
-            "quizImage": "https://bestdori.com/assets/kr/musicjacket/musicjacket60_rip/assets-star-forassetbundle-startapp-musicjacket-musicjacket60-053_hidamari-jacket.png",
-            "answer1": "25",
-            "answer2": "24",
-            "answer3": "26",
-            "answer4": "27"
-        },
-        {
-            "type": "song",
-            "quiz": "이 노래의 EXPERT 난이도는?",
-            "quizImage": "https://bestdori.com/assets/kr/musicjacket/musicjacket40_rip/assets-star-forassetbundle-startapp-musicjacket-musicjacket40-hanamaru-jacket.png",
-            "answer1": "25",
-            "answer2": "23",
-            "answer3": "24",
-            "answer4": "26"
-        },
-        {
-            "type": "song",
-            "quiz": "이 노래의 EXPERT 난이도는?",
-            "quizImage": "https://bestdori.com/assets/kr/musicjacket/musicjacket50_rip/assets-star-forassetbundle-startapp-musicjacket-musicjacket50-seikai-jacket.png",
-            "answer1": "25",
-            "answer2": "24",
-            "answer3": "26",
-            "answer4": "27"
-        },
-        {
-            "type": "song",
-            "quiz": "이 노래의 EXPERT 난이도는?",
-            "quizImage": "https://bestdori.com/assets/kr/musicjacket/musicjacket30_rip/assets-star-forassetbundle-startapp-musicjacket-musicjacket30-silhouette-jacket.png",
-            "answer1": "25",
-            "answer2": "23",
-            "answer3": "24",
-            "answer4": "26"
-        },
-        {
-            "type": "song",
-            "quiz": "이 노래의 EXPERT 난이도는?",
-            "quizImage": "https://bestdori.com/assets/kr/musicjacket/musicjacket40_rip/assets-star-forassetbundle-startapp-musicjacket-musicjacket40-happiness-jacket.png",
-            "answer1": "25",
-            "answer2": "24",
-            "answer3": "26",
-            "answer4": "27"
-        },
-        {
-            "type": "song",
-            "quiz": "이 노래의 EXPERT 난이도는?",
-            "quizImage": "https://bestdori.com/assets/kr/musicjacket/musicjacket40_rip/assets-star-forassetbundle-startapp-musicjacket-musicjacket40-paspare-jacket.png",
-            "answer1": "25",
-            "answer2": "24",
-            "answer3": "26",
-            "answer4": "27"
-        },
-        {
-            "type": "song",
-            "quiz": "이 노래의 EXPERT 난이도는?",
-            "quizImage": "https://bestdori.com/assets/kr/musicjacket/musicjacket30_rip/assets-star-forassetbundle-startapp-musicjacket-musicjacket30-true_color-jacket.png",
-            "answer1": "25",
-            "answer2": "26",
-            "answer3": "27",
-            "answer4": "28"
-        },
-        {
-            "type": "song",
-            "quiz": "이 노래의 EXPERT 난이도는?",
-            "quizImage": "https://bestdori.com/assets/kr/musicjacket/musicjacket20_rip/assets-star-forassetbundle-startapp-musicjacket-musicjacket20-refrain-jacket.png",
-            "answer1": "25",
-            "answer2": "23",
-            "answer3": "24",
-            "answer4": "26"
-        },
-        {
-            "type": "song",
-            "quiz": "이 노래의 EXPERT 난이도는?",
-            "quizImage": "https://bestdori.com/assets/jp/musicjacket/musicjacket290_rip/assets-star-forassetbundle-startapp-musicjacket-musicjacket290-281_migikata-jacket.png",
-            "answer1": "25",
-            "answer2": "26",
-            "answer3": "27",
-            "answer4": "28"
-        },
-        {
-            "type": "song",
-            "quiz": "이 노래의 EXPERT 난이도는?",
-            "quizImage": "https://bestdori.com/assets/jp/musicjacket/musicjacket270_rip/assets-star-forassetbundle-startapp-musicjacket-musicjacket270-265_miraitrain-jacket.png",
-            "answer1": "25",
-            "answer2": "23",
-            "answer3": "24",
-            "answer4": "26"
-        },
-        {
-            "type": "song",
-            "quiz": "이 노래의 EXPERT 난이도는?",
-            "quizImage": "https://bestdori.com/assets/jp/musicjacket/musicjacket260_rip/assets-star-forassetbundle-startapp-musicjacket-musicjacket260-256_prelude-jacket.png",
-            "answer1": "25",
-            "answer2": "23",
-            "answer3": "24",
-            "answer4": "26"
-        },
-        {
-            "type": "song",
-            "quiz": "이 노래의 EXPERT 난이도는?",
-            "quizImage": "https://bestdori.com/assets/kr/musicjacket/musicjacket230_rip/assets-star-forassetbundle-startapp-musicjacket-musicjacket230-225_bluebird-jacket.png",
-            "answer1": "25",
-            "answer2": "24",
-            "answer3": "26",
-            "answer4": "27"
-        },
-        {
-            "type": "song",
-            "quiz": "이 노래의 EXPERT 난이도는?",
-            "quizImage": "https://bestdori.com/assets/kr/musicjacket/musicjacket230_rip/assets-star-forassetbundle-startapp-musicjacket-musicjacket230-221_korekara-jacket.png",
-            "answer1": "25",
-            "answer2": "23",
-            "answer3": "24",
-            "answer4": "26"
-        },
-        {
-            "type": "song",
-            "quiz": "이 노래의 EXPERT 난이도는?",
-            "quizImage": "https://bestdori.com/assets/kr/musicjacket/musicjacket200_rip/assets-star-forassetbundle-startapp-musicjacket-musicjacket200-200_yakusoku-jacket.png",
-            "answer1": "25",
-            "answer2": "23",
-            "answer3": "24",
-            "answer4": "26"
-        },
-        {
-            "type": "song",
-            "quiz": "이 노래의 EXPERT 난이도는?",
-            "quizImage": "https://bestdori.com/assets/kr/musicjacket/musicjacket180_rip/assets-star-forassetbundle-startapp-musicjacket-musicjacket180-180_returns-jacket.png",
-            "answer1": "25",
-            "answer2": "24",
-            "answer3": "26",
-            "answer4": "27"
-        },
-        {
-            "type": "song",
-            "quiz": "이 노래의 EXPERT 난이도는?",
-            "quizImage": "https://bestdori.com/assets/kr/musicjacket/musicjacket60_rip/assets-star-forassetbundle-startapp-musicjacket-musicjacket60-057_denki_guiter-jacket.png",
-            "answer1": "26",
-            "answer2": "24",
-            "answer3": "25",
-            "answer4": "27"
-        },
-        {
-            "type": "song",
-            "quiz": "이 노래의 EXPERT 난이도는?",
-            "quizImage": "https://i.bandori.party/u/s/266EXPOSE-Burn-out-IbzEG2.png",
-            "answer1": "26",
-            "answer2": "25",
-            "answer3": "27",
-            "answer4": "28"
-        },
-        {
-            "type": "song",
-            "quiz": "이 노래의 EXPERT 난이도는?",
-            "quizImage": "https://bestdori.com/assets/jp/musicjacket/musicjacket280_rip/assets-star-forassetbundle-startapp-musicjacket-musicjacket280-275_final_phase-jacket.png",
-            "answer1": "26",
-            "answer2": "24",
-            "answer3": "25",
-            "answer4": "27"
-        },
-        {
-            "type": "song",
-            "quiz": "이 노래의 EXPERT 난이도는?",
-            "quizImage": "https://bestdori.com/assets/kr/musicjacket/musicjacket270_rip/assets-star-forassetbundle-startapp-musicjacket-musicjacket270-261_gunjo-jacket.png",
-            "answer1": "26",
-            "answer2": "24",
-            "answer3": "25",
-            "answer4": "27"
-        },
-        {
-            "type": "song",
-            "quiz": "이 노래의 EXPERT 난이도는?",
-            "quizImage": "https://i.bandori.party/u/s/264Blessing-Chord-w230v5.png",
-            "answer1": "26",
-            "answer2": "25",
-            "answer3": "27",
-            "answer4": "28"
-        },
-        {
-            "type": "song",
-            "quiz": "이 노래의 EXPERT 난이도는?",
-            "quizImage": "https://bestdori.com/assets/jp/musicjacket/musicjacket260_rip/assets-star-forassetbundle-startapp-musicjacket-musicjacket260-251_i_love_your_way-jacket.png",
-            "answer1": "26",
-            "answer2": "24",
-            "answer3": "25",
-            "answer4": "27"
-        },
-        {
-            "type": "song",
-            "quiz": "이 노래의 EXPERT 난이도는?",
-            "quizImage": "https://bestdori.com/assets/kr/musicjacket/musicjacket200_rip/assets-star-forassetbundle-startapp-musicjacket-musicjacket200-197_niconicosmaile-jacket.png",
-            "answer1": "26",
-            "answer2": "24",
-            "answer3": "25",
-            "answer4": "27"
-        },
-        {
-            "type": "song",
-            "quiz": "이 노래의 EXPERT 난이도는?",
-            "quizImage": "https://bestdori.com/assets/kr/musicjacket/musicjacket140_rip/assets-star-forassetbundle-startapp-musicjacket-musicjacket140-134_reach_out-jacket.png",
-            "answer1": "26",
-            "answer2": "24",
-            "answer3": "25",
-            "answer4": "27"
-        },
-        {
-            "type": "song",
-            "quiz": "이 노래의 EXPERT 난이도는?",
-            "quizImage": "https://bestdori.com/assets/kr/musicjacket/musicjacket130_rip/assets-star-forassetbundle-startapp-musicjacket-musicjacket130-130_saikou-jacket.png",
-            "answer1": "26",
-            "answer2": "24",
-            "answer3": "25",
-            "answer4": "27"
-        },
-        {
-            "type": "song",
-            "quiz": "이 노래의 EXPERT 난이도는?",
-            "quizImage": "https://bestdori.com/assets/kr/musicjacket/musicjacket130_rip/assets-star-forassetbundle-startapp-musicjacket-musicjacket130-129_fantastic_future-jacket.png",
-            "answer1": "26",
-            "answer2": "23",
-            "answer3": "24",
-            "answer4": "25"
-        },
-        {
-            "type": "song",
-            "quiz": "이 노래의 EXPERT 난이도는?",
-            "quizImage": "https://bestdori.com/assets/kr/musicjacket/musicjacket130_rip/assets-star-forassetbundle-startapp-musicjacket-musicjacket130-126_existence-jacket.png",
-            "answer1": "26",
-            "answer2": "24",
-            "answer3": "25",
-            "answer4": "27"
-        },
-        {
-            "type": "song",
-            "quiz": "이 노래의 EXPERT 난이도는?",
-            "quizImage": "https://bestdori.com/assets/kr/musicjacket/musicjacket100_rip/assets-star-forassetbundle-startapp-musicjacket-musicjacket100-094_koushinkyoku-jacket.png",
-            "answer1": "26",
-            "answer2": "24",
-            "answer3": "25",
-            "answer4": "27"
-        },
-        {
-            "type": "song",
-            "quiz": "이 노래의 EXPERT 난이도는?",
-            "quizImage": "https://bestdori.com/assets/kr/musicjacket/musicjacket80_rip/assets-star-forassetbundle-startapp-musicjacket-musicjacket80-071_red_fraction-jacket.png",
-            "answer1": "26",
-            "answer2": "25",
-            "answer3": "27",
-            "answer4": "28"
-        },
-        {
-            "type": "song",
-            "quiz": "이 노래의 EXPERT 난이도는?",
-            "quizImage": "https://bestdori.com/assets/kr/musicjacket/musicjacket70_rip/assets-star-forassetbundle-startapp-musicjacket-musicjacket70-070_survivor-jacket.png",
-            "answer1": "26",
-            "answer2": "24",
-            "answer3": "25",
-            "answer4": "27"
-        },
-        {
-            "type": "song",
-            "quiz": "이 노래의 EXPERT 난이도는?",
-            "quizImage": "https://bestdori.com/assets/kr/musicjacket/musicjacket70_rip/assets-star-forassetbundle-startapp-musicjacket-musicjacket70-069_sekanobi-jacket.png",
-            "answer1": "26",
-            "answer2": "24",
-            "answer3": "25",
-            "answer4": "27"
-        },
-        {
-            "type": "song",
-            "quiz": "이 노래의 EXPERT 난이도는?",
-            "quizImage": "https://bestdori.com/assets/kr/musicjacket/musicjacket80_rip/assets-star-forassetbundle-startapp-musicjacket-musicjacket80-073_time_lapse-jacket.png",
-            "answer1": "26",
-            "answer2": "23",
-            "answer3": "24",
-            "answer4": "27"
-        },
-        {
-            "type": "song",
-            "quiz": "이 노래의 EXPERT 난이도는?",
-            "quizImage": "https://bestdori.com/assets/kr/musicjacket/musicjacket60_rip/assets-star-forassetbundle-startapp-musicjacket-musicjacket60-052_hapisama-jacket.png",
-            "answer1": "26",
-            "answer2": "24",
-            "answer3": "25",
-            "answer4": "27"
-        },
-        {
-            "type": "song",
-            "quiz": "이 노래의 EXPERT 난이도는?",
-            "quizImage": "https://bestdori.com/assets/kr/musicjacket/musicjacket50_rip/assets-star-forassetbundle-startapp-musicjacket-musicjacket50-tentaikansoku-jacket.png",
-            "answer1": "26",
-            "answer2": "23",
-            "answer3": "24",
-            "answer4": "25"
-        },
-        {
-            "type": "song",
-            "quiz": "이 노래의 EXPERT 난이도는?",
-            "quizImage": "https://bestdori.com/assets/kr/musicjacket/musicjacket30_rip/assets-star-forassetbundle-startapp-musicjacket-musicjacket30-i-aru-jacket.png",
-            "answer1": "26",
-            "answer2": "24",
-            "answer3": "25",
-            "answer4": "27"
-        },
-        {
-            "type": "song",
-            "quiz": "이 노래의 EXPERT 난이도는?",
-            "quizImage": "https://bestdori.com/assets/kr/musicjacket/musicjacket20_rip/assets-star-forassetbundle-startapp-musicjacket-musicjacket20-drepare-jacket.png",
-            "answer1": "26",
-            "answer2": "24",
-            "answer3": "25",
-            "answer4": "27"
-        },
-        {
-            "type": "song",
-            "quiz": "이 노래의 EXPERT 난이도는?",
-            "quizImage": "https://bestdori.com/assets/kr/musicjacket/musicjacket20_rip/assets-star-forassetbundle-startapp-musicjacket-musicjacket20-karma-jacket.png",
-            "answer1": "26",
-            "answer2": "23",
-            "answer3": "24",
-            "answer4": "25"
-        },
-        {
-            "type": "song",
-            "quiz": "이 노래의 EXPERT 난이도는?",
-            "quizImage": "https://bestdori.com/assets/jp/musicjacket/musicjacket300_rip/assets-star-forassetbundle-startapp-musicjacket-musicjacket300-299_rolling_star-jacket.png",
-            "answer1": "26",
-            "answer2": "24",
-            "answer3": "25",
-            "answer4": "27"
-        },
-        {
-            "type": "song",
-            "quiz": "이 노래의 EXPERT 난이도는?",
-            "quizImage": "https://bestdori.com/assets/jp/musicjacket/musicjacket300_rip/assets-star-forassetbundle-startapp-musicjacket-musicjacket300-293_one_of_us-jacket.png",
-            "answer1": "26",
-            "answer2": "25",
-            "answer3": "27",
-            "answer4": "28"
-        },
-        {
-            "type": "song",
-            "quiz": "이 노래의 EXPERT 난이도는?",
-            "quizImage": "https://bestdori.com/assets/jp/musicjacket/musicjacket290_rip/assets-star-forassetbundle-startapp-musicjacket-musicjacket290-288_beautiful_birthday-jacket.png",
-            "answer1": "26",
-            "answer2": "25",
-            "answer3": "27",
-            "answer4": "28"
-        },
-        {
-            "type": "song",
-            "quiz": "이 노래의 EXPERT 난이도는?",
-            "quizImage": "https://bestdori.com/assets/jp/musicjacket/musicjacket270_rip/assets-star-forassetbundle-startapp-musicjacket-musicjacket270-270_redredred-jacket.png",
-            "answer1": "26",
-            "answer2": "24",
-            "answer3": "25",
-            "answer4": "27"
-        },
-        {
-            "type": "song",
-            "quiz": "이 노래의 EXPERT 난이도는?",
-            "quizImage": "https://bestdori.com/assets/kr/musicjacket/musicjacket260_rip/assets-star-forassetbundle-startapp-musicjacket-musicjacket260-260_rukaruka-jacket.png",
-            "answer1": "26",
-            "answer2": "23",
-            "answer3": "24",
-            "answer4": "25"
-        },
-        {
-            "type": "song",
-            "quiz": "이 노래의 EXPERT 난이도는?",
-            "quizImage": "https://i.bandori.party/u/asset/k/1396Egao-Sing-A-Song-Original-In-Game-Cover-U0rp1W.png",
-            "answer1": "27",
-            "answer2": "24",
-            "answer3": "25",
-            "answer4": "26"
-        },
-        {
-            "type": "song",
-            "quiz": "이 노래의 EXPERT 난이도는?",
-            "quizImage": "https://i.bandori.party/u/s/289Nevereverland-kqwS2L.png",
-            "answer1": "27",
-            "answer2": "25",
-            "answer3": "26",
-            "answer4": "28"
-        },
-        {
-            "type": "song",
-            "quiz": "이 노래의 EXPERT 난이도는?",
-            "quizImage": "https://bestdori.com/assets/kr/musicjacket/musicjacket300_rip/assets-star-forassetbundle-startapp-musicjacket-musicjacket300-296_setsunatrip-jacket.png",
-            "answer1": "27",
-            "answer2": "25",
-            "answer3": "26",
-            "answer4": "28"
-        },
-        {
-            "type": "song",
-            "quiz": "이 노래의 EXPERT 난이도는?",
-            "quizImage": "https://bestdori.com/assets/jp/musicjacket/musicjacket290_rip/assets-star-forassetbundle-startapp-musicjacket-musicjacket290-289_invadeshow-jacket.png",
-            "answer1": "27",
-            "answer2": "26",
-            "answer3": "27",
-            "answer4": "28"
-        },
-        {
-            "type": "song",
-            "quiz": "이 노래의 EXPERT 난이도는?",
-            "quizImage": "https://bestdori.com/assets/kr/musicjacket/musicjacket160_rip/assets-star-forassetbundle-startapp-musicjacket-musicjacket160-153_passionate-jacket.png",
-            "answer1": "27",
-            "answer2": "24",
-            "answer3": "25",
-            "answer4": "26"
-        },
-        {
-            "type": "song",
-            "quiz": "이 노래의 EXPERT 난이도는?",
-            "quizImage": "https://bestdori.com/assets/kr/musicjacket/musicjacket110_rip/assets-star-forassetbundle-startapp-musicjacket-musicjacket110-109_this_game-jacket.png",
-            "answer1": "27",
-            "answer2": "25",
-            "answer3": "26",
-            "answer4": "28"
-        },
-        {
-            "type": "song",
-            "quiz": "이 노래의 EXPERT 난이도는?",
-            "quizImage": "https://bestdori.com/assets/kr/musicjacket/musicjacket80_rip/assets-star-forassetbundle-startapp-musicjacket-musicjacket80-076_symphony-jacket.png",
-            "answer1": "27",
-            "answer2": "25",
-            "answer3": "26",
-            "answer4": "28"
-        },
-        {
-            "type": "song",
-            "quiz": "이 노래의 EXPERT 난이도는?",
-            "quizImage": "https://bestdori.com/assets/kr/musicjacket/musicjacket40_rip/assets-star-forassetbundle-startapp-musicjacket-musicjacket40-louder-jacket.png",
-            "answer1": "27",
-            "answer2": "25",
-            "answer3": "26",
-            "answer4": "28"
-        },
-        {
-            "type": "song",
-            "quiz": "이 노래의 EXPERT 난이도는?",
-            "quizImage": "https://bestdori.com/assets/jp/musicjacket/musicjacket310_rip/assets-star-forassetbundle-startapp-musicjacket-musicjacket310-301_mind_of_prominence-jacket.png",
-            "answer1": "27",
-            "answer2": "25",
-            "answer3": "26",
-            "answer4": "28"
-        },
-        {
-            "type": "song",
-            "quiz": "이 노래의 EXPERT 난이도는?",
-            "quizImage": "https://bestdori.com/assets/jp/musicjacket/musicjacket300_rip/assets-star-forassetbundle-startapp-musicjacket-musicjacket300-291_zeal_of_proud-jacket.png",
-            "answer1": "27",
-            "answer2": "24",
-            "answer3": "25",
-            "answer4": "26"
-        },
-        {
-            "type": "song",
-            "quiz": "이 노래의 EXPERT 난이도는?",
-            "quizImage": "https://bestdori.com/assets/kr/musicjacket/musicjacket250_rip/assets-star-forassetbundle-startapp-musicjacket-musicjacket250-245_songiam-jacket.png",
-            "answer1": "27",
-            "answer2": "25",
-            "answer3": "26",
-            "answer4": "28"
-        },
-        {
-            "type": "song",
-            "quiz": "이 노래의 EXPERT 난이도는?",
-            "quizImage": "https://bestdori.com/assets/kr/musicjacket/musicjacket100_rip/assets-star-forassetbundle-startapp-musicjacket-musicjacket100-097_wasteland-jacket.png",
-            "answer1": "28",
-            "answer2": "25",
-            "answer3": "26",
-            "answer4": "27"
-        },
-        {
-            "type": "song",
-            "quiz": "이 노래의 EXPERT 난이도는?",
-            "quizImage": "https://bestdori.com/assets/kr/musicjacket/musicjacket30_rip/assets-star-forassetbundle-startapp-musicjacket-musicjacket30-re_birthday-jacket.png",
-            "answer1": "28",
-            "answer2": "26",
-            "answer3": "27",
-            "answer4": "29"
-        },
-        {
-            "type": "song",
-            "quiz": "이 노래의 EXPERT 난이도는?",
-            "quizImage": "https://bestdori.com/assets/jp/musicjacket/musicjacket310_rip/assets-star-forassetbundle-startapp-musicjacket-musicjacket310-304_sensenfukoku-jacket.png",
-            "answer1": "28",
-            "answer2": "25",
-            "answer3": "26",
-            "answer4": "27"
-        }
-    ]
+    {
+        "type": "illust",
+        "quiz": "일러스트의 이름은?",
+        "quizImage": "https://i.bandori.party/u/c/art/a/tthumb/833Kasumi-Toyama-Cool-To-the-best-stage-OLdx6i.png",
+        "answer1": "최고의 스테이지로!",
+        "answer2": "모두와 함께 라이브",
+        "answer3": "Let's Sing♪",
+        "answer4": "희망의 멜로디"
+    },
+    {
+        "type": "illust",
+        "quiz": "일러스트의 이름은?",
+        "quizImage": "https://i.bandori.party/u/c/art/a/tthumb/925Kasumi-Toyama-Happy-Look-up-at-the-starry-sky-QS9zZB.png",
+        "answer1": "밤하늘을 올려다보고",
+        "answer2": "컬러풀 팝핀!",
+        "answer3": "추억 여행",
+        "answer4": "최고의 스테이지로!"
+    },
+    {
+        "type": "illust",
+        "quiz": "일러스트의 이름은?",
+        "quizImage": "https://i.bandori.party/u/c/art/a/tthumb/622Kasumi-Toyama-Pure-Sound-of-the-Beginning-8eUGd5.png",
+        "answer1": "시작의 소리",
+        "answer2": "선서! 불꽃놀이!",
+        "answer3": "모두 함께 꽃놀이",
+        "answer4": "다 같이 종이접기"
+    },
+    {
+        "type": "illust",
+        "quiz": "일러스트의 이름은?",
+        "quizImage": "https://i.bandori.party/u/c/art/a/tthumb/633Tae-Hanazono-Cool-The-Great-Bunny-Strategy-2yrB1f.png",
+        "answer1": "토끼 대작전",
+        "answer2": "파자마로 홈 파티",
+        "answer3": "손을 잡으면",
+        "answer4": "행복의 공유"
+    },
+    {
+        "type": "illust",
+        "quiz": "일러스트의 이름은?",
+        "quizImage": "https://i.bandori.party/u/c/art/tthumb/1081Tae-Hanazono-Power-LHMMFO.png",
+        "answer1": "자신 있는 재주 한 가지",
+        "answer2": "토끼 대작전",
+        "answer3": "토끼처럼 보이는 것",
+        "answer4": "오후의 햄버그"
+    },
+    {
+        "type": "illust",
+        "quiz": "일러스트의 이름은?",
+        "quizImage": "https://i.bandori.party/u/c/art/tthumb/834Tae-Hanazono-Cool-Beyond-just-there-Y0HC8M.png",
+        "answer1": "오직 앞을 향해서",
+        "answer2": "강제연행",
+        "answer3": "손을 잡으면",
+        "answer4": "모두의 노래"
+    },
+    {
+        "type": "illust",
+        "quiz": "이 일러스트의 특훈 후는?",
+        "quizImage": "https://i.bandori.party/u/c/art/tthumb/1332Kasumi-Toyama-Cool-Memories-of-Old-Days-fiHHf2.png",
+        "answer1": "https://i.bandori.party/u/c/art/a/tthumb/1332Kasumi-Toyama-Cool-Memories-of-Old-Days-vXxC3I.png",
+        "answer2": "https://i.bandori.party/u/c/art/a/tthumb/1295Kasumi-Toyama-Pure-ZYD9I7.png",
+        "answer3": "https://i.bandori.party/u/c/art/a/tthumb/1274Kasumi-Toyama-Power-9XoLfy.png",
+        "answer4": "https://i.bandori.party/u/c/art/a/tthumb/1225Kasumi-Toyama-Cool-8fLeCy.png"
+    },
+    {
+        "type": "illust",
+        "quiz": "이 일러스트의 특훈 후는?",
+        "quizImage": "https://i.bandori.party/u/c/art/tthumb/1332Kasumi-Toyama-Cool-Memories-of-Old-Days-fiHHf2.png",
+        "answer1": "https://i.bandori.party/u/c/art/a/tthumb/1332Kasumi-Toyama-Cool-Memories-of-Old-Days-vXxC3I.png",
+        "answer2": "https://i.bandori.party/u/c/art/a/tthumb/1295Kasumi-Toyama-Pure-ZYD9I7.png",
+        "answer3": "https://i.bandori.party/u/c/art/a/tthumb/1274Kasumi-Toyama-Power-9XoLfy.png",
+        "answer4": "https://i.bandori.party/u/c/art/a/tthumb/1225Kasumi-Toyama-Cool-8fLeCy.png"
+    },
+    {
+        "type": "song",
+        "quiz": "이 노래의 EXPERT 난이도는?",
+        "quizImage": "https://bestdori.com/assets/kr/musicjacket/musicjacket70_rip/assets-star-forassetbundle-startapp-musicjacket-musicjacket70-062_himawari-jacket.png",
+        "answer1": "21",
+        "answer2": "20",
+        "answer3": "22",
+        "answer4": "23"
+    },
+    {
+        "type": "song",
+        "quiz": "이 노래의 EXPERT 난이도는?",
+        "quizImage": "https://bestdori.com/assets/kr/musicjacket/musicjacket50_rip/assets-star-forassetbundle-startapp-musicjacket-musicjacket50-kimimora-jacket.png",
+        "answer1": "21",
+        "answer2": "22",
+        "answer3": "23",
+        "answer4": "24"
+    },
+    {
+        "type": "song",
+        "quiz": "이 노래의 EXPERT 난이도는?",
+        "quizImage": "https://bestdori.com/assets/kr/musicjacket/musicjacket170_rip/assets-star-forassetbundle-startapp-musicjacket-musicjacket170-162_kanade-jacket.png",
+        "answer1": "22",
+        "answer2": "23",
+        "answer3": "24",
+        "answer4": "25"
+    },
+    {
+        "type": "song",
+        "quiz": "이 노래의 EXPERT 난이도는?",
+        "quizImage": "https://bestdori.com/assets/kr/musicjacket/musicjacket120_rip/assets-star-forassetbundle-startapp-musicjacket-musicjacket120-115_wata_choco-jacket.png",
+        "answer1": "22",
+        "answer2": "23",
+        "answer3": "24",
+        "answer4": "25"
+    },
+    {
+        "type": "song",
+        "quiz": "이 노래의 EXPERT 난이도는?",
+        "quizImage": "https://bestdori.com/assets/kr/musicjacket/musicjacket10_rip/assets-star-forassetbundle-startapp-musicjacket-musicjacket10-yes_bang_dream-jacket.png",
+        "answer1": "22",
+        "answer2": "23",
+        "answer3": "24",
+        "answer4": "25"
+    },
+    {
+        "type": "song",
+        "quiz": "이 노래의 EXPERT 난이도는?",
+        "quizImage": "https://bestdori.com/assets/jp/musicjacket/musicjacket270_rip/assets-star-forassetbundle-startapp-musicjacket-musicjacket270-264_winking-jacket.png",
+        "answer1": "23",
+        "answer2": "22",
+        "answer3": "24",
+        "answer4": "25"
+    },
+    {
+        "type": "song",
+        "quiz": "이 노래의 EXPERT 난이도는?",
+        "quizImage": "https://bestdori.com/assets/kr/musicjacket/musicjacket160_rip/assets-star-forassetbundle-startapp-musicjacket-musicjacket160-156_rambling-jacket.png",
+        "answer1": "23",
+        "answer2": "24",
+        "answer3": "25",
+        "answer4": "26"
+    },
+    {
+        "type": "song",
+        "quiz": "이 노래의 EXPERT 난이도는?",
+        "quizImage": "https://bestdori.com/assets/kr/musicjacket/musicjacket90_rip/assets-star-forassetbundle-startapp-musicjacket-musicjacket90-088_dragon_night-jacket.png",
+        "answer1": "23",
+        "answer2": "22",
+        "answer3": "24",
+        "answer4": "25"
+    },
+    {
+        "type": "song",
+        "quiz": "이 노래의 EXPERT 난이도는?",
+        "quizImage": "https://bestdori.com/assets/kr/musicjacket/musicjacket80_rip/assets-star-forassetbundle-startapp-musicjacket-musicjacket80-079_sekaochi-jacket.png",
+        "answer1": "23",
+        "answer2": "24",
+        "answer3": "25",
+        "answer4": "26"
+    },
+    {
+        "type": "song",
+        "quiz": "이 노래의 EXPERT 난이도는?",
+        "quizImage": "https://bestdori.com/assets/kr/musicjacket/musicjacket50_rip/assets-star-forassetbundle-startapp-musicjacket-musicjacket50-sobakasu-jacket.png",
+        "answer1": "23",
+        "answer2": "24",
+        "answer3": "25",
+        "answer4": "26"
+    },
+    {
+        "type": "song",
+        "quiz": "이 노래의 EXPERT 난이도는?",
+        "quizImage": "https://bestdori.com/assets/kr/musicjacket/musicjacket50_rip/assets-star-forassetbundle-startapp-musicjacket-musicjacket50-hikarunara-jacket.png",
+        "answer1": "23",
+        "answer2": "22",
+        "answer3": "24",
+        "answer4": "25"
+    },
+    {
+        "type": "song",
+        "quiz": "이 노래의 EXPERT 난이도는?",
+        "quizImage": "https://bestdori.com/assets/kr/musicjacket/musicjacket40_rip/assets-star-forassetbundle-startapp-musicjacket-musicjacket40-egaoke-jacket.png",
+        "answer1": "23",
+        "answer2": "22",
+        "answer3": "24",
+        "answer4": "25"
+    },
+    {
+        "type": "song",
+        "quiz": "이 노래의 EXPERT 난이도는?",
+        "quizImage": "https://bestdori.com/assets/kr/musicjacket/musicjacket230_rip/assets-star-forassetbundle-startapp-musicjacket-musicjacket230-228_stayalive-jacket.png",
+        "answer1": "23",
+        "answer2": "24",
+        "answer3": "25",
+        "answer4": "26"
+    },
+    {
+        "type": "song",
+        "quiz": "이 노래의 EXPERT 난이도는?",
+        "quizImage": "https://i.bandori.party/u/s/233White-Afternoon-0KcWm0.png",
+        "answer1": "24",
+        "answer2": "23",
+        "answer3": "25",
+        "answer4": "26"
+    },
+    {
+        "type": "song",
+        "quiz": "이 노래의 EXPERT 난이도는?",
+        "quizImage": "https://bestdori.com/assets/jp/musicjacket/musicjacket280_rip/assets-star-forassetbundle-startapp-musicjacket-musicjacket280-280_mikketa-jacket.png",
+        "answer1": "24",
+        "answer2": "23",
+        "answer3": "25",
+        "answer4": "26"
+    },
+    {
+        "type": "song",
+        "quiz": "이 노래의 EXPERT 난이도는?",
+        "quizImage": "https://bestdori.com/assets/kr/musicjacket/musicjacket220_rip/assets-star-forassetbundle-startapp-musicjacket-musicjacket220-212_smilebouque-jacket.png",
+        "answer1": "24",
+        "answer2": "23",
+        "answer3": "25",
+        "answer4": "26"
+    },
+    {
+        "type": "song",
+        "quiz": "이 노래의 EXPERT 난이도는?",
+        "quizImage": "https://bestdori.com/assets/kr/musicjacket/musicjacket210_rip/assets-star-forassetbundle-startapp-musicjacket-musicjacket210-205_aoishiori-jacket.png",
+        "answer1": "24",
+        "answer2": "23",
+        "answer3": "25",
+        "answer4": "26"
+    },
+    {
+        "type": "song",
+        "quiz": "이 노래의 EXPERT 난이도는?",
+        "quizImage": "https://bestdori.com/assets/kr/musicjacket/musicjacket170_rip/assets-star-forassetbundle-startapp-musicjacket-musicjacket170-168_safe_sound-jacket.png",
+        "answer1": "24",
+        "answer2": "25",
+        "answer3": "26",
+        "answer4": "27"
+    },
+    {
+        "type": "song",
+        "quiz": "이 노래의 EXPERT 난이도는?",
+        "quizImage": "https://bestdori.com/assets/kr/musicjacket/musicjacket120_rip/assets-star-forassetbundle-startapp-musicjacket-musicjacket120-116_kimagure-jacket.png",
+        "answer1": "24",
+        "answer2": "25",
+        "answer3": "26",
+        "answer4": "27"
+    },
+    {
+        "type": "song",
+        "quiz": "이 노래의 EXPERT 난이도는?",
+        "quizImage": "https://bestdori.com/assets/kr/musicjacket/musicjacket110_rip/assets-star-forassetbundle-startapp-musicjacket-musicjacket110-105_shangrila-jacket.png",
+        "answer1": "24",
+        "answer2": "25",
+        "answer3": "26",
+        "answer4": "27"
+    },
+    {
+        "type": "song",
+        "quiz": "이 노래의 EXPERT 난이도는?",
+        "quizImage": "https://bestdori.com/assets/kr/musicjacket/musicjacket100_rip/assets-star-forassetbundle-startapp-musicjacket-musicjacket100-100_melancholic-jacket.png",
+        "answer1": "24",
+        "answer2": "23",
+        "answer3": "25",
+        "answer4": "26"
+    },
+    {
+        "type": "song",
+        "quiz": "이 노래의 EXPERT 난이도는?",
+        "quizImage": "https://bestdori.com/assets/kr/musicjacket/musicjacket70_rip/assets-star-forassetbundle-startapp-musicjacket-musicjacket70-064_if-jacket.png",
+        "answer1": "24",
+        "answer2": "23",
+        "answer3": "25",
+        "answer4": "26"
+    },
+    {
+        "type": "song",
+        "quiz": "이 노래의 EXPERT 난이도는?",
+        "quizImage": "https://bestdori.com/assets/kr/musicjacket/musicjacket70_rip/assets-star-forassetbundle-startapp-musicjacket-musicjacket70-061_natsudon-jacket.png",
+        "answer1": "24",
+        "answer2": "25",
+        "answer3": "26",
+        "answer4": "27"
+    },
+    {
+        "type": "song",
+        "quiz": "이 노래의 EXPERT 난이도는?",
+        "quizImage": "https://bestdori.com/assets/kr/musicjacket/musicjacket60_rip/assets-star-forassetbundle-startapp-musicjacket-musicjacket60-060_ring_dong_dance-jacket.png",
+        "answer1": "24",
+        "answer2": "23",
+        "answer3": "25",
+        "answer4": "26"
+    },
+    {
+        "type": "song",
+        "quiz": "이 노래의 EXPERT 난이도는?",
+        "quizImage": "https://bestdori.com/assets/kr/musicjacket/musicjacket60_rip/assets-star-forassetbundle-startapp-musicjacket-musicjacket60-051_singout-jacket.png",
+        "answer1": "24",
+        "answer2": "25",
+        "answer3": "26",
+        "answer4": "27"
+    },
+    {
+        "type": "song",
+        "quiz": "이 노래의 EXPERT 난이도는?",
+        "quizImage": "https://bestdori.com/assets/kr/musicjacket/musicjacket20_rip/assets-star-forassetbundle-startapp-musicjacket-musicjacket20-butterfly-jacket.png",
+        "answer1": "24",
+        "answer2": "23",
+        "answer3": "25",
+        "answer4": "26"
+    },
+    {
+        "type": "song",
+        "quiz": "이 노래의 EXPERT 난이도는?",
+        "quizImage": "https://bestdori.com/assets/kr/musicjacket/musicjacket250_rip/assets-star-forassetbundle-startapp-musicjacket-musicjacket250-246_doremifa-jacket.png",
+        "answer1": "24",
+        "answer2": "22",
+        "answer3": "23",
+        "answer4": "25"
+    },
+    {
+        "type": "song",
+        "quiz": "이 노래의 EXPERT 난이도는?",
+        "quizImage": "https://bestdori.com/assets/kr/musicjacket/musicjacket170_rip/assets-star-forassetbundle-startapp-musicjacket-musicjacket170-161_moon_road-jacket.png",
+        "answer1": "24",
+        "answer2": "23",
+        "answer3": "25",
+        "answer4": "26"
+    },
+    {
+        "type": "song",
+        "quiz": "이 노래의 EXPERT 난이도는?",
+        "quizImage": "https://i.bandori.party/u/s/297sister-s-noise-HMvq28.png",
+        "answer1": "25",
+        "answer2": "24",
+        "answer3": "26",
+        "answer4": "27"
+    },
+    {
+        "type": "song",
+        "quiz": "이 노래의 EXPERT 난이도는?",
+        "quizImage": "https://bestdori.com/assets/kr/musicjacket/musicjacket280_rip/assets-star-forassetbundle-startapp-musicjacket-musicjacket280-274_nostalgic-jacket.png",
+        "answer1": "25",
+        "answer2": "23",
+        "answer3": "24",
+        "answer4": "26"
+    },
+    {
+        "type": "song",
+        "quiz": "이 노래의 EXPERT 난이도는?",
+        "quizImage": "https://bestdori.com/assets/kr/musicjacket/musicjacket230_rip/assets-star-forassetbundle-startapp-musicjacket-musicjacket230-230_omoide-jacket.png",
+        "answer1": "25",
+        "answer2": "23",
+        "answer3": "24",
+        "answer4": "26"
+    },
+    {
+        "type": "song",
+        "quiz": "이 노래의 EXPERT 난이도는?",
+        "quizImage": "https://bestdori.com/assets/kr/musicjacket/musicjacket150_rip/assets-star-forassetbundle-startapp-musicjacket-musicjacket150-147_no_alone-jacket.png",
+        "answer1": "25",
+        "answer2": "24",
+        "answer3": "26",
+        "answer4": "27"
+    },
+    {
+        "type": "song",
+        "quiz": "이 노래의 EXPERT 난이도는?",
+        "quizImage": "https://bestdori.com/assets/jp/musicjacket/musicjacket300_rip/assets-star-forassetbundle-startapp-musicjacket-musicjacket300-294_photograph-jacket.png",
+        "answer1": "25",
+        "answer2": "24",
+        "answer3": "26",
+        "answer4": "27"
+    },
+    {
+        "type": "song",
+        "quiz": "이 노래의 EXPERT 난이도는?",
+        "quizImage": "https://bestdori.com/assets/kr/musicjacket/musicjacket250_rip/assets-star-forassetbundle-startapp-musicjacket-musicjacket250-244_stepstep-jacket.png",
+        "answer1": "25",
+        "answer2": "23",
+        "answer3": "24",
+        "answer4": "26"
+    },
+    {
+        "type": "song",
+        "quiz": "이 노래의 EXPERT 난이도는?",
+        "quizImage": "https://bestdori.com/assets/kr/musicjacket/musicjacket150_rip/assets-star-forassetbundle-startapp-musicjacket-musicjacket150-142_sanctuary-jacket.png",
+        "answer1": "25",
+        "answer2": "24",
+        "answer3": "26",
+        "answer4": "27"
+    },
+    {
+        "type": "song",
+        "quiz": "이 노래의 EXPERT 난이도는?",
+        "quizImage": "https://bestdori.com/assets/kr/musicjacket/musicjacket140_rip/assets-star-forassetbundle-startapp-musicjacket-musicjacket140-133_kimino_kioku-jacket.png",
+        "answer1": "25",
+        "answer2": "23",
+        "answer3": "24",
+        "answer4": "26"
+    },
+    {
+        "type": "song",
+        "quiz": "이 노래의 EXPERT 난이도는?",
+        "quizImage": "https://bestdori.com/assets/kr/musicjacket/musicjacket120_rip/assets-star-forassetbundle-startapp-musicjacket-musicjacket120-120_days-jacket.png",
+        "answer1": "25",
+        "answer2": "23",
+        "answer3": "24",
+        "answer4": "26"
+    },
+    {
+        "type": "song",
+        "quiz": "이 노래의 EXPERT 난이도는?",
+        "quizImage": "https://bestdori.com/assets/kr/musicjacket/musicjacket120_rip/assets-star-forassetbundle-startapp-musicjacket-musicjacket120-119_legendary-jacket.png",
+        "answer1": "25",
+        "answer2": "24",
+        "answer3": "26",
+        "answer4": "27"
+    },
+    {
+        "type": "song",
+        "quiz": "이 노래의 EXPERT 난이도는?",
+        "quizImage": "https://bestdori.com/assets/kr/musicjacket/musicjacket110_rip/assets-star-forassetbundle-startapp-musicjacket-musicjacket110-106_wonderlandgirl-jacket.png",
+        "answer1": "25",
+        "answer2": "24",
+        "answer3": "26",
+        "answer4": "27"
+    },
+    {
+        "type": "song",
+        "quiz": "이 노래의 EXPERT 난이도는?",
+        "quizImage": "https://bestdori.com/assets/kr/musicjacket/musicjacket110_rip/assets-star-forassetbundle-startapp-musicjacket-musicjacket110-101_sakura_skip-jacket.png",
+        "answer1": "25",
+        "answer2": "24",
+        "answer3": "26",
+        "answer4": "27"
+    },
+    {
+        "type": "song",
+        "quiz": "이 노래의 EXPERT 난이도는?",
+        "quizImage": "https://bestdori.com/assets/kr/musicjacket/musicjacket90_rip/assets-star-forassetbundle-startapp-musicjacket-musicjacket90-083_pride_kakumei-jacket.png",
+        "answer1": "25",
+        "answer2": "24",
+        "answer3": "26",
+        "answer4": "27"
+    },
+    {
+        "type": "song",
+        "quiz": "이 노래의 EXPERT 난이도는?",
+        "quizImage": "https://bestdori.com/assets/kr/musicjacket/musicjacket90_rip/assets-star-forassetbundle-startapp-musicjacket-musicjacket90-090_quintuple_smile-jacket.png",
+        "answer1": "25",
+        "answer2": "23",
+        "answer3": "24",
+        "answer4": "26"
+    },
+    {
+        "type": "song",
+        "quiz": "이 노래의 EXPERT 난이도는?",
+        "quizImage": "https://bestdori.com/assets/kr/musicjacket/musicjacket100_rip/assets-star-forassetbundle-startapp-musicjacket-musicjacket100-091_xmas-jacket.png",
+        "answer1": "25",
+        "answer2": "23",
+        "answer3": "24",
+        "answer4": "26"
+    },
+    {
+        "type": "song",
+        "quiz": "이 노래의 EXPERT 난이도는?",
+        "quizImage": "https://bestdori.com/assets/kr/musicjacket/musicjacket80_rip/assets-star-forassetbundle-startapp-musicjacket-musicjacket80-074_heart_beat-jacket.png",
+        "answer1": "25",
+        "answer2": "23",
+        "answer3": "24",
+        "answer4": "26"
+    },
+    {
+        "type": "song",
+        "quiz": "이 노래의 EXPERT 난이도는?",
+        "quizImage": "https://bestdori.com/assets/kr/musicjacket/musicjacket70_rip/assets-star-forassetbundle-startapp-musicjacket-musicjacket70-068_y_s_c-jacket.png",
+        "answer1": "25",
+        "answer2": "24",
+        "answer3": "26",
+        "answer4": "27"
+    },
+    {
+        "type": "song",
+        "quiz": "이 노래의 EXPERT 난이도는?",
+        "quizImage": "https://bestdori.com/assets/kr/musicjacket/musicjacket60_rip/assets-star-forassetbundle-startapp-musicjacket-musicjacket60-053_hidamari-jacket.png",
+        "answer1": "25",
+        "answer2": "24",
+        "answer3": "26",
+        "answer4": "27"
+    },
+    {
+        "type": "song",
+        "quiz": "이 노래의 EXPERT 난이도는?",
+        "quizImage": "https://bestdori.com/assets/kr/musicjacket/musicjacket40_rip/assets-star-forassetbundle-startapp-musicjacket-musicjacket40-hanamaru-jacket.png",
+        "answer1": "25",
+        "answer2": "23",
+        "answer3": "24",
+        "answer4": "26"
+    },
+    {
+        "type": "song",
+        "quiz": "이 노래의 EXPERT 난이도는?",
+        "quizImage": "https://bestdori.com/assets/kr/musicjacket/musicjacket50_rip/assets-star-forassetbundle-startapp-musicjacket-musicjacket50-seikai-jacket.png",
+        "answer1": "25",
+        "answer2": "24",
+        "answer3": "26",
+        "answer4": "27"
+    },
+    {
+        "type": "song",
+        "quiz": "이 노래의 EXPERT 난이도는?",
+        "quizImage": "https://bestdori.com/assets/kr/musicjacket/musicjacket30_rip/assets-star-forassetbundle-startapp-musicjacket-musicjacket30-silhouette-jacket.png",
+        "answer1": "25",
+        "answer2": "23",
+        "answer3": "24",
+        "answer4": "26"
+    },
+    {
+        "type": "song",
+        "quiz": "이 노래의 EXPERT 난이도는?",
+        "quizImage": "https://bestdori.com/assets/kr/musicjacket/musicjacket40_rip/assets-star-forassetbundle-startapp-musicjacket-musicjacket40-happiness-jacket.png",
+        "answer1": "25",
+        "answer2": "24",
+        "answer3": "26",
+        "answer4": "27"
+    },
+    {
+        "type": "song",
+        "quiz": "이 노래의 EXPERT 난이도는?",
+        "quizImage": "https://bestdori.com/assets/kr/musicjacket/musicjacket40_rip/assets-star-forassetbundle-startapp-musicjacket-musicjacket40-paspare-jacket.png",
+        "answer1": "25",
+        "answer2": "24",
+        "answer3": "26",
+        "answer4": "27"
+    },
+    {
+        "type": "song",
+        "quiz": "이 노래의 EXPERT 난이도는?",
+        "quizImage": "https://bestdori.com/assets/kr/musicjacket/musicjacket30_rip/assets-star-forassetbundle-startapp-musicjacket-musicjacket30-true_color-jacket.png",
+        "answer1": "25",
+        "answer2": "26",
+        "answer3": "27",
+        "answer4": "28"
+    },
+    {
+        "type": "song",
+        "quiz": "이 노래의 EXPERT 난이도는?",
+        "quizImage": "https://bestdori.com/assets/kr/musicjacket/musicjacket20_rip/assets-star-forassetbundle-startapp-musicjacket-musicjacket20-refrain-jacket.png",
+        "answer1": "25",
+        "answer2": "23",
+        "answer3": "24",
+        "answer4": "26"
+    },
+    {
+        "type": "song",
+        "quiz": "이 노래의 EXPERT 난이도는?",
+        "quizImage": "https://bestdori.com/assets/jp/musicjacket/musicjacket290_rip/assets-star-forassetbundle-startapp-musicjacket-musicjacket290-281_migikata-jacket.png",
+        "answer1": "25",
+        "answer2": "26",
+        "answer3": "27",
+        "answer4": "28"
+    },
+    {
+        "type": "song",
+        "quiz": "이 노래의 EXPERT 난이도는?",
+        "quizImage": "https://bestdori.com/assets/jp/musicjacket/musicjacket270_rip/assets-star-forassetbundle-startapp-musicjacket-musicjacket270-265_miraitrain-jacket.png",
+        "answer1": "25",
+        "answer2": "23",
+        "answer3": "24",
+        "answer4": "26"
+    },
+    {
+        "type": "song",
+        "quiz": "이 노래의 EXPERT 난이도는?",
+        "quizImage": "https://bestdori.com/assets/jp/musicjacket/musicjacket260_rip/assets-star-forassetbundle-startapp-musicjacket-musicjacket260-256_prelude-jacket.png",
+        "answer1": "25",
+        "answer2": "23",
+        "answer3": "24",
+        "answer4": "26"
+    },
+    {
+        "type": "song",
+        "quiz": "이 노래의 EXPERT 난이도는?",
+        "quizImage": "https://bestdori.com/assets/kr/musicjacket/musicjacket230_rip/assets-star-forassetbundle-startapp-musicjacket-musicjacket230-225_bluebird-jacket.png",
+        "answer1": "25",
+        "answer2": "24",
+        "answer3": "26",
+        "answer4": "27"
+    },
+    {
+        "type": "song",
+        "quiz": "이 노래의 EXPERT 난이도는?",
+        "quizImage": "https://bestdori.com/assets/kr/musicjacket/musicjacket230_rip/assets-star-forassetbundle-startapp-musicjacket-musicjacket230-221_korekara-jacket.png",
+        "answer1": "25",
+        "answer2": "23",
+        "answer3": "24",
+        "answer4": "26"
+    },
+    {
+        "type": "song",
+        "quiz": "이 노래의 EXPERT 난이도는?",
+        "quizImage": "https://bestdori.com/assets/kr/musicjacket/musicjacket200_rip/assets-star-forassetbundle-startapp-musicjacket-musicjacket200-200_yakusoku-jacket.png",
+        "answer1": "25",
+        "answer2": "23",
+        "answer3": "24",
+        "answer4": "26"
+    },
+    {
+        "type": "song",
+        "quiz": "이 노래의 EXPERT 난이도는?",
+        "quizImage": "https://bestdori.com/assets/kr/musicjacket/musicjacket180_rip/assets-star-forassetbundle-startapp-musicjacket-musicjacket180-180_returns-jacket.png",
+        "answer1": "25",
+        "answer2": "24",
+        "answer3": "26",
+        "answer4": "27"
+    },
+    {
+        "type": "song",
+        "quiz": "이 노래의 EXPERT 난이도는?",
+        "quizImage": "https://bestdori.com/assets/kr/musicjacket/musicjacket60_rip/assets-star-forassetbundle-startapp-musicjacket-musicjacket60-057_denki_guiter-jacket.png",
+        "answer1": "26",
+        "answer2": "24",
+        "answer3": "25",
+        "answer4": "27"
+    },
+    {
+        "type": "song",
+        "quiz": "이 노래의 EXPERT 난이도는?",
+        "quizImage": "https://i.bandori.party/u/s/266EXPOSE-Burn-out-IbzEG2.png",
+        "answer1": "26",
+        "answer2": "25",
+        "answer3": "27",
+        "answer4": "28"
+    },
+    {
+        "type": "song",
+        "quiz": "이 노래의 EXPERT 난이도는?",
+        "quizImage": "https://bestdori.com/assets/jp/musicjacket/musicjacket280_rip/assets-star-forassetbundle-startapp-musicjacket-musicjacket280-275_final_phase-jacket.png",
+        "answer1": "26",
+        "answer2": "24",
+        "answer3": "25",
+        "answer4": "27"
+    },
+    {
+        "type": "song",
+        "quiz": "이 노래의 EXPERT 난이도는?",
+        "quizImage": "https://bestdori.com/assets/kr/musicjacket/musicjacket270_rip/assets-star-forassetbundle-startapp-musicjacket-musicjacket270-261_gunjo-jacket.png",
+        "answer1": "26",
+        "answer2": "24",
+        "answer3": "25",
+        "answer4": "27"
+    },
+    {
+        "type": "song",
+        "quiz": "이 노래의 EXPERT 난이도는?",
+        "quizImage": "https://i.bandori.party/u/s/264Blessing-Chord-w230v5.png",
+        "answer1": "26",
+        "answer2": "25",
+        "answer3": "27",
+        "answer4": "28"
+    },
+    {
+        "type": "song",
+        "quiz": "이 노래의 EXPERT 난이도는?",
+        "quizImage": "https://bestdori.com/assets/jp/musicjacket/musicjacket260_rip/assets-star-forassetbundle-startapp-musicjacket-musicjacket260-251_i_love_your_way-jacket.png",
+        "answer1": "26",
+        "answer2": "24",
+        "answer3": "25",
+        "answer4": "27"
+    },
+    {
+        "type": "song",
+        "quiz": "이 노래의 EXPERT 난이도는?",
+        "quizImage": "https://bestdori.com/assets/kr/musicjacket/musicjacket200_rip/assets-star-forassetbundle-startapp-musicjacket-musicjacket200-197_niconicosmaile-jacket.png",
+        "answer1": "26",
+        "answer2": "24",
+        "answer3": "25",
+        "answer4": "27"
+    },
+    {
+        "type": "song",
+        "quiz": "이 노래의 EXPERT 난이도는?",
+        "quizImage": "https://bestdori.com/assets/kr/musicjacket/musicjacket140_rip/assets-star-forassetbundle-startapp-musicjacket-musicjacket140-134_reach_out-jacket.png",
+        "answer1": "26",
+        "answer2": "24",
+        "answer3": "25",
+        "answer4": "27"
+    },
+    {
+        "type": "song",
+        "quiz": "이 노래의 EXPERT 난이도는?",
+        "quizImage": "https://bestdori.com/assets/kr/musicjacket/musicjacket130_rip/assets-star-forassetbundle-startapp-musicjacket-musicjacket130-130_saikou-jacket.png",
+        "answer1": "26",
+        "answer2": "24",
+        "answer3": "25",
+        "answer4": "27"
+    },
+    {
+        "type": "song",
+        "quiz": "이 노래의 EXPERT 난이도는?",
+        "quizImage": "https://bestdori.com/assets/kr/musicjacket/musicjacket130_rip/assets-star-forassetbundle-startapp-musicjacket-musicjacket130-129_fantastic_future-jacket.png",
+        "answer1": "26",
+        "answer2": "23",
+        "answer3": "24",
+        "answer4": "25"
+    },
+    {
+        "type": "song",
+        "quiz": "이 노래의 EXPERT 난이도는?",
+        "quizImage": "https://bestdori.com/assets/kr/musicjacket/musicjacket130_rip/assets-star-forassetbundle-startapp-musicjacket-musicjacket130-126_existence-jacket.png",
+        "answer1": "26",
+        "answer2": "24",
+        "answer3": "25",
+        "answer4": "27"
+    },
+    {
+        "type": "song",
+        "quiz": "이 노래의 EXPERT 난이도는?",
+        "quizImage": "https://bestdori.com/assets/kr/musicjacket/musicjacket100_rip/assets-star-forassetbundle-startapp-musicjacket-musicjacket100-094_koushinkyoku-jacket.png",
+        "answer1": "26",
+        "answer2": "24",
+        "answer3": "25",
+        "answer4": "27"
+    },
+    {
+        "type": "song",
+        "quiz": "이 노래의 EXPERT 난이도는?",
+        "quizImage": "https://bestdori.com/assets/kr/musicjacket/musicjacket80_rip/assets-star-forassetbundle-startapp-musicjacket-musicjacket80-071_red_fraction-jacket.png",
+        "answer1": "26",
+        "answer2": "25",
+        "answer3": "27",
+        "answer4": "28"
+    },
+    {
+        "type": "song",
+        "quiz": "이 노래의 EXPERT 난이도는?",
+        "quizImage": "https://bestdori.com/assets/kr/musicjacket/musicjacket70_rip/assets-star-forassetbundle-startapp-musicjacket-musicjacket70-070_survivor-jacket.png",
+        "answer1": "26",
+        "answer2": "24",
+        "answer3": "25",
+        "answer4": "27"
+    },
+    {
+        "type": "song",
+        "quiz": "이 노래의 EXPERT 난이도는?",
+        "quizImage": "https://bestdori.com/assets/kr/musicjacket/musicjacket70_rip/assets-star-forassetbundle-startapp-musicjacket-musicjacket70-069_sekanobi-jacket.png",
+        "answer1": "26",
+        "answer2": "24",
+        "answer3": "25",
+        "answer4": "27"
+    },
+    {
+        "type": "song",
+        "quiz": "이 노래의 EXPERT 난이도는?",
+        "quizImage": "https://bestdori.com/assets/kr/musicjacket/musicjacket80_rip/assets-star-forassetbundle-startapp-musicjacket-musicjacket80-073_time_lapse-jacket.png",
+        "answer1": "26",
+        "answer2": "23",
+        "answer3": "24",
+        "answer4": "27"
+    },
+    {
+        "type": "song",
+        "quiz": "이 노래의 EXPERT 난이도는?",
+        "quizImage": "https://bestdori.com/assets/kr/musicjacket/musicjacket60_rip/assets-star-forassetbundle-startapp-musicjacket-musicjacket60-052_hapisama-jacket.png",
+        "answer1": "26",
+        "answer2": "24",
+        "answer3": "25",
+        "answer4": "27"
+    },
+    {
+        "type": "song",
+        "quiz": "이 노래의 EXPERT 난이도는?",
+        "quizImage": "https://bestdori.com/assets/kr/musicjacket/musicjacket50_rip/assets-star-forassetbundle-startapp-musicjacket-musicjacket50-tentaikansoku-jacket.png",
+        "answer1": "26",
+        "answer2": "23",
+        "answer3": "24",
+        "answer4": "25"
+    },
+    {
+        "type": "song",
+        "quiz": "이 노래의 EXPERT 난이도는?",
+        "quizImage": "https://bestdori.com/assets/kr/musicjacket/musicjacket30_rip/assets-star-forassetbundle-startapp-musicjacket-musicjacket30-i-aru-jacket.png",
+        "answer1": "26",
+        "answer2": "24",
+        "answer3": "25",
+        "answer4": "27"
+    },
+    {
+        "type": "song",
+        "quiz": "이 노래의 EXPERT 난이도는?",
+        "quizImage": "https://bestdori.com/assets/kr/musicjacket/musicjacket20_rip/assets-star-forassetbundle-startapp-musicjacket-musicjacket20-drepare-jacket.png",
+        "answer1": "26",
+        "answer2": "24",
+        "answer3": "25",
+        "answer4": "27"
+    },
+    {
+        "type": "song",
+        "quiz": "이 노래의 EXPERT 난이도는?",
+        "quizImage": "https://bestdori.com/assets/kr/musicjacket/musicjacket20_rip/assets-star-forassetbundle-startapp-musicjacket-musicjacket20-karma-jacket.png",
+        "answer1": "26",
+        "answer2": "23",
+        "answer3": "24",
+        "answer4": "25"
+    },
+    {
+        "type": "song",
+        "quiz": "이 노래의 EXPERT 난이도는?",
+        "quizImage": "https://bestdori.com/assets/jp/musicjacket/musicjacket300_rip/assets-star-forassetbundle-startapp-musicjacket-musicjacket300-299_rolling_star-jacket.png",
+        "answer1": "26",
+        "answer2": "24",
+        "answer3": "25",
+        "answer4": "27"
+    },
+    {
+        "type": "song",
+        "quiz": "이 노래의 EXPERT 난이도는?",
+        "quizImage": "https://bestdori.com/assets/jp/musicjacket/musicjacket300_rip/assets-star-forassetbundle-startapp-musicjacket-musicjacket300-293_one_of_us-jacket.png",
+        "answer1": "26",
+        "answer2": "25",
+        "answer3": "27",
+        "answer4": "28"
+    },
+    {
+        "type": "song",
+        "quiz": "이 노래의 EXPERT 난이도는?",
+        "quizImage": "https://bestdori.com/assets/jp/musicjacket/musicjacket290_rip/assets-star-forassetbundle-startapp-musicjacket-musicjacket290-288_beautiful_birthday-jacket.png",
+        "answer1": "26",
+        "answer2": "25",
+        "answer3": "27",
+        "answer4": "28"
+    },
+    {
+        "type": "song",
+        "quiz": "이 노래의 EXPERT 난이도는?",
+        "quizImage": "https://bestdori.com/assets/jp/musicjacket/musicjacket270_rip/assets-star-forassetbundle-startapp-musicjacket-musicjacket270-270_redredred-jacket.png",
+        "answer1": "26",
+        "answer2": "24",
+        "answer3": "25",
+        "answer4": "27"
+    },
+    {
+        "type": "song",
+        "quiz": "이 노래의 EXPERT 난이도는?",
+        "quizImage": "https://bestdori.com/assets/kr/musicjacket/musicjacket260_rip/assets-star-forassetbundle-startapp-musicjacket-musicjacket260-260_rukaruka-jacket.png",
+        "answer1": "26",
+        "answer2": "23",
+        "answer3": "24",
+        "answer4": "25"
+    },
+    {
+        "type": "song",
+        "quiz": "이 노래의 EXPERT 난이도는?",
+        "quizImage": "https://i.bandori.party/u/asset/k/1396Egao-Sing-A-Song-Original-In-Game-Cover-U0rp1W.png",
+        "answer1": "27",
+        "answer2": "24",
+        "answer3": "25",
+        "answer4": "26"
+    },
+    {
+        "type": "song",
+        "quiz": "이 노래의 EXPERT 난이도는?",
+        "quizImage": "https://i.bandori.party/u/s/289Nevereverland-kqwS2L.png",
+        "answer1": "27",
+        "answer2": "25",
+        "answer3": "26",
+        "answer4": "28"
+    },
+    {
+        "type": "song",
+        "quiz": "이 노래의 EXPERT 난이도는?",
+        "quizImage": "https://bestdori.com/assets/kr/musicjacket/musicjacket300_rip/assets-star-forassetbundle-startapp-musicjacket-musicjacket300-296_setsunatrip-jacket.png",
+        "answer1": "27",
+        "answer2": "25",
+        "answer3": "26",
+        "answer4": "28"
+    },
+    {
+        "type": "song",
+        "quiz": "이 노래의 EXPERT 난이도는?",
+        "quizImage": "https://bestdori.com/assets/jp/musicjacket/musicjacket290_rip/assets-star-forassetbundle-startapp-musicjacket-musicjacket290-289_invadeshow-jacket.png",
+        "answer1": "27",
+        "answer2": "26",
+        "answer3": "27",
+        "answer4": "28"
+    },
+    {
+        "type": "song",
+        "quiz": "이 노래의 EXPERT 난이도는?",
+        "quizImage": "https://bestdori.com/assets/kr/musicjacket/musicjacket160_rip/assets-star-forassetbundle-startapp-musicjacket-musicjacket160-153_passionate-jacket.png",
+        "answer1": "27",
+        "answer2": "24",
+        "answer3": "25",
+        "answer4": "26"
+    },
+    {
+        "type": "song",
+        "quiz": "이 노래의 EXPERT 난이도는?",
+        "quizImage": "https://bestdori.com/assets/kr/musicjacket/musicjacket110_rip/assets-star-forassetbundle-startapp-musicjacket-musicjacket110-109_this_game-jacket.png",
+        "answer1": "27",
+        "answer2": "25",
+        "answer3": "26",
+        "answer4": "28"
+    },
+    {
+        "type": "song",
+        "quiz": "이 노래의 EXPERT 난이도는?",
+        "quizImage": "https://bestdori.com/assets/kr/musicjacket/musicjacket80_rip/assets-star-forassetbundle-startapp-musicjacket-musicjacket80-076_symphony-jacket.png",
+        "answer1": "27",
+        "answer2": "25",
+        "answer3": "26",
+        "answer4": "28"
+    },
+    {
+        "type": "song",
+        "quiz": "이 노래의 EXPERT 난이도는?",
+        "quizImage": "https://bestdori.com/assets/kr/musicjacket/musicjacket40_rip/assets-star-forassetbundle-startapp-musicjacket-musicjacket40-louder-jacket.png",
+        "answer1": "27",
+        "answer2": "25",
+        "answer3": "26",
+        "answer4": "28"
+    },
+    {
+        "type": "song",
+        "quiz": "이 노래의 EXPERT 난이도는?",
+        "quizImage": "https://bestdori.com/assets/jp/musicjacket/musicjacket310_rip/assets-star-forassetbundle-startapp-musicjacket-musicjacket310-301_mind_of_prominence-jacket.png",
+        "answer1": "27",
+        "answer2": "25",
+        "answer3": "26",
+        "answer4": "28"
+    },
+    {
+        "type": "song",
+        "quiz": "이 노래의 EXPERT 난이도는?",
+        "quizImage": "https://bestdori.com/assets/jp/musicjacket/musicjacket300_rip/assets-star-forassetbundle-startapp-musicjacket-musicjacket300-291_zeal_of_proud-jacket.png",
+        "answer1": "27",
+        "answer2": "24",
+        "answer3": "25",
+        "answer4": "26"
+    },
+    {
+        "type": "song",
+        "quiz": "이 노래의 EXPERT 난이도는?",
+        "quizImage": "https://bestdori.com/assets/kr/musicjacket/musicjacket250_rip/assets-star-forassetbundle-startapp-musicjacket-musicjacket250-245_songiam-jacket.png",
+        "answer1": "27",
+        "answer2": "25",
+        "answer3": "26",
+        "answer4": "28"
+    },
+    {
+        "type": "song",
+        "quiz": "이 노래의 EXPERT 난이도는?",
+        "quizImage": "https://bestdori.com/assets/kr/musicjacket/musicjacket100_rip/assets-star-forassetbundle-startapp-musicjacket-musicjacket100-097_wasteland-jacket.png",
+        "answer1": "28",
+        "answer2": "25",
+        "answer3": "26",
+        "answer4": "27"
+    },
+    {
+        "type": "song",
+        "quiz": "이 노래의 EXPERT 난이도는?",
+        "quizImage": "https://bestdori.com/assets/kr/musicjacket/musicjacket30_rip/assets-star-forassetbundle-startapp-musicjacket-musicjacket30-re_birthday-jacket.png",
+        "answer1": "28",
+        "answer2": "26",
+        "answer3": "27",
+        "answer4": "29"
+    },
+    {
+        "type": "song",
+        "quiz": "이 노래의 EXPERT 난이도는?",
+        "quizImage": "https://bestdori.com/assets/jp/musicjacket/musicjacket310_rip/assets-star-forassetbundle-startapp-musicjacket-musicjacket310-304_sensenfukoku-jacket.png",
+        "answer1": "28",
+        "answer2": "25",
+        "answer3": "26",
+        "answer4": "27"
+    }
+]

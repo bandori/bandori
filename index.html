@@ -43,10 +43,20 @@
       }
 
       .answerImages{
-        width:200px;
-        height:200px;
+        width:900px;
+        max-width: 100%;
+        text-align: center;
         margin-left: auto;
         margin-right: auto;
+      }
+
+      .answerImage{
+        width:200px;
+        max-width: 45%;
+        margin-top:1%;
+        margin-left: 5px;
+        margin-right: 5px;
+ 
       }
 
       .scoreBoard {
@@ -113,7 +123,7 @@
         <img class="quizImage" id="quizImage" alt="문제 이미지">
       </div>
 
-      <div class="answers">
+      <div id="answer" class="answers">
         <button class="answer" id="A" onclick="answerA_clicked()"></button>
         <button class="answer" id="B" onclick="answerB_clicked()"></button>
         <button class="answer" id="C" onclick="answerC_clicked()"></button>
@@ -121,15 +131,15 @@
       </div>
       
       <div id="answerImage" class="answerImages">
-        <img class="answer" id="answerImage_A" alt="1번" onclick="answerA_clicked()">
-        <img class="answer" id="answerImage_B" alt="2번" onclick="answerB_clicked()">
-        <img class="answer" id="answerImage_C" alt="3번" onclick="answerC_clicked()">
-        <img class="answer" id="answerImage_D" alt="4번" onclick="answerD_clicked()">
+        <img class="answerImage" id="answerImageA" alt="1번" onclick="answerA_clicked()">
+        <img class="answerImage" id="answerImageB" alt="2번" onclick="answerB_clicked()">
+        <img class="answerImage" id="answerImageC" alt="3번" onclick="answerC_clicked()">
+        <img class="answerImage" id="answerImageD" alt="4번" onclick="answerD_clicked()">
       </div>
 
       <div class="scoreBoard">
-        <div id="score" class="field" style="display:inline">점수: 0</div>
-        <div id="life" class="field" style="display:inline">라이프: 5 / 5</div>
+        <div id="score" style="display:inline">점수: 0</div>
+        <div id="life" style="display:inline">라이프: 5 / 5</div>
       </div>
     </div>
 

@@ -62,6 +62,7 @@ function gameReady(){
       var _num=0;
       $.each(data, function(index){
         if(gameMode=="all"){
+   
           quizType[index] = data[index].type;
           quizName[index] = data[index].quiz;
           quizImage[index] = data[index].quizImage;
@@ -126,6 +127,9 @@ function shuffle(o, shuffleType) {
 
 function btnProvideQuestion() { 
 
+  $("#answer").css("display","none")
+  $("#answerImage").css("display","none")
+
   randomNumber = Math.floor(Math.random()*quizName.length);
   
   answers = [answer1[randomNumber], answer2[randomNumber], answer3[randomNumber], answer4[randomNumber]];
@@ -139,6 +143,10 @@ function btnProvideQuestion() {
   var _answer2 = document.getElementById("B");
   var _answer3 = document.getElementById("C");
   var _answer4 = document.getElementById("D");
+  var _answerImage1 = document.getElementById("answerImageA");
+  var _answerImage2 = document.getElementById("answerImageB");
+  var _answerImage3 = document.getElementById("answerImageC");
+  var _answerImage4 = document.getElementById("answerImageD");
 
   _quizName.innerHTML= quizName[randomNumber];
 
@@ -152,13 +160,28 @@ function btnProvideQuestion() {
   }
   
   _answer1.value= answers[0];
-  _answer1.innerHTML= answers[0];
   _answer2.value= answers[1];
-  _answer2.innerHTML= answers[1];
   _answer3.value= answers[2];
-  _answer3.innerHTML= answers[2];
   _answer4.value= answers[3];
-  _answer4.innerHTML= answers[3];
+
+  if(_answer1.value.indexOf("http") !== -1){
+ 
+    _answerImage1.src = _answer1.value;
+    _answerImage2.src = _answer2.value;
+    _answerImage3.src = _answer3.value;
+    _answerImage4.src = _answer4.value;
+
+    $("#answer").css("display","none");
+    $("#answerImage").css("display","block");
+  }
+  else{
+    _answer1.innerHTML= answers[0];
+    _answer2.innerHTML= answers[1];
+    _answer3.innerHTML= answers[2];
+    _answer4.innerHTML= answers[3];
+    $("#answer").css("display","block");
+    $("#answerImage").css("display","none");
+  }
 
   _answer1.disabled=false;
   _answer2.disabled=false;
