@@ -248,22 +248,22 @@ function result(){
 
   var _review;
   if(currentScore >= 1000){
-    _review = "사람이신가요?";
+    _review = "핵고인물";
   }
   else if(currentScore >= 500){
-    _review = "대단하시네요!";
+    _review = "고인물";
   }
   else if(currentScore >= 300){
-    _review = "방잘알 이시네요!";
+    _review = "ㄹㅇ 고수";
   }
   else if(currentScore >= 200){
-    _review = "조금 하시는데요?"
+    _review = "고수"
   }
   else if (currentScore >= 100){
-    _review ="당신은 방청년입니다."
+    _review = "방청년";
   }
   else{
-    _review ="방린이시네요!";
+    _review = "방린이";
   }
   document.getElementById("resultReview").innerHTML = "한줄 평: "+_review;
 }

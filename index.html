@@ -36,10 +36,17 @@
         text-align: center;
       }
 
-      .answer{
+      .answers{
         text-align: center;
         width:100%;
         margin-top:1%;
+      }
+
+      .answerImages{
+        width:200px;
+        height:200px;
+        margin-left: auto;
+        margin-right: auto;
       }
 
       .scoreBoard {
@@ -106,11 +113,18 @@
         <img class="quizImage" id="quizImage" alt="문제 이미지">
       </div>
 
-      <div class="answer">
+      <div class="answers">
         <button class="answer" id="A" onclick="answerA_clicked()"></button>
         <button class="answer" id="B" onclick="answerB_clicked()"></button>
         <button class="answer" id="C" onclick="answerC_clicked()"></button>
         <button class="answer" id="D" onclick="answerD_clicked()"></button>
+      </div>
+      
+      <div id="answerImage" class="answerImages">
+        <img class="answer" id="answerImage_A" alt="1번" onclick="answerA_clicked()">
+        <img class="answer" id="answerImage_B" alt="2번" onclick="answerB_clicked()">
+        <img class="answer" id="answerImage_C" alt="3번" onclick="answerC_clicked()">
+        <img class="answer" id="answerImage_D" alt="4번" onclick="answerD_clicked()">
       </div>
 
       <div class="scoreBoard">

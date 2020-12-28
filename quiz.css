@@ -66,11 +66,11 @@ button:focus{
   outline:0;
 }
 button:hover{
-  background-color: rgba(236, 78, 78, 0.8);
+  background-color: rgba(236, 78, 78, 0.6);
   cursor:pointer;
 }
 button:active {
-  background: rgb(255, 62, 62);
+  background: rgb(185, 28, 28);
 }
 
 img.index{
