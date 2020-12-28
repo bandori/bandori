@@ -1,4 +1,5 @@
-### Hi there 👋
+# 방도리 랜덤 퀴즈
+현재 버전: 알파
 
 <!--
 **bandori/bandori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
