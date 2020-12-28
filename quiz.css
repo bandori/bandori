@@ -61,3 +61,7 @@ img.index{
   max-width: 100%;
   height: auto;
 }
+
+img.questionImage{
+  height: 300;
+}
