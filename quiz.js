@@ -81,8 +81,16 @@ function Question(quizType,quiz,quizImage,rightAnswer,wrongAnswer1,wrongAnswer2,
   this.wrongAnswer3 = wrongAnswer3;
 };
 
-function shuffle(o) {
-	for(var j, x, i = o.length; i; j = parseInt(Math.random() * i), x = o[--i], o[i] = o[j], o[j] = x);
+function shuffle(o, shuffleType) {
+  if(shuffleType=="song"){
+    o.sort(function(a,b){
+      return a-b;
+    });
+  }
+  else{
+    for(var j, x, i = o.length; i; j = parseInt(Math.random() * i), x = o[--i], o[i] = o[j], o[j] = x);
+  }
+
 	return o;
 };
 
@@ -91,7 +99,8 @@ function btnProvideQuestion() {
 	var randomNumber = Math.floor(Math.random()*quiz.length);
 	randomQuiz = quiz[randomNumber];
   answers = [randomQuiz.rightAnswer, randomQuiz.wrongAnswer1, randomQuiz.wrongAnswer2, randomQuiz.wrongAnswer3];
-  shuffle(answers);
+  
+  shuffle(answers, quiz[randomNumber].type);
 
   var mainColor = "#EC4E4E";
   var _quizName = document.getElementById("quiz");
@@ -111,7 +120,7 @@ function btnProvideQuestion() {
     _quizImage.style.margin="0 auto";
     _quizImage.src = randomQuiz.quizImage;
   }
-  _answer1.value= answers[0];
+
   _answer1.innerHTML= answers[0];
   _answer2.value= answers[1];
   _answer2.innerHTML= answers[1];
