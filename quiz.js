@@ -17,8 +17,6 @@ var currentLife = 5;
 var maxLife = 5;
 var gameMode = "";
 
-
-
 $(document).ready(function(){
   $("#mainGame").css("display","none");
   $("#result").css("display","none");
@@ -46,9 +44,14 @@ function gameModeSelect(type){
       gameMode="all";
       break;
   }
-  $("#main").css("display","none");
+
+  $("#main").fadeOut(300, function(){
+    $("#mainGame").fadeIn(300);
+  });
+
+  //$("#main").css("display","none");
   $("#footer").css("display","none");
-  $("#mainGame").css("display","block");
+  //$("#mainGame").css("display","block");
 
   gameReady();
 }

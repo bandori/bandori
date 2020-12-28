@@ -22,6 +22,14 @@
         margin: 10px;
       }
 
+      .mainGame{
+        display:none;
+      }
+
+      .result{
+        display:none;
+      }
+
       .menu{
         color:#000000 !important
       }
@@ -48,6 +56,7 @@
         text-align: center;
         margin-left: auto;
         margin-right: auto;
+        display: none;
       }
 
       .answerImage{
@@ -91,6 +100,17 @@
     
       gtag('config', 'G-LVG00KGP2Y');
     </script>
+
+<audio id='audio_btn' src="sound/pop.wav"></audio>
+    <script type="text/javascript">
+      function play(){
+        var audio = document.getElementById('audio_btn');
+        if(audio.paused){
+          audio.play();
+          audio.currentTime = 0;
+        }
+      }
+    </script>
   </head>
 
   <body>
@@ -109,9 +129,9 @@
       <div><a href="https://www.youtube.com/channel/UCDIWNxgdDJk2J3v4UZ3U01Q">유튜브 채널 방문</a></div>
     </div>
 
-    <div id="mainGame">
+    <div id="mainGame" class="mainGame">
       <div class="menu">
-        <button class="gotoMain" id="gotoMain" onclick="location.href='index.html'">메인 메뉴로</button>
+        <button class="gotoMain" id="gotoMain" onclick="play(); location.href='index.html'">메인 메뉴로</button>
       </div>
 
       <div class="quiz">
@@ -124,10 +144,10 @@
       </div>
 
       <div id="answer" class="answers">
-        <button class="answer" id="A" onclick="answerA_clicked()"></button>
-        <button class="answer" id="B" onclick="answerB_clicked()"></button>
-        <button class="answer" id="C" onclick="answerC_clicked()"></button>
-        <button class="answer" id="D" onclick="answerD_clicked()"></button>
+        <button class="answer" id="A" onclick="play(); answerA_clicked()"></button>
+        <button class="answer" id="B" onclick="play(); answerB_clicked()"></button>
+        <button class="answer" id="C" onclick="play(); answerC_clicked()"></button>
+        <button class="answer" id="D" onclick="play(); answerD_clicked()"></button>
       </div>
       
       <div id="answerImage" class="answerImages">
@@ -148,8 +168,8 @@
       <br><br>
       <h2><div id="resultScore">점수: 0</div></h2>
       <h3><div id="resultReview"></div></h3>
-      <button class="result" id="result_Retry" onclick="result_retry_clicked()">재시작</button>
-      <button class="result" id="result_GotoMain" onclick="result_gotoMain_clicked()">처음으로</button>
+      <button class="resultBtn" id="result_Retry" onclick="result_retry_clicked()">재시작</button>
+      <button class="resultBtn" id="result_GotoMain" onclick="result_gotoMain_clicked()">처음으로</button>
     </div>
 
     <script src="quiz.js"></script>

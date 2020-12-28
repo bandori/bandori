@@ -48,7 +48,7 @@ button.answer {
   transition: 0.2s;
 }
 
-button.result{
+button.resultBtn{
   height: 40px;
   width: 180px;
   max-width: 75%;
@@ -57,7 +57,7 @@ button.result{
   border: rgb(255, 255, 255) solid 2px;
   border-radius: 14px;
   color: white;
-  font-size: 12;
+  font-size: 16;
   font-weight: bold;
   transition: 0.2s;
 }
@@ -66,7 +66,7 @@ button:focus{
   outline:0;
 }
 button:hover{
-  background-color: rgba(236, 78, 78, 0.6);
+  /*background-color: rgba(236, 78, 78, 0.6);*/
   cursor:pointer;
 }
 button:active {
