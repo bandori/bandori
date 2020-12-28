@@ -1,15 +1,17 @@
 //variables
 
-var question = new Array();
-var answer1 = new Array();
-var answer2 = new Array();
-var answer3 = new Array();
-var answer4 = new Array();
-var quizImage = new Array();
+var quizType = [];
+var question = [];
+var answer1 = [];
+var answer2 = [];
+var answer3 = [];
+var answer4 = [];
+var quizImage = [];
 
-var quiz = new Array();
+var quizData = [];
 var quizNum = 1;
 var randomQuiz;
+var randomNumber;
 var answers = [];
 var currentScore = 0;
 var gameMode = "";
@@ -46,17 +48,31 @@ function gameReady(){
       var _num=0;
       $.each(data, function(index){
         if(gameMode=="all"){
-          quiz[index] = new Question(data[index].type, data[index].quiz, data[index].quizImage, data[index].answer1, data[index].answer2, data[index].answer3, data[index].answer4)
+          quizType[index] = data[index].type;
+          question[index] = data[index].quiz;
+          quizImage[index] = data[index].quizImage;
+          answer1[index] = data[index].answer1;
+          answer2[index] = data[index].answer2;
+          answer3[index] = data[index].answer3;
+          answer4[index] = data[index].answer4;
+
+          quizData[index] = new Question(data[index].type, data[index].quiz, data[index].quizImage, data[index].answer1, data[index].answer2, data[index].answer3, data[index].answer4)
+
         }
         else{
           if(data[index].type == gameMode){
-            quiz[_num] = new Question(data[index].type, data[index].quiz, data[index].quizImage, data[index].answer1, data[index].answer2, data[index].answer3, data[index].answer4)
-            _num++;
+            quizType[_num] = data[index].type;
+            question[_num] = data[index].quiz;
+            quizImage[_num] = data[index].quizImage;
+            answer1[_num] = data[index].answer1;
+            answer2[_num] = data[index].answer2;
+            answer3[_num] = data[index].answer3;
+            answer4[_num] = data[index].answer4;
 
+            quizData[_num] = new Question(data[index].type, data[index].quiz, data[index].quizImage, data[index].answer1, data[index].answer2, data[index].answer3, data[index].answer4)
+            _num++;
           }
         }
-        //alert(quiz[index].quiz);
-        //alert(quiz[index].type);
       })
 
     }
@@ -96,15 +112,19 @@ function shuffle(o, shuffleType) {
 
 
 function btnProvideQuestion() { 
-	var randomNumber = Math.floor(Math.random()*quiz.length);
-	randomQuiz = quiz[randomNumber];
-  answers = [randomQuiz.rightAnswer, randomQuiz.wrongAnswer1, randomQuiz.wrongAnswer2, randomQuiz.wrongAnswer3];
+  randomNumber = Math.floor(Math.random()*question.length);
+
+
   
-  //alert(quiz[randomNumber].rightAnswer);
-  //alert(randomQuiz.rightAnswer);
-  //alert(answers[0]);
-  
-  shuffle(answers, quiz[randomNumber].type);
+	//randomQuiz = quizData[randomNumber];
+  //answers = [randomQuiz.rightAnswer, randomQuiz.wrongAnswer1, randomQuiz.wrongAnswer2, randomQuiz.wrongAnswer3];
+
+  //randomQuiz = question[randomNumber];
+  answers = [answer1[randomNumber], answer2[randomNumber], answer3[randomNumber], answer4[randomNumber]];
+
+  //shuffle(answers, quizData[randomNumber].type);
+
+  shuffle(answers, quizType[randomNumber]);
 
   var mainColor = "#EC4E4E";
   var _quizName = document.getElementById("quiz");
@@ -114,15 +134,21 @@ function btnProvideQuestion() {
   var _answer3 = document.getElementById("C");
   var _answer4 = document.getElementById("D");
 
-  _quizName.innerHTML= randomQuiz.quiz;
 
-  if(randomQuiz.quizImage == ""){
+  _quizName.innerHTML= question[randomNumber];
+
+
+  if(quizImage[randomNumber] == ""){
     _quizImage.style.display="none";
   }
   else{
-    _quizImage.style.display="block";
-    _quizImage.style.margin="0 auto";
-    _quizImage.src = randomQuiz.quizImage;
+    var _resizeImage = getThumbFile(_quizImage);
+    _resizeImage.style.display="block";
+
+    _resizeImage.style.margin="0 auto";
+
+    _resizeImage.src = quizImage[randomNumber];
+
   }
 
   _answer1.value= answers[0];
@@ -174,7 +200,7 @@ function adjustScore(isCorrect) {
 }
 
 function checkAnswer(answer, btn) {  
-  if (answer == randomQuiz.rightAnswer) {
+  if (answer == answer1[randomNumber]) {
     adjustScore(true);
     btnProvideQuestion();
   } else { 
@@ -190,12 +216,28 @@ function btnDisable(btn){
   btn.disabled=true;
 }
 
-const notification = document.getElementById('notification-container')
-// Show notification
-const showNotification = () => {
-  notification.classList.add('show')
-  setTimeout(() => {
-    notification.classList.remove('show')
-  }, 2000)
+
+function getThumbFile(_IMG){
+  //canvas에 이미지 객체를 리사이징해서 담는 과정
+  var canvas = document.createElement("canvas");
+  canvas.width = '300px'; //리사이징하여 그릴 가로 길이
+  canvas.height ='300px'; //리사이징하여 그릴 세로 길이
+  canvas.getContext("2d").drawImage(_IMG, 0, 0, 300, 300);
+
+  //canvas의 dataurl를 blob(file)화 하는 과정
+  var dataURL = canvas.toDataURL("image/png"); //png => jpg 등으로 변환 가능
+  alert(dataURL.toString());
+  var byteString = atob(dataURL.split(',')[1]);
+  var mimeString = dataURL.split(',')[0].split(':')[1].split(';')[0];
+  var ab = new ArrayBuffer(byteString.length);
+  var ia = new Uint8Array(ab);
+
+  for (var i = 0; i < byteString.length; i++) {
+    ia[i] = byteString.charCodeAt(i);
+  }
+
+  //리사이징된 file 객체
+  var tmpThumbFile = new Blob([ab], {type: mimeString});
+  return tmpThumbFile;
 }
 
