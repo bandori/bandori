@@ -1,7 +1,7 @@
 //variables
 
 var quizType = [];
-var question = [];
+var quizName = [];
 var answer1 = [];
 var answer2 = [];
 var answer3 = [];
@@ -9,11 +9,12 @@ var answer4 = [];
 var quizImage = [];
 
 var quizData = [];
-var quizNum = 1;
-var randomQuiz;
+var quizNum = 0;
 var randomNumber;
 var answers = [];
 var currentScore = 0;
+var currentLife = 5;
+var maxLife = 5;
 var gameMode = "";
 
 
@@ -49,7 +50,7 @@ function gameReady(){
       $.each(data, function(index){
         if(gameMode=="all"){
           quizType[index] = data[index].type;
-          question[index] = data[index].quiz;
+          quizName[index] = data[index].quiz;
           quizImage[index] = data[index].quizImage;
           answer1[index] = data[index].answer1;
           answer2[index] = data[index].answer2;
@@ -62,7 +63,7 @@ function gameReady(){
         else{
           if(data[index].type == gameMode){
             quizType[_num] = data[index].type;
-            question[_num] = data[index].quiz;
+            quizName[_num] = data[index].quiz;
             quizImage[_num] = data[index].quizImage;
             answer1[_num] = data[index].answer1;
             answer2[_num] = data[index].answer2;
@@ -112,7 +113,7 @@ function shuffle(o, shuffleType) {
 
 
 function btnProvideQuestion() { 
-  randomNumber = Math.floor(Math.random()*question.length);
+  randomNumber = Math.floor(Math.random()*quizName.length);
 
 
   
@@ -135,7 +136,7 @@ function btnProvideQuestion() {
   var _answer4 = document.getElementById("D");
 
 
-  _quizName.innerHTML= question[randomNumber];
+  _quizName.innerHTML= quizName[randomNumber];
 
 
   if(quizImage[randomNumber] == ""){
@@ -161,6 +162,8 @@ function btnProvideQuestion() {
   _answer2.disabled=false;
   _answer3.disabled=false;
   _answer4.disabled=false;
+  
+  setQuizNumber();
 }
 
 function answerA_clicked() {
@@ -196,13 +199,23 @@ function adjustScore(isCorrect) {
   document.getElementById("score").innerHTML = "점수: "+currentScore;
 }
 
+function adjustLife(){
+  currentLife--;
+  document.getElementById("life").innerHTML = "라이프: "+currentLife +" / " + maxLife;
+}
+
+function setQuizNumber(){
+  quizNum++;
+  document.getElementById("quizNum").innerHTML = "문제 "+quizNum;
+}
+
 function checkAnswer(answer, btn) {  
   if (answer == answer1[randomNumber]) {
     adjustScore(true);
     btnProvideQuestion();
   } else { 
-    //alert("오답!");
     adjustScore(false);
+    adjustLife();
     btnDisable(btn);
 
     showNotification();

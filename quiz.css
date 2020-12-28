@@ -34,7 +34,8 @@ button.mainMenu{
 
 button.answer {
   height: 45px;
-  width: 220px;
+  width: 250px;
+  max-width: 40%;
   outline: none;
   background: rgb(236, 78, 78);
   border: rgb(255, 255, 255) solid 2px;
