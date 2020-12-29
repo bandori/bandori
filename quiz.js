@@ -38,7 +38,7 @@ function gameModeSelect(type){
       gameMode="song";
       break;
     case 3:
-      gameMode="background";
+      gameMode="bg";
       break;
     case 99:
       gameMode="all";
@@ -92,7 +92,7 @@ function gameReady(){
           }
         }
       })
-      alert(answer1[53]);
+      //alert(answer1[53]);
     }
   })
 
