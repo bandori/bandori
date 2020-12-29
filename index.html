@@ -51,7 +51,7 @@
       }
 
       .answerImages{
-        width:900px;
+        width:1300px;
         max-width: 100%;
         text-align: center;
         margin-left: auto;
@@ -60,7 +60,7 @@
       }
 
       .answerImage{
-        width:200px;
+        width:300px;
         max-width: 45%;
         margin-top:1%;
         margin-left: 5px;
@@ -144,17 +144,17 @@
       </div>
 
       <div id="answer" class="answers">
-        <button class="answer" id="A" onclick="play(); answerA_clicked()"></button>
-        <button class="answer" id="B" onclick="play(); answerB_clicked()"></button>
-        <button class="answer" id="C" onclick="play(); answerC_clicked()"></button>
-        <button class="answer" id="D" onclick="play(); answerD_clicked()"></button>
+        <button class="answer" id="A" onclick="play(); answerA_clicked(this)"></button>
+        <button class="answer" id="B" onclick="play(); answerB_clicked(this)"></button>
+        <button class="answer" id="C" onclick="play(); answerC_clicked(this)"></button>
+        <button class="answer" id="D" onclick="play(); answerD_clicked(this)"></button>
       </div>
       
       <div id="answerImage" class="answerImages">
-        <img class="answerImage" id="answerImageA" alt="1번" onclick="play(); answerA_clicked()">
-        <img class="answerImage" id="answerImageB" alt="2번" onclick="play(); answerB_clicked()">
-        <img class="answerImage" id="answerImageC" alt="3번" onclick="play(); answerC_clicked()">
-        <img class="answerImage" id="answerImageD" alt="4번" onclick="play(); answerD_clicked()">
+        <img class="answerImage" id="answerImageA" alt="1번" onclick="play(); answerA_clicked(this)"></img>
+        <img class="answerImage" id="answerImageB" alt="2번" onclick="play(); answerB_clicked(this)"></img>
+        <img class="answerImage" id="answerImageC" alt="3번" onclick="play(); answerC_clicked(this)"></img>
+        <img class="answerImage" id="answerImageD" alt="4번" onclick="play(); answerD_clicked(this)"></img>
       </div>
 
       <div class="scoreBoard">

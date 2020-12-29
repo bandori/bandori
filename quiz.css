@@ -73,6 +73,11 @@ button:active {
   background: rgb(185, 28, 28);
 }
 
+img.opacity{
+  opacity: 0.5;
+  filter:alpha(opacity=50);
+}
+
 img.index{
   max-width: 100%;
   height: auto;
@@ -80,6 +85,11 @@ img.index{
 
 img.quizImage{
   height: 300;
+}
+
+.opClass {
+  opacity:0.5;
+  filter:alpha(opacity=50);
 }
 
 .notification-container {

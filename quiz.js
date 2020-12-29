@@ -92,6 +92,7 @@ function gameReady(){
           }
         }
       })
+      alert(answer1[53]);
     }
   })
 
@@ -178,6 +179,10 @@ function btnProvideQuestion() {
     _answerImage2.src = _answer2.value;
     _answerImage3.src = _answer3.value;
     _answerImage4.src = _answer4.value;
+    _answerImage1.style.opacity = "1";
+    _answerImage2.style.opacity = "1";
+    _answerImage3.style.opacity = "1";
+    _answerImage4.style.opacity = "1";
 
     $("#answer").css("display","none");
     $("#answerImage").css("display","block");
@@ -195,39 +200,60 @@ function btnProvideQuestion() {
   _answer2.disabled=false;
   _answer3.disabled=false;
   _answer4.disabled=false;
+
   
   setQuizNumber();
 }
 
-function answerA_clicked() {
-  var btn = document.getElementById("A");
-  var answerA = btn.value;
-  	checkAnswer(answerA, btn);
+function answerA_clicked(answerObject) {
+  var answerA;
+  if(answerObject.src !== undefined){
+    answerA = answerObject.src;
+  }
+  else{
+    answerA = answerObject.value;
+  }
+  checkAnswer(answerA, answerObject);
 }
-function answerB_clicked() {
-  var btn = document.getElementById("B");
-  var answerB = btn.value;
-    checkAnswer(answerB, btn);
+function answerB_clicked(answerObject) {
+  var answerB;
+  if(answerObject.src !== undefined){
+    answerB = answerObject.src;
+  }
+  else{
+    answerB = answerObject.value;
+  }
+  checkAnswer(answerB, answerObject);
 }
-function answerC_clicked() {
-  var btn = document.getElementById("C");
-  var answerC = btn.value;	
-		checkAnswer(answerC, btn);
+function answerC_clicked(answerObject) {
+  var answerC;
+  if(answerObject.src !== undefined){
+    answerC = answerObject.src;
+  }
+  else{
+    answerC = answerObject.value;
+  }
+  checkAnswer(answerC, answerObject);
 }
-function answerD_clicked() {
-  var btn = document.getElementById("D");
-  var answerD = btn.value;
-		checkAnswer(answerD, btn);
+function answerD_clicked(answerObject) {
+  var answerD;
+  if(answerObject.src !== undefined){
+    answerD = answerObject.src;
+  }
+  else{
+    answerD = answerObject.value;
+  }
+  checkAnswer(answerD, answerObject);
 }
 
-function checkAnswer(answer, btn) {  
+function checkAnswer(answer, answerObject) {  
   if (answer == answer1[randomNumber]) {
     adjustScore(true, false);
     btnProvideQuestion();
   } else { 
     adjustScore(false, false);
     adjustLife();
-    btnDisable(btn);
+    btnDisable(answerObject);
   }	  
 }
 
@@ -268,27 +294,37 @@ function setQuizNumber(){
   document.getElementById("quizNum").innerHTML = "문제 "+quizNum;
 }
 
-function btnDisable(btn){
-  btn.disabled=true;
-  $(btn).css("background-color", "rgb(50,50,50)");
+function btnDisable(answerObject){
+  if(answerObject.src !== undefined){
+    answerObject.disabled=true;
+    answerObject.style.opacity = "0.5";
+  }
+  else{
+    answerObject.disabled=true;
+    $(answerObject).css("background-color", "rgb(50,50,50)");
+  }
+}
+
+function btnEnableAll(object){
+
 }
 
 function result(){
   document.getElementById("resultScore").innerHTML = "점수: "+currentScore;
-  
+
   $("#mainGame").fadeOut(300, function(){
     $("#result").fadeIn(300);
   });
 
   var _review;
   if(currentScore >= 1000){
-    _review = "핵고인물";
+    _review = "솔직히 다 외웠죠?";
   }
   else if(currentScore >= 500){
     _review = "고인물";
   }
   else if(currentScore >= 300){
-    _review = "ㄹㅇ 고수";
+    _review = "핵고수";
   }
   else if(currentScore >= 200){
     _review = "고수"
@@ -297,7 +333,7 @@ function result(){
     _review = "방청년";
   }
   else{
-    _review = "방린이";
+    _review = "방린이 어서오고";
   }
   document.getElementById("resultReview").innerHTML = "한줄 평: "+_review;
 }
