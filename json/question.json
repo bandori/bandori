@@ -271,6 +271,276 @@
         },
         {
             "type": "illust",
+            "quiz": "코코로 ",
+            "quizImage": "https://i.bandori.party/u/c/art/728Kokoro-Tsurumaki-Happy-Happy-Revolution-IsTMEd.png",
+            "answer1": "해피 혁명!",
+            "answer2": "무적의 히어로",
+            "answer3": "모두 가자~!",
+            "answer4": "설레는 작전 회의"
+        },
+        {
+            "type": "illust",
+            "quiz": "코코로 ",
+            "quizImage": "https://i.bandori.party/u/c/art/1215Kokoro-Tsurumaki-Power-MsIDTP.png",
+            "answer1": "호기심의 종착지",
+            "answer2": "하나사키가와의 이공간",
+            "answer3": "특별한 밤을 위해",
+            "answer4": "스마일 시커!"
+        },
+        {
+            "type": "illust",
+            "quiz": "코코로 ",
+            "quizImage": "https://i.bandori.party/u/c/art/1017Kokoro-Tsurumaki-Power-R3FnUP.png",
+            "answer1": "반짝반짝 해님",
+            "answer2": "웃는 얼굴의 리듬",
+            "answer3": "웃는 얼굴의 매직",
+            "answer4": "비가 와도 맑으면"
+        },
+        {
+            "type": "illust",
+            "quiz": "카오루 ",
+            "quizImage": "https://i.bandori.party/u/c/art/1121Kaoru-Seta-Pure-XxYN71.png",
+            "answer1": "엄청난 쇼타임",
+            "answer2": "네가 옆에 있어",
+            "answer3": "받아주렴",
+            "answer4": "주인공 등장!"
+        },
+        {
+            "type": "illust",
+            "quiz": "카오루 ",
+            "quizImage": "https://i.bandori.party/u/c/art/1019Kaoru-Seta-Cool-2zl5ps.png",
+            "answer1": "나는 나",
+            "answer2": "네가 옆에 있어",
+            "answer3": "웃는 얼굴의 매직",
+            "answer4": "주연"
+        },
+        {
+            "type": "illust",
+            "quiz": "카오루 ",
+            "quizImage": "https://i.bandori.party/u/c/art/1284Kaoru-Seta-Happy-LxKOOy.png",
+            "answer1": "덧없음은 영원히",
+            "answer2": "덧없는 한 구절",
+            "answer3": "덧없는 애프터눈을",
+            "answer4": "이것도 덧없다"
+        },
+        {
+            "type": "illust",
+            "quiz": "하구미 ",
+            "quizImage": "https://i.bandori.party/u/c/art/1182Hagumi-Kitazawa-Happy-7vcFkm.png",
+            "answer1": "꽃 피는 웃는 얼굴",
+            "answer2": "스마일 시커!",
+            "answer3": "귀여운 것만 있다!",
+            "answer4": "기운 100배!"
+        },
+        {
+            "type": "illust",
+            "quiz": "하구미 ",
+            "quizImage": "https://i.bandori.party/u/c/art/920Hagumi-Kitazawa-Power-Marie-Andromeda-KxvKuh.png",
+            "answer1": "마리 · 안드로메다",
+            "answer2": "하구미가 대표!",
+            "answer3": "메리 파티!",
+            "answer4": "싱글벙글 플래닛"
+        },
+        {
+            "type": "illust",
+            "quiz": "하구미 ",
+            "quizImage": "https://i.bandori.party/u/c/art/1089Hagumi-Kitazawa-Pure-yZCXam.png",
+            "answer1": "왔다~!!",
+            "answer2": "메리 파티!",
+            "answer3": "찾는 그거!",
+            "answer4": "터치로, 뿅♪"
+        },
+        {
+            "type": "illust",
+            "quiz": "카논 ",
+            "quizImage": "https://i.bandori.party/u/c/art/1423Kanon-Matsubara-Pure-eNGzLA.png",
+            "answer1": "떠다니는 달",
+            "answer2": "마음, 만개",
+            "answer3": "형형색색의 빛",
+            "answer4": "짧은 여행?"
+        },
+        {
+            "type": "illust",
+            "quiz": "카논 ",
+            "quizImage": "https://i.bandori.party/u/c/art/1001Kanon-Matsubara-Power-XEv9ld.png",
+            "answer1": "가을하늘 아래에서 피크닉",
+            "answer2": "웃는 얼굴이 빛나는 한 입",
+            "answer3": "용기를 내서",
+            "answer4": "마음, 만개"
+        },
+        {
+            "type": "illust",
+            "quiz": "카논 ",
+            "quizImage": "https://i.bandori.party/u/c/art/1352Kanon-Matsubara-Happy-rzBIDf.png",
+            "answer1": "펼쳐지는 그 날의 풍경",
+            "answer2": "화창한 빛",
+            "answer3": "결의의 한걸음",
+            "answer4": "모두의 힘을 합쳐서"
+        },
+        {
+            "type": "illust",
+            "quiz": "미사키 ",
+            "quizImage": "https://i.bandori.party/u/c/art/726Misaki-Okusawa-Cool-My-important-thing-2rKPer.png",
+            "answer1": "나의 소중한 것",
+            "answer2": "여기가 내가 있을 장소",
+            "answer3": "손을 맞잡고",
+            "answer4": "큰 빛, 작은 빛"
+        },
+        {
+            "type": "illust",
+            "quiz": "미사키 ",
+            "quizImage": "https://i.bandori.party/u/c/art/1308Misaki-Okusawa-Pure-eLGuo0.png",
+            "answer1": "길 잃은 산타 할아버지",
+            "answer2": "밤에 하는 이야기",
+            "answer3": "또 하나의 나",
+            "answer4": "미셸의 비밀"
+        },
+        {
+            "type": "illust",
+            "quiz": "미사키 ",
+            "quizImage": "https://i.bandori.party/u/c/art/921Misaki-Okusawa-Power-Message-from-Michelle-mlYoyO.png",
+            "answer1": "미셸이 보낸 전언",
+            "answer2": "다 함께 콕콕",
+            "answer3": "연습의 성과",
+            "answer4": "노력도 정도껏"
+        },
+        {
+            "type": "illust",
+            "quiz": "아야 ",
+            "quizImage": "https://i.bandori.party/u/c/art/853Aya-Maruyama-Happy-A-Sparkling-Stage-Awaits-pWvQPs.png",
+            "answer1": "빛나는 스테이지로",
+            "answer2": "핑크 담당☆",
+            "answer3": "블루밍 옐",
+            "answer4": "꿈을 주는 아이돌"
+        },
+        {
+            "type": "illust",
+            "quiz": "아야 ",
+            "quizImage": "https://i.bandori.party/u/c/art/952Aya-Maruyama-Happy-FrF6Ie.png",
+            "answer1": "꿈을 주는 아이돌",
+            "answer2": "이젠 안 떨어져!",
+            "answer3": "서로 웃을 수 있는 존재",
+            "answer4": "드림 일루미네이트"
+        },
+        {
+            "type": "illust",
+            "quiz": "아야 ",
+            "quizImage": "https://i.bandori.party/u/c/art/1127Aya-Maruyama-Cool-meOYGr.png",
+            "answer1": "이거로 완벽해!",
+            "answer2": "마루야마, 들어갑니다!",
+            "answer3": "목표는 이상적인 아이돌",
+            "answer4": "내 모습 그대로"
+        },
+        {
+            "type": "illust",
+            "quiz": "히나 ",
+            "quizImage": "https://i.bandori.party/u/c/art/623Hina-Hikawa-Cool-Several-Light-Years-of-Light-QXsChB.png",
+            "answer1": "수 광년의 빛",
+            "answer2": "별이 쏟아지는 밤의 만남",
+            "answer3": "히나의 소원",
+            "answer4": "천문부에 어서 오세요!"
+        },
+        {
+            "type": "illust",
+            "quiz": "히나 ",
+            "quizImage": "https://i.bandori.party/u/c/art/954Hina-Hikawa-Happy-KlZ9sk.png",
+            "answer1": "히나의 소원",
+            "answer2": "별이 쏟아지는 밤의 만남",
+            "answer3": "소중한 계기",
+            "answer4": "블루밍 옐"
+        },
+        {
+            "type": "illust",
+            "quiz": "히나 ",
+            "quizImage": "https://i.bandori.party/u/c/art/1122Hina-Hikawa-Cool-2Yhixr.png",
+            "answer1": "그것이 아이돌",
+            "answer2": "결과 All right",
+            "answer3": "나한테 맡겨!",
+            "answer4": "더는 기다릴 수 없어!"
+        },
+        {
+            "type": "illust",
+            "quiz": "치사토 ",
+            "quizImage": "https://i.bandori.party/u/c/art/661Chisato-Shirasagi-Pure-Friends-I-Can-Trust-AVVehQ.png",
+            "answer1": "마음 편한 친구",
+            "answer2": "따뜻한 한 때",
+            "answer3": "근사한 공통점",
+            "answer4": "서로 의지할 수 있는 존재"
+        },
+        {
+            "type": "illust",
+            "quiz": "치사토 ",
+            "quizImage": "https://i.bandori.party/u/c/art/1084Chisato-Shirasagi-Cool-47GJzG.png",
+            "answer1": "모범적인 아이돌",
+            "answer2": "수용량 초과",
+            "answer3": "아이돌의 룰",
+            "answer4": "동분서주"
+        },
+        {
+            "type": "illust",
+            "quiz": "치사토 ",
+            "quizImage": "https://i.bandori.party/u/c/art/1434Chisato-Shirasagi-Pure-W5V8ir.png",
+            "answer1": "서로 의지할 수 있는 존재",
+            "answer2": "마음 편한 친구",
+            "answer3": "뒤돌아보면",
+            "answer4": "꿈으로 이어지는 길"
+        },
+        {
+            "type": "illust",
+            "quiz": "마야 ",
+            "quizImage": "https://i.bandori.party/u/c/art/956Maya-Yamato-Happy-tsmW9C.png",
+            "answer1": "아이돌이란",
+            "answer2": "이상과 현실",
+            "answer3": "자신답게 즐겁게",
+            "answer4": "새로운 시도를 위해"
+        },
+        {
+            "type": "illust",
+            "quiz": "마야 ",
+            "quizImage": "https://i.bandori.party/u/c/art/1521Maya-Yamato-Cool-AvgURr.png",
+            "answer1": "짜릿한 기습",
+            "answer2": "장난스러운 물놀이",
+            "answer3": "과감하게 도전",
+            "answer4": "서포트 하겠습니다!"
+        },
+        {
+            "type": "illust",
+            "quiz": "마야 ",
+            "quizImage": "https://i.bandori.party/u/c/art/1082Maya-Yamato-Pure-pGcW5E.png",
+            "answer1": "이상과 현실",
+            "answer2": "아이돌이란",
+            "answer3": "고귀한 드러머",
+            "answer4": "감동의 눈물"
+        },
+        {
+            "type": "illust",
+            "quiz": "이브 ",
+            "quizImage": "https://i.bandori.party/u/c/art/776Eve-Wakamiya-Power-The-best-hospitality-VWloBo.png",
+            "answer1": "최고의 환대",
+            "answer2": "함께 나누고 싶어!",
+            "answer3": "꿈에 그린 스테이지",
+            "answer4": "우리의 사치스러운 시간"
+        },
+        {
+            "type": "illust",
+            "quiz": "이브 ",
+            "quizImage": "https://i.bandori.party/u/c/art/915Eve-Wakamiya-Cool-This-is-my-Bushido-maAXUx.png",
+            "answer1": "나의 무사도!",
+            "answer2": "동경을 숨길 수 없어",
+            "answer3": "그 손을 통해",
+            "answer4": "무사도의 정신"
+        },
+        {
+            "type": "illust",
+            "quiz": "이브 ",
+            "quizImage": "https://i.bandori.party/u/c/art/1125Eve-Wakamiya-Cool-ufYP89.png",
+            "answer1": "동경을 숨길 수 없어",
+            "answer2": "나의 무사도!",
+            "answer3": "일도양단!",
+            "answer4": "미숙함"
+        },
+        {
+            "type": "illust",
             "quiz": "카스미 일러스트의 특훈 후는?",
             "quizImage": "https://i.bandori.party/u/c/art/1332Kasumi-Toyama-Cool-Memories-of-Old-Days-CWbhZh.png",
             "answer1": "https://i.bandori.party/u/c/art/a/1332Kasumi-Toyama-Cool-Memories-of-Old-Days-9gDp0s.png",
