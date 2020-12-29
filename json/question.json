@@ -1,5 +1,4 @@
-
-     [
+[
         {
             "type": "illust",
             "quiz": "일러스트의 이름은?",
@@ -129,7 +128,7 @@
         {
             "type": "illust",
             "quiz": "일러스트의 이름은?",
-            "quizImage": "https://bandori.party/card/200006/Arisa-Ichigaya-Pure-Enjoy-Party/#card-details-200006",
+            "quizImage": "//i.bandori.party/u/c/art/200006Arisa-Ichigaya-Pure-QR9FZZ.png",
             "answer1": "Enjoy! Party!",
             "answer2": "원더풀 투어",
             "answer3": "아리사의 세션",
@@ -147,29 +146,20 @@
         {
             "type": "illust",
             "quiz": "카스미 일러스트의 특훈 후는?",
-            "quizImage": "https://i.bandori.party/u/c/art/tthumb/1332Kasumi-Toyama-Cool-Memories-of-Old-Days-fiHHf2.png",
-            "answer1": "https://i.bandori.party/u/c/art/a/tthumb/1332Kasumi-Toyama-Cool-Memories-of-Old-Days-vXxC3I.png",
-            "answer2": "https://i.bandori.party/u/c/art/a/tthumb/1295Kasumi-Toyama-Pure-ZYD9I7.png",
-            "answer3": "https://i.bandori.party/u/c/art/a/tthumb/1274Kasumi-Toyama-Power-9XoLfy.png",
-            "answer4": "https://i.bandori.party/u/c/art/a/tthumb/1225Kasumi-Toyama-Cool-8fLeCy.png"
+            "quizImage": "//i.bandori.party/u/c/art/1114Kasumi-Toyama-Happy-IKqbu8.png",
+            "answer1": "//i.bandori.party/u/c/art/a/1114Kasumi-Toyama-Happy-o1SjGw.png",
+            "answer2": "//i.bandori.party/u/c/art/a/1056Kasumi-Toyama-Pure-srBfVy.png",
+            "answer3": "//i.bandori.party/u/c/art/a/992Kasumi-Toyama-Happy-Let-s-Sing-ePhgNl.png",
+            "answer4": "//i.bandori.party/u/c/art/a/925Kasumi-Toyama-Happy-Look-up-at-the-starry-sky-1J9c7b.png"
         },
         {
             "type": "illust",
             "quiz": "카스미 일러스트의 특훈 후는?",
-            "quizImage": "https://i.bandori.party/u/c/art/tthumb/1114Kasumi-Toyama-Happy-fF4y9I.png",
-            "answer1": "https://i.bandori.party/u/c/art/a/tthumb/1114Kasumi-Toyama-Happy-0Ij9Ze.png",
-            "answer2": "https://i.bandori.party/u/c/art/a/tthumb/1056Kasumi-Toyama-Pure-tH5Ude.png",
-            "answer3": "https://i.bandori.party/u/c/art/a/tthumb/992Kasumi-Toyama-Happy-Let-s-Sing-RVMaJZ.png",
-            "answer4": "https://i.bandori.party/u/c/art/a/tthumb/925Kasumi-Toyama-Happy-Look-up-at-the-starry-sky-QS9zZB.png"
-        },
-        {
-            "type": "illust",
-            "quiz": "카스미 일러스트의 특훈 후는?",
-            "quizImage": "https://i.bandori.party/u/c/art/tthumb/925Kasumi-Toyama-Happy-Look-up-at-the-starry-sky-p8IRu3.png",
-            "answer1": "https://i.bandori.party/u/c/art/a/tthumb/925Kasumi-Toyama-Happy-Look-up-at-the-starry-sky-QS9zZB.png",
-            "answer2": "https://i.bandori.party/u/c/art/a/tthumb/902Kasumi-Toyama-Power-A-Show-with-Everyone-GsXbAZ.png",
-            "answer3": "https://i.bandori.party/u/c/art/a/tthumb/1295Kasumi-Toyama-Pure-ZYD9I7.png",
-            "answer4": "https://i.bandori.party/u/c/art/a/tthumb/1186Kasumi-Toyama-Power-YW5KQl.png"
+            "quizImage": "//i.bandori.party/u/c/art/925Kasumi-Toyama-Happy-Look-up-at-the-starry-sky-NFrBwg.png",
+            "answer1": "//i.bandori.party/u/c/art/a/925Kasumi-Toyama-Happy-Look-up-at-the-starry-sky-1J9c7b.png",
+            "answer2": "//i.bandori.party/u/c/art/a/902Kasumi-Toyama-Power-A-Show-with-Everyone-Wq6FEY.png",
+            "answer3": "//i.bandori.party/u/c/art/a/1295Kasumi-Toyama-Pure-Awfbro.png",
+            "answer4": "i.bandori.party/u/c/art/a/1186Kasumi-Toyama-Power-ouTooH.png"
         },
         {
             "type": "illust",
