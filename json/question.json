@@ -1,4 +1,4 @@
- [
+[
         {
             "type": "illust",
             "quiz": "일러스트의 이름은?",
@@ -136,6 +136,141 @@
         },
         {
             "type": "illust",
+            "quiz": "일러스트의 이름은?",
+            "quizImage": "https://i.bandori.party/u/c/art/627Ran-Mitake-Pure-Sunset-Memories-e8yVij.png",
+            "answer1": "석양의 추억",
+            "answer2": "변해가는 하늘",
+            "answer3": "한결같은 마음",
+            "answer4": "노을빛 배움터"
+        },
+        {
+            "type": "illust",
+            "quiz": "일러스트의 이름은?",
+            "quizImage": "https://i.bandori.party/u/c/art/791Ran-Mitake-Happy-Life-sized-night-sky-i1iGd5.png",
+            "answer1": "등신대의 밤하늘",
+            "answer2": "변치 않는 우정",
+            "answer3": "더 이상 헤매지 않아",
+            "answer4": "여기에 있다는 증거"
+        },
+        {
+            "type": "illust",
+            "quiz": "일러스트의 이름은?",
+            "quizImage": "https://i.bandori.party/u/c/art/1097Ran-Mitake-Pure-vs3Eea.png",
+            "answer1": "깨어난 라이벌 의식",
+            "answer2": "질주의 하늘",
+            "answer3": "다 함께 찾자",
+            "answer4": "여기에 있다는 증거"
+        },
+        {
+            "type": "illust",
+            "quiz": "일러스트의 이름은?",
+            "quizImage": "https://i.bandori.party/u/c/art/907Moca-Aoba-Power-Just-A-Little-Detour-MuCjnI.png",
+            "answer1": "잠깐 샛길로",
+            "answer2": "식욕은 무한대",
+            "answer3": "완전 마이 페이스",
+            "answer4": "오늘은 기념일"
+        },
+        {
+            "type": "illust",
+            "quiz": "일러스트의 이름은?",
+            "quizImage": "https://i.bandori.party/u/c/art/1341Moca-Aoba-Power-omhRud.png",
+            "answer1": "화려한 이그조틱",
+            "answer2": "코드 네임 모카",
+            "answer3": "정답 찾기",
+            "answer4": "오늘은 기념일"
+        },
+        {
+            "type": "illust",
+            "quiz": "일러스트의 이름은?",
+            "quizImage": "https://i.bandori.party/u/c/art/1119Moca-Aoba-Power-ohoqgi.png",
+            "answer1": "비밀의 어레인지",
+            "answer2": "옆에 있는 것",
+            "answer3": "기대를 뛰어넘기 위해서",
+            "answer4": "재점화!"
+        },
+        {
+            "type": "illust",
+            "quiz": "일러스트의 이름은?",
+            "quizImage": "https://i.bandori.party/u/c/art/792Himari-Uehara-Happy-Special-place-hIZRZ1.png",
+            "answer1": "소중이 간직해둔 장소",
+            "answer2": "하이한 기분!",
+            "answer3": "목표는 대성공",
+            "answer4": "팝업 점프"
+        },
+        {
+            "type": "illust",
+            "quiz": "일러스트의 이름은?",
+            "quizImage": "https://i.bandori.party/u/c/art/1024Himari-Uehara-Happy-ハイテンション-aFSmsL.png",
+            "answer1": "예술을 접하고",
+            "answer2": "소녀의 동경",
+            "answer3": "하이한 기분!",
+            "answer4": "두 사람 사이좋게"
+        },
+        {
+            "type": "illust",
+            "quiz": "일러스트의 이름은?",
+            "quizImage": "https://i.bandori.party/u/c/art/1228Himari-Uehara-Cool-xpi707.png",
+            "answer1": "동경하는 자신",
+            "answer2": "다 같이, 또 한 걸음",
+            "answer3": "히마리 피스☆",
+            "answer4": "팝업 점프"
+        },
+        {
+            "type": "illust",
+            "quiz": "일러스트의 이름은?",
+            "quizImage": "https://i.bandori.party/u/c/art/980Tomoe-Udagawa-Pure-FcjDZf.png",
+            "answer1": "언니의 프라이드",
+            "answer2": "둘러싼 추억",
+            "answer3": "말로 할 수 없는 것",
+            "answer4": "우리의 석양"
+        },
+        {
+            "type": "illust",
+            "quiz": "일러스트의 이름은?",
+            "quizImage": "https://i.bandori.party/u/c/art/1287Tomoe-Udagawa-Cool-qgvlPT.png",
+            "answer1": "멋진 간식",
+            "answer2": "지켜내겠어!",
+            "answer3": "박력 있는 선배",
+            "answer4": "질주의 하늘"
+        },
+        {
+            "type": "illust",
+            "quiz": "일러스트의 이름은?",
+            "quizImage": "https://i.bandori.party/u/c/art/970Tomoe-Udagawa-Power-Festa-xp53qu.png",
+            "answer1": "페스타",
+            "answer2": "스칼렛",
+            "answer3": "바리스타",
+            "answer4": "스칼렛 소울"
+        },
+        {
+            "type": "illust",
+            "quiz": "일러스트의 이름은?",
+            "quizImage": "https://i.bandori.party/u/c/art/795Tsugumi-Hazawa-Happy-Looking-up-at-the-night-sky-BbxkjS.png",
+            "answer1": "밤하늘을 올려다보며",
+            "answer2": "질주의 하늘",
+            "answer3": "스텝 업",
+            "answer4": "같은 하늘을 향해"
+        },
+        {
+            "type": "illust",
+            "quiz": "일러스트의 이름은?",
+            "quizImage": "https://i.bandori.party/u/c/art/998Tsugumi-Hazawa-Cool-5kDjKD.png",
+            "answer1": "깨달은 「변화」",
+            "answer2": "전해지는 마음",
+            "answer3": "같은 하늘을 향해",
+            "answer4": "따뜻한 기분"
+        },
+        {
+            "type": "illust",
+            "quiz": "일러스트의 이름은?",
+            "quizImage": "https://i.bandori.party/u/c/art/1362Tsugumi-Hazawa-Pure-3LqczQ.png",
+            "answer1": "답례 도와주기",
+            "answer2": "마음 편한 장소",
+            "answer3": "전해지는 마음",
+            "answer4": "두근거리는 전개!?"
+        },
+        {
+            "type": "illust",
             "quiz": "카스미 일러스트의 특훈 후는?",
             "quizImage": "https://i.bandori.party/u/c/art/1332Kasumi-Toyama-Cool-Memories-of-Old-Days-CWbhZh.png",
             "answer1": "https://i.bandori.party/u/c/art/a/1332Kasumi-Toyama-Cool-Memories-of-Old-Days-9gDp0s.png",
@@ -159,7 +294,7 @@
             "answer1": "https://i.bandori.party/u/c/art/a/925Kasumi-Toyama-Happy-Look-up-at-the-starry-sky-1J9c7b.png",
             "answer2": "https://i.bandori.party/u/c/art/a/902Kasumi-Toyama-Power-A-Show-with-Everyone-Wq6FEY.png",
             "answer3": "https://i.bandori.party/u/c/art/a/1295Kasumi-Toyama-Pure-Awfbro.png",
-            "answer4": "i.bandori.party/u/c/art/a/1186Kasumi-Toyama-Power-ouTooH.png"
+            "answer4": "https://i.bandori.party/u/c/art/a/1186Kasumi-Toyama-Power-ouTooH.png"
         },
         {
             "type": "illust",
@@ -184,7 +319,7 @@
             "quiz": "타에 일러스트의 특훈 후는?",
             "quizImage": "https://i.bandori.party/u/c/art/927Tae-Hanazono-Power-Afternoon-beef-patty-KhG378.png",
             "answer1": "https://i.bandori.party/u/c/art/a/927Tae-Hanazono-Power-Afternoon-beef-patty-lSdv3p.png",
-            "answer2": "https:https://i.bandori.party/u/c/art/a/tthumb/834Tae-Hanazono-Cool-Beyond-just-there-lq1MrZ.png",
+            "answer2": "https://i.bandori.party/u/c/art/a/834Tae-Hanazono-Cool-Beyond-just-there-lIvwwj.png",
             "answer3": "https://i.bandori.party/u/c/art/a/762Tae-Hanazono-Cool-Bread-eating-race-HmLUqX.png",
             "answer4": "https://i.bandori.party/u/c/art/a/990Tae-Hanazono-Power-Rabbit-s-View-ins6KI.png"
         },
@@ -268,6 +403,141 @@
             "answer2": "https://i.bandori.party/u/c/art/a/972Arisa-Ichigaya-Happy-有咲のブシドー-K4i8Op.png",
             "answer3": "https://i.bandori.party/u/c/art/a/632Arisa-Ichigaya-Happy-Arisa-in-Wonderland-cWvHFb.png",
             "answer4": "https://i.bandori.party/u/c/art/a/1353Arisa-Ichigaya-Happy-Yxbx1w.png"
+        },
+        {
+            "type": "illust",
+            "quiz": "란 일러스트의 특훈 후는?",
+            "quizImage": "https://i.bandori.party/u/c/art/1161Ran-Mitake-Power-87TW25.png",
+            "answer1": "https://i.bandori.party/u/c/art/a/1161Ran-Mitake-Power-RGQpKH.png",
+            "answer2": "https://i.bandori.party/u/c/art/791Ran-Mitake-Happy-Life-sized-night-sky-i1iGd5.png",
+            "answer3": "https://i.bandori.party/u/c/art/a/984Ran-Mitake-Pure-tV0GOq.png",
+            "answer4": "https://i.bandori.party/u/c/art/a/1128Ran-Mitake-Happy-LU7Cq7.png"
+        },
+        {
+            "type": "illust",
+            "quiz": "란 일러스트의 특훈 후는?",
+            "quizImage": "https://i.bandori.party/u/c/art/1324Ran-Mitake-Pure-CDceKP.png",
+            "answer1": "https://i.bandori.party/u/c/art/a/1324Ran-Mitake-Pure-WDNjP8.png",
+            "answer2": "https://i.bandori.party/u/c/art/a/1366Ran-Mitake-Pure-JN45eX.png",
+            "answer3": "https://i.bandori.party/u/c/art/a/1422Ran-Mitake-Cool-lOD1yO.png",
+            "answer4": "https://i.bandori.party/u/c/art/a/1443Ran-Mitake-Happy-wqC4vN.png"
+        },
+        {
+            "type": "illust",
+            "quiz": "란 일러스트의 특훈 후는?",
+            "quizImage": "https://i.bandori.party/u/c/art/1453Ran-Mitake-Pure-znrgsh.png",
+            "answer1": "https://i.bandori.party/u/c/art/a/1453Ran-Mitake-Pure-LJ0Lrt.png",
+            "answer2": "https://i.bandori.party/u/c/art/a/1443Ran-Mitake-Happy-wqC4vN.png",
+            "answer3": "https://i.bandori.party/u/c/art/a/1161Ran-Mitake-Power-RGQpKH.png",
+            "answer4": "https://i.bandori.party/u/c/art/a/1551Ran-Mitake-Cool-1OiciV.png"
+        },
+        {
+            "type": "illust",
+            "quiz": "모카 일러스트의 특훈 후는?",
+            "quizImage": "https://i.bandori.party/u/c/art/626Moca-Aoba-Cool-The-Feelings-I-ll-Accept-HYXhwf.png",
+            "answer1": "https://i.bandori.party/u/c/art/a/626Moca-Aoba-Cool-The-Feelings-I-ll-Accept-Ua9NNq.png",
+            "answer2": "https://i.bandori.party/u/c/art/a/903Moca-Aoba-Happy-Gotta-Beat-Expectations-v0vG9W.png",
+            "answer3": "https://i.bandori.party/u/c/art/a/527Moca-Aoba-Happy-Significance-of-Childhood-Friend-CJjFED.png",
+            "answer4": "https://i.bandori.party/u/c/art/a/782Moca-Aoba-Pure-Best-work-friend-mFPDiq.png"
+        },
+        {
+            "type": "illust",
+            "quiz": "모카 일러스트의 특훈 후는?",
+            "quizImage": "https://i.bandori.party/u/c/art/903Moca-Aoba-Happy-Gotta-Beat-Expectations-hGNNFu.png",
+            "answer1": "https://i.bandori.party/u/c/art/a/903Moca-Aoba-Happy-Gotta-Beat-Expectations-v0vG9W.png",
+            "answer2": "https://i.bandori.party/u/c/art/a/907Moca-Aoba-Power-Just-A-Little-Detour-KK8WYO.png",
+            "answer3": "https://i.bandori.party/u/c/art/a/996Moca-Aoba-Happy-隣にいること-L3CJge.png",
+            "answer4": "https://i.bandori.party/u/c/art/a/1119Moca-Aoba-Power-pAfl48.png"
+        },
+        {
+            "type": "illust",
+            "quiz": "모카 일러스트의 특훈 후는?",
+            "quizImage": "https://i.bandori.party/u/c/art/1364Moca-Aoba-Happy-VBW9nH.png",
+            "answer1": "https://i.bandori.party/u/c/art/a/1364Moca-Aoba-Happy-aEfz0j.png",
+            "answer2": "https://i.bandori.party/u/c/art/a/1367Moca-Aoba-Cool-nNISdb.png",
+            "answer3": "https://i.bandori.party/u/c/art/a/1232Moca-Aoba-Cool-7thuDJ.png",
+            "answer4": "https://i.bandori.party/u/c/art/a/1177Moca-Aoba-Cool-4MlBKv.png"
+        },
+        {
+            "type": "illust",
+            "quiz": "히마리 일러스트의 특훈 후는?",
+            "quizImage": "https://i.bandori.party/u/c/art/1165Himari-Uehara-Power-k9Tr25.png",
+            "answer1": "https://i.bandori.party/u/c/art/a/1165Himari-Uehara-Power-Y7aGVN.png",
+            "answer2": "https://i.bandori.party/u/c/art/a/1312Himari-Uehara-Power-rjjPP3.png",
+            "answer3": "https://i.bandori.party/u/c/art/a/1318Himari-Uehara-Happy-yeX8Wr.png",
+            "answer4": "https://i.bandori.party/u/c/art/a/1320Himari-Uehara-Power-nEqitT.png"
+        },
+        {
+            "type": "illust",
+            "quiz": "히마리 일러스트의 특훈 후는?",
+            "quizImage": "https://i.bandori.party/u/c/art/1419Himari-Uehara-Cool-T2IzCp.png",
+            "answer1": "https://i.bandori.party/u/c/art/a/1419Himari-Uehara-Cool-OYHaUS.png",
+            "answer2": "https://i.bandori.party/u/c/art/a/1320Himari-Uehara-Power-nEqitT.png",
+            "answer3": "https://i.bandori.party/u/c/art/a/1452Himari-Uehara-Happy-Another-Step-Together-X1tJ8o.png",
+            "answer4": "https://i.bandori.party/u/c/art/a/997Himari-Uehara-Power-止まっていた時間-K908BP.png"
+        },
+        {
+            "type": "illust",
+            "quiz": "히마리 일러스트의 특훈 후는?",
+            "quizImage": "https://i.bandori.party/u/c/art/997Himari-Uehara-Power-1EL7qM.png",
+            "answer1": "https://i.bandori.party/u/c/art/a/997Himari-Uehara-Power-止まっていた時間-K908BP.png",
+            "answer2": "https://i.bandori.party/u/c/art/a/982Himari-Uehara-Cool-SMjemC.png",
+            "answer3": "https://i.bandori.party/u/c/art/a/1552Himari-Uehara-Cool-phL8tO.png",
+            "answer4": "https://i.bandori.party/u/c/art/a/1419Himari-Uehara-Cool-OYHaUS.png"
+        },
+        {
+            "type": "illust",
+            "quiz": "토모에 일러스트의 특훈 후는?",
+            "quizImage": "https://i.bandori.party/u/c/art/1163Tomoe-Udagawa-Pure-VTOEzD.png",
+            "answer1": "https://i.bandori.party/u/c/art/a/1163Tomoe-Udagawa-Pure-TaHUVR.png",
+            "answer2": "https://i.bandori.party/u/c/art/a/1192Tomoe-Udagawa-Cool-1Ik1Iq.png",
+            "answer3": "https://i.bandori.party/u/c/art/a/1229Tomoe-Udagawa-Cool-wj226e.png",
+            "answer4": "https://i.bandori.party/u/c/art/a/1287Tomoe-Udagawa-Cool-l1dUmR.png"
+        },
+        {
+            "type": "illust",
+            "quiz": "토모에 일러스트의 특훈 후는?",
+            "quizImage": "https://i.bandori.party/u/c/art/1363Tomoe-Udagawa-Pure-d4iQMX.png",
+            "answer1": "https://i.bandori.party/u/c/art/a/1363Tomoe-Udagawa-Pure-2cKb2F.png",
+            "answer2": "https://i.bandori.party/u/c/art/a/1455Tomoe-Udagawa-Happy-huxDxj.png",
+            "answer3": "https://i.bandori.party/u/c/art/a/1549Tomoe-Udagawa-Happy-JO2gIL.png",
+            "answer4": "https://i.bandori.party/u/c/art/a/980Tomoe-Udagawa-Pure-UZAOnR.png"
+        },
+        {
+            "type": "illust",
+            "quiz": "토모에 일러스트의 특훈 후는?",
+            "quizImage": "https://i.bandori.party/u/c/art/980Tomoe-Udagawa-Pure-FcjDZf.png",
+            "answer1": "https://i.bandori.party/u/c/art/a/980Tomoe-Udagawa-Pure-UZAOnR.png",
+            "answer2": "https://i.bandori.party/u/c/art/a/943Tomoe-Udagawa-Cool-The-Taiko-s-Charm-EsVjEv.png",
+            "answer3": "https://i.bandori.party/u/c/art/a/934Tomoe-Udagawa-Happy-I-ll-keep-you-safe-1AevZB.png",
+            "answer4": "https://i.bandori.party/u/c/art/a/906Tomoe-Udagawa-Happy-Eternal-Sunset-5GtQgu.png"
+        },
+        {
+            "type": "illust",
+            "quiz": "츠구미 일러스트의 특훈 후는?",
+            "quizImage": "https://i.bandori.party/u/c/art/977Tsugumi-Hazawa-Power-%E5%BF%83%E5%AE%89%E3%82%89%E3%81%90%E5%A0%B4%E6%89%80-vDAoES.png",
+            "answer1": "https://i.bandori.party/u/c/art/a/977Tsugumi-Hazawa-Power-%E5%BF%83%E5%AE%89%E3%82%89%E3%81%90%E5%A0%B4%E6%89%80-axo0CH.png",
+            "answer2": "https://i.bandori.party/u/c/art/a/998Tsugumi-Hazawa-Cool-%E6%B0%97%E3%81%A5%E3%81%84%E3%81%9F-%E5%A4%89%E5%8C%96-Bwjljz.png",
+            "answer3": "https://i.bandori.party/u/c/art/a/1076Tsugumi-Hazawa-Pure-4x76DX.png",
+            "answer4": "https://i.bandori.party/u/c/art/a/875Tsugumi-Hazawa-Happy-Delightful-Tasting-Party-AFmHy8.png"
+        },
+        {
+            "type": "illust",
+            "quiz": "츠구미 일러스트의 특훈 후는?",
+            "quizImage": "https://i.bandori.party/u/c/art/1260Tsugumi-Hazawa-Cool-NUWlKt.png",
+            "answer1": "https://i.bandori.party/u/c/art/a/1260Tsugumi-Hazawa-Cool-5QJcHM.png",
+            "answer2": "https://i.bandori.party/u/c/art/a/1362Tsugumi-Hazawa-Pure-YGIClB.png",
+            "answer3": "https://i.bandori.party/u/c/art/a/1451Tsugumi-Hazawa-Happy-To-the-New-Sky-mr7STW.png",
+            "answer4": "https://i.bandori.party/u/c/art/a/1227Tsugumi-Hazawa-Power-rcvVvO.png"
+        },
+        {
+            "type": "illust",
+            "quiz": "츠구미 일러스트의 특훈 후는?",
+            "quizImage": "https://i.bandori.party/u/c/art/1162Tsugumi-Hazawa-Power-i90BYp.png",
+            "answer1": "https://i.bandori.party/u/c/art/a/1162Tsugumi-Hazawa-Power-zYJ3au.png",
+            "answer2": "https://i.bandori.party/u/c/art/a/1260Tsugumi-Hazawa-Cool-5QJcHM.png",
+            "answer3": "https://i.bandori.party/u/c/art/a/692Tsugumi-Hazawa-Pure-Student-Council-Work-QIKClG.png",
+            "answer4": "https://i.bandori.party/u/c/art/a/1588Tsugumi-Hazawa-Pure-zMTxfe.png"
         },
         {
             "type": "song",
