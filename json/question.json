@@ -1,5 +1,5 @@
 
-    [
+     [
         {
             "type": "illust",
             "quiz": "일러스트의 이름은?",
@@ -138,11 +138,11 @@
         {
             "type": "illust",
             "quiz": "카스미 일러스트의 특훈 후는?",
-            "quizImage": "https://i.bandori.party/u/c/art/tthumb/1332Kasumi-Toyama-Cool-Memories-of-Old-Days-fiHHf2.png",
-            "answer1": "https://i.bandori.party/u/c/art/a/tthumb/1332Kasumi-Toyama-Cool-Memories-of-Old-Days-vXxC3I.png",
-            "answer2": "https://i.bandori.party/u/c/art/a/tthumb/1295Kasumi-Toyama-Pure-ZYD9I7.png",
-            "answer3": "https://i.bandori.party/u/c/art/a/tthumb/1274Kasumi-Toyama-Power-9XoLfy.png",
-            "answer4": "https://i.bandori.party/u/c/art/a/tthumb/1225Kasumi-Toyama-Cool-8fLeCy.png"
+            "quizImage": "https://i.bandori.party/u/c/art/1332Kasumi-Toyama-Cool-Memories-of-Old-Days-CWbhZh.png",
+            "answer1": "https://i.bandori.party/u/c/art/a/1332Kasumi-Toyama-Cool-Memories-of-Old-Days-9gDp0s.png",
+            "answer2": "//i.bandori.party/u/c/art/a/1295Kasumi-Toyama-Pure-Awfbro.png",
+            "answer3": "//i.bandori.party/u/c/art/a/1274Kasumi-Toyama-Power-jZOI07.png",
+            "answer4": "//i.bandori.party/u/c/art/a/1225Kasumi-Toyama-Cool-ZylodH.png"
         },
         {
             "type": "illust",
@@ -1178,5 +1178,35 @@
             "answer2": "25",
             "answer3": "26",
             "answer4": "27"
+        },
+        {
+            "type": "bg",
+            "quiz": "여기는 어디일까요?",
+            "quizImage": "https://i.bandori.party/u/asset/tthumb/1203Tsugumi-s-Room-1Azxdp.png",
+            "answer1": "츠구미의 방",
+            "answer2": "아리사의 방",
+            "answer3": "파레오의 방",
+            "answer4": "이브의 방"
+        },
+        {
+            "quizImage": "https://i.bandori.party/u/asset/tthumb/1202Himari-s-Room-Day-Wun6SL.png",
+            "answer1": "히마리의 방",
+            "answer2": "리미의 방",
+            "answer3": "아야의 방",
+            "answer4": "하구미의 방"
+        },
+        {
+            "quizImage": "https://i.bandori.party/u/asset/tthumb/1200Kaoru-s-Room-Day-Open-Curtains-1c0Sox.png",
+            "answer1": "카오루의 방",
+            "answer2": "유키나의 방",
+            "answer3": "아코의 방",
+            "answer4": "마스키의 방"
+        },
+        {
+            "quizImage": "https://i.bandori.party/u/asset/tthumb/1191Maya-s-Room-eKAZf9.png",
+            "answer1": "마야의 방",
+            "answer2": "휴게실",
+            "answer3": "롯카의 방",
+            "answer4": "밴드 연습실"
         }
     ]

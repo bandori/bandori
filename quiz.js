@@ -274,9 +274,11 @@ function btnDisable(btn){
 }
 
 function result(){
-  $("#mainGame").css("display","none");
-  $("#result").css("display","block");
   document.getElementById("resultScore").innerHTML = "점수: "+currentScore;
+  
+  $("#mainGame").fadeOut(300, function(){
+    $("#result").fadeIn(300);
+  });
 
   var _review;
   if(currentScore >= 1000){
