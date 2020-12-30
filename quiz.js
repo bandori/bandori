@@ -40,6 +40,9 @@ function gameModeSelect(type){
     case 3:
       gameMode="bg";
       break;
+    case 4:
+      gameMode="char";
+      break;
     case 99:
       gameMode="all";
       break;
