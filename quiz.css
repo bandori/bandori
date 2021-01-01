@@ -1,3 +1,8 @@
+@font-face{
+  src: url("/siwol.ttf");
+  font-family:"siwol";
+}
+
 .flex { display:flex;}
 
 .field {
@@ -24,10 +29,10 @@ button.mainMenu{
   width: 220px;
   max-width: 45%;
   outline: black;
-  background: rgb(236, 78, 78);
-  border: rgb(255, 255, 255) solid 2px;
+  background: rgb(255, 255, 255);
+  border: rgb(236, 78, 78) solid 3px;
   border-radius: 20px;
-  color: white;
+  color: rgb(0, 0, 0);
   font-size: 20;
   font-weight: bold;
   transition: 0.2s;
@@ -66,7 +71,6 @@ button:focus{
   outline:0;
 }
 button:hover{
-  /*background-color: rgba(236, 78, 78, 0.6);*/
   cursor:pointer;
 }
 button:active {
@@ -104,3 +108,5 @@ img.quizImage{
 .notification-container.show {
   transform: translateY(-50px);
 }
+
+
