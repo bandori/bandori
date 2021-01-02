@@ -250,7 +250,7 @@ function btnDisable(answerObject){
 
 function result(){
   dataLayer.push({
-    'event': currentScore
+    'event': 'currentScore'
   });
   document.getElementById("resultScore").innerHTML = "점수: "+currentScore;
 
