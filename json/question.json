@@ -3474,9 +3474,74 @@
             "answer4": "츠쿠시"
         },
         {
-            "quizImage": "미래 트레인",
-            "answer1": "아리사",
-            "answer2": "카스미",
+            "type": "char",
+            "quiz": "이 프로필과 관련된 캐릭터는?",
+            "quizTable": "좋아하는 음식:흰 밥",
+            "answer1": "카스미",
+            "answer2": "아리사",
+            "answer3": "리미",
+            "answer4": "타에"
+        },
+        {
+            "type": "char",
+            "quiz": "이 프로필과 관련된 캐릭터는?",
+            "quizTable": "좋아하는 음식:흰 밥",
+            "answer1": "카스미",
+            "answer2": "아리사",
+            "answer3": "리미",
+            "answer4": "타에"
+        },
+        {
+            "type": "char",
+            "quiz": "이 프로필과 관련된 캐릭터는?",
+            "quizTable": "좋아하는 음식:흰 밥",
+            "answer1": "카스미",
+            "answer2": "아리사",
+            "answer3": "리미",
+            "answer4": "타에"
+        },
+        {
+            "type": "char",
+            "quiz": "이 프로필과 관련된 캐릭터는?",
+            "quizTable": "좋아하는 음식:흰 밥",
+            "answer1": "카스미",
+            "answer2": "아리사",
+            "answer3": "리미",
+            "answer4": "타에"
+        },
+        {
+            "type": "char",
+            "quiz": "이 프로필과 관련된 캐릭터는?",
+            "quizTable": "좋아하는 음식:흰 밥",
+            "answer1": "카스미",
+            "answer2": "아리사",
+            "answer3": "리미",
+            "answer4": "타에"
+        },
+        {
+            "type": "char",
+            "quiz": "이 프로필과 관련된 캐릭터는?",
+            "quizTable": "좋아하는 음식:흰 밥",
+            "answer1": "카스미",
+            "answer2": "아리사",
+            "answer3": "리미",
+            "answer4": "타에"
+        },
+        {
+            "type": "char",
+            "quiz": "이 프로필과 관련된 캐릭터는?",
+            "quizTable": "좋아하는 음식:흰 밥",
+            "answer1": "카스미",
+            "answer2": "아리사",
+            "answer3": "리미",
+            "answer4": "타에"
+        },
+        {
+            "type": "char",
+            "quiz": "이 프로필과 관련된 캐릭터는?",
+            "quizTable": "좋아하는 음식:흰 밥",
+            "answer1": "카스미",
+            "answer2": "아리사",
             "answer3": "리미",
             "answer4": "타에"
         }

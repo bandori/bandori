@@ -41,11 +41,13 @@
     <div id="main" class="main">
       <img class="index" src="img/img_title_01.png" alt="대문">
       <br><br><br>
-      <button class="mainMenu" onclick="gameModeSelect(1)">1. 일러 퀴즈</button>
-      <button class="mainMenu" onclick="gameModeSelect(2)">2. 노래 퀴즈</button>
-      <button class="mainMenu" onclick="gameModeSelect(3)">3. 배경 퀴즈</button>
-      <button class="mainMenu" onclick="gameModeSelect(4)">4. 캐릭터 퀴즈</button>
-      <button class="mainMenu" onclick="gameModeSelect(99)">종합</button>
+      <button class="mainMenu" onclick="play(); gameModeSelect(1)">1. 일러 퀴즈</button>
+      <button class="mainMenu" onclick="play(); gameModeSelect(2)">2. 노래 퀴즈</button>
+      <button class="mainMenu" onclick="play(); gameModeSelect(3)">3. 배경 퀴즈</button>
+      <button class="mainMenu" onclick="play(); gameModeSelect(4)">4. 캐릭터 퀴즈</button>
+      <button class="mainMenu" onclick="play(); gameModeSelect(99)">종합</button>
+      <br><br><br>
+      <div>모든 문제는 랜덤으로 출제됩니다.</div>
     </div> 
 
     <div id="footer" class="footer">
@@ -63,6 +65,13 @@
         <div id="quizName" class="field"></div>
       </div>
 
+      <div class="quizTable">
+        <table id="quizTable" class="quizTable" style="margin-left:auto; margin-right:auto;">
+          <th id="quizTableTitle">좋아하는 것</th>
+          <th id="quizTableContent">민트초코</th>
+        </table>
+      </div>
+
       <div class="quizImage">
         <img id="quizImage" alt="문제 이미지" height="300">
       </div>
@@ -74,6 +83,8 @@
         <button class="answer" id="answerD" onclick="play(); answer_clicked(this)"></button>
       </div>
       
+
+
       <div id="answerImage" class="answerImages">
         <img class="answerImage" id="answerImageA" alt="1번" onclick="play(); answer_clicked(this)"></img>
         <img class="answerImage" id="answerImageB" alt="2번" onclick="play(); answer_clicked(this)"></img>

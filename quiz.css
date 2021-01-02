@@ -16,13 +16,14 @@
 html{
   width:100%;
   height:100%;
+  font-family: "siwol";
 }
 
 body {
   width: 100%;
   height: 100%;
   margin: 10px;
-  font-family: "siwol";
+
 }
 
 button.gotoMain{
@@ -104,6 +105,32 @@ img.index{
 
 img.quizImage{
   height: 300;
+}
+
+
+table.quizTable {
+  border-collapse: collapse;
+  line-height: 1.5;
+  border-top: 1px solid #ccc;
+  border-left: 4px solid #369;
+  margin : 20px 10px;
+}
+table.quizTable th {
+  width: 147px;
+  padding: 10px;
+  font-weight: bold;
+  vertical-align: top;
+  color: #000000;
+  border-right: 1px solid #ccc;
+  border-bottom: 1px solid #ccc;
+
+}
+table.quizTable td {
+  width: 349px;
+  padding: 10px;
+  vertical-align: top;
+  border-right: 1px solid #ccc;
+  border-bottom: 1px solid #ccc;
 }
 
 .main{

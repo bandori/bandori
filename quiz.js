@@ -5,6 +5,7 @@ var answer2 = [];
 var answer3 = [];
 var answer4 = [];
 var quizImage = [];
+var quizTable = [];
 
 var quizData = [];
 var currentQuizNum = 0;
@@ -71,6 +72,7 @@ function gameReady(){
           quizType[index] = data[index].type;
           quizName[index] = data[index].quiz;
           quizImage[index] = data[index].quizImage;
+          quizTable[index] = data[index].quizTable;
           answer1[index] = data[index].answer1;
           answer2[index] = data[index].answer2;
           answer3[index] = data[index].answer3;
@@ -81,6 +83,7 @@ function gameReady(){
             quizType[_num] = data[index].type;
             quizName[_num] = data[index].quiz;
             quizImage[_num] = data[index].quizImage;
+            quizTable[_num] = data[index].quizTable;
             answer1[_num] = data[index].answer1;
             answer2[_num] = data[index].answer2;
             answer3[_num] = data[index].answer3;
@@ -117,11 +120,13 @@ function btnProvideQuestion() {
 
   var _quizName = document.getElementById("quizName");
   var _quizImage = document.getElementById("quizImage");
-  answerObj = [document.getElementById("answerA"), document.getElementById("answerB"), document.getElementById("answerC"), document.getElementById("answerD")]
+  var _quizTable= document.getElementById("quizTable");
   var _answersImages = [document.getElementById("answerImageA"),document.getElementById("answerImageB"),document.getElementById("answerImageC"),document.getElementById("answerImageD")];
+  answerObj = [document.getElementById("answerA"), document.getElementById("answerB"), document.getElementById("answerC"), document.getElementById("answerD")]
 
   _quizName.innerHTML= quizName[randomNum];
 
+  //문제 이미지
   if(quizImage[randomNum] == ""){
     _quizImage.style.display="none";
   }
@@ -131,11 +136,23 @@ function btnProvideQuestion() {
     _quizImage.src = quizImage[randomNum];
   }
 
+  //테이블
+  if(quizTable[randomNum] == ""){
+    _quizTable.style.display="none";
+  }
+  else{
+    var strTableTitle = quizTable[randomNum].split(':');
+    document.getElementById("quizImageTitle").innerHTML = strTableTitle[0];
+    document.getElementById("quizImageContent").innerHTML = strTableTitle[1];
+    _quizTable.style.display="block";
+  }
+
   for(var i=0; i<answerObj.length; i++){
     answerObj[i].value = randomAnswers[i]; //답 넣기
   }
 
-  if(answerObj[0].value.indexOf("http") !== -1){   //이미지 여부 확인
+  //답 이미지
+  if(answerObj[0].value.indexOf("http") !== -1){
     for(var i=0; i<_answersImages.length; i++){
       _answersImages[i].src = answerObj[i].value;
       _answersImages[i].style.opacity="1";
