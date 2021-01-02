@@ -3,7 +3,9 @@
   font-family:"siwol";
 }
 
-.flex { display:flex;}
+.flex {
+  display:flex;
+}
 
 .field {
   min-width: 100px;
@@ -11,15 +13,26 @@
   margin: 10px;
 }
 
+html{
+  width:100%;
+  height:100%;
+}
+
+body {
+  width: 100%;
+  height: 100%;
+  margin: 10px;
+  font-family: "siwol";
+}
+
 button.gotoMain{
   height: 30px;
   width: 170px;
   outline: black;
-  background: rgb(236, 78, 78);
-  border: rgb(255, 255, 255) solid 2px;
-  border-radius: 14px;
-  color: white;
-  font-size: 12;
+  background: rgb(255, 255, 255);
+  border: rgb(236, 78, 78) solid 3px;
+  color: rgb(0, 0, 0);
+  font-size: 14;
   font-weight: bold;
   transition: 0.2s;
 }
@@ -36,6 +49,8 @@ button.mainMenu{
   font-size: 20;
   font-weight: bold;
   transition: 0.2s;
+  margin-top: 10px;
+  margin-left: 7px;
 }
 
 button.answer {
@@ -91,22 +106,85 @@ img.quizImage{
   height: 300;
 }
 
-.opClass {
-  opacity:0.5;
-  filter:alpha(opacity=50);
+.main{
+  text-align: center;
+  margin-top:3%;
 }
 
-.notification-container {
-  background: rgba(0,0,0,.3);
-  border-radius: 10px 10px 0 0 ;
-  padding: 15px 20px;
-  position: absolute;
-  bottom: -50px;
-  transition: transform 0.3s ease-in-out;
+.mainGame{
+  display:none;
 }
 
-.notification-container.show {
-  transform: translateY(-50px);
+.result{
+  display:none;
+}
+
+.menu{
+  color:#000000 !important
+}
+
+.quizHeader{
+  text-align: center;
+  margin-top:2%;
+  font-size: 20;
+}
+
+.quizImage{
+  text-align: center;
+}
+
+.answers{
+  text-align: center;
+  width:100%;
+  margin-top:1%;
+}
+
+.answerImages{
+  width:1300px;
+  max-width: 100%;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  display: none;
+}
+
+.answerImage{
+  width:300px;
+  max-width: 45%;
+  margin-top:1%;
+  margin-left: 5px;
+  margin-right: 5px;
+}
+
+.scoreBoard {
+  text-align: center;
+  margin-top:20;
+  font-size:16;
+  font-weight: bold;
+}     
+
+.result{
+  text-align: center;
+  margin-top:5%;
+  font-weight: bold;
+  display: none;
+}
+
+.clear{
+  text-align: center;
+  margin-top:5%;
+  font-weight: bold;
+  display: none;
+}
+
+.footer {
+  position:absolute;
+  bottom:0;
+  width:100%;
+  height:50px;   
+  background:rgb(255, 225, 225);
+  margin:0 auto;
+  text-align: center;
 }
 
 

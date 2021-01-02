@@ -4,112 +4,24 @@
     <link rel="stylesheet" href="quiz.css"/>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <style type="text/css">
-      .main{
-        text-align: center;
-        margin-top:3%;
-      }
 
-      html{
-        width:100%;
-        height:100%;
-      }
+    <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-M56KHBW');</script>
+    <!-- End Google Tag Manager -->
 
-      body {
-        width: 100%;
-        height: 100%;
-        margin: 10px;
-        font-family: "siwol";
-      }
-
-      .mainGame{
-        display:none;
-      }
-
-      .result{
-        display:none;
-      }
-
-      .menu{
-        color:#000000 !important
-      }
-
-      .quiz{
-        text-align: center;
-        margin-top:2%;
-        font-size: 20;
-      }
-
-      .quizImage{
-        text-align: center;
-      }
-
-      .answers{
-        text-align: center;
-        width:100%;
-        margin-top:1%;
-      }
-
-      .answerImages{
-        width:1300px;
-        max-width: 100%;
-        text-align: center;
-        margin-left: auto;
-        margin-right: auto;
-        display: none;
-      }
-
-      .answerImage{
-        width:300px;
-        max-width: 45%;
-        margin-top:1%;
-        margin-left: 5px;
-        margin-right: 5px;
- 
-      }
-
-      .scoreBoard {
-        text-align: center;
-        margin-top:20;
-        font-size:16;
-        font-weight: bold;
-      }     
-
-      .result{
-        text-align: center;
-        margin-top:5%;
-        font-weight: bold;
-        display: none;
-      }
-
-      .clear{
-        text-align: center;
-        margin-top:5%;
-        font-weight: bold;
-        display: none;
-      }
-
-      #footer {
-        position:absolute;
-        bottom:0;
-        width:100%;
-        height:50px;   
-        background:rgb(255, 225, 225);
-        margin:0 auto;
-        text-align: center;
-      }
-     </style>
-        
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-LVG00KGP2Y"></script>
     <script>
       window.dataLayer = window.dataLayer || [];
       function gtag(){dataLayer.push(arguments);}
       gtag('js', new Date());
-    
       gtag('config', 'G-LVG00KGP2Y');
     </script>
 
-<audio id='audio_btn' src="sound/pop.wav"></audio>
+    <audio id='audio_btn' src="sound/pop.wav"></audio>
     <script type="text/javascript">
       function play(){
         var audio = document.getElementById('audio_btn');
@@ -126,37 +38,37 @@
     <div id="main" class="main">
       <img class="index" src="img/img_title_01.png" alt="대문">
       <br><br><br>
-      <button class="mainMenu" id="gameStart_Type1" onclick="gameModeSelect(1)">1. 일러 퀴즈</button>
-      <button class="mainMenu" id="gameStart_Type2" onclick="gameModeSelect(2)">2. 노래 퀴즈</button>
-      <button class="mainMenu" id="gameStart_Type3" onclick="gameModeSelect(3)">3. 배경 퀴즈</button>
-      <button class="mainMenu" id="gameStart_Type4" onclick="gameModeSelect(4)">4. 캐릭터 퀴즈</button>
-      <button class="mainMenu" id="gameStart_All" onclick="gameModeSelect(99)">종합</button>
+      <button class="mainMenu" onclick="gameModeSelect(1)">1. 일러 퀴즈</button>
+      <button class="mainMenu" onclick="gameModeSelect(2)">2. 노래 퀴즈</button>
+      <button class="mainMenu" onclick="gameModeSelect(3)">3. 배경 퀴즈</button>
+      <button class="mainMenu" onclick="gameModeSelect(4)">4. 캐릭터 퀴즈</button>
+      <button class="mainMenu" onclick="gameModeSelect(99)">종합</button>
     </div> 
 
-    <div id="footer">
+    <div id="footer" class="footer">
       <div>만든 사람: 카페모카 | 버전: 알파 2</div>
       <div><a href="https://www.youtube.com/channel/UCDIWNxgdDJk2J3v4UZ3U01Q">유튜브 채널 방문</a></div>
     </div>
 
     <div id="mainGame" class="mainGame">
-      <div class="menu">
-        <button class="gotoMain" id="gotoMain" onclick="play(); location.href='index.html'">메인 메뉴로</button>
+      <div>
+        <button class="gotoMain" onclick="play(); location.href='index.html'">메인 메뉴로</button>
       </div>
 
-      <div class="quiz">
+      <div class="quizHeader">
         <h2><div id="quizNum" class="field">문제 1</div></h2>
-        <div id="quiz" class="field"></div>
+        <div id="quizName" class="field"></div>
       </div>
 
       <div class="quizImage">
-        <img class="quizImage" id="quizImage" alt="문제 이미지">
+        <img id="quizImage" alt="문제 이미지">
       </div>
 
       <div id="answer" class="answers">
-        <button class="answer" id="A" onclick="play(); answer_clicked(this)"></button>
-        <button class="answer" id="B" onclick="play(); answer_clicked(this)"></button>
-        <button class="answer" id="C" onclick="play(); answer_clicked(this)"></button>
-        <button class="answer" id="D" onclick="play(); answer_clicked(this)"></button>
+        <button class="answer" id="answerA" onclick="play(); answer_clicked(this)"></button>
+        <button class="answer" id="answerB" onclick="play(); answer_clicked(this)"></button>
+        <button class="answer" id="answerC" onclick="play(); answer_clicked(this)"></button>
+        <button class="answer" id="answerD" onclick="play(); answer_clicked(this)"></button>
       </div>
       
       <div id="answerImage" class="answerImages">

@@ -115,9 +115,9 @@ function btnProvideQuestion() {
   randomAnswers = [answer1[randomNum], answer2[randomNum], answer3[randomNum], answer4[randomNum]];
   shuffle(randomAnswers, quizType[randomNum]);
 
-  var _quizName = document.getElementById("quiz");
+  var _quizName = document.getElementById("quizName");
   var _quizImage = document.getElementById("quizImage");
-  answerObj = [document.getElementById("A"), document.getElementById("B"), document.getElementById("C"), document.getElementById("D")]
+  answerObj = [document.getElementById("answerA"), document.getElementById("answerB"), document.getElementById("answerC"), document.getElementById("answerD")]
   var _answersImages = [document.getElementById("answerImageA"),document.getElementById("answerImageB"),document.getElementById("answerImageC"),document.getElementById("answerImageD")];
 
   _quizName.innerHTML= quizName[randomNum];
@@ -225,10 +225,8 @@ function adjustLife(isInitalized){
     document.getElementById("life").innerHTML = "라이프: "+currentLife +" / " + maxLife;
     return;
   }
-
   currentLife--;
   document.getElementById("life").innerHTML = "라이프: "+currentLife +" / " + maxLife;
-
   if(currentLife <= 0){
     result();
   }
@@ -244,7 +242,7 @@ function btnDisable(answerObject){
     answerObject.disabled=true;
     answerObject.style.opacity = "0.5";
   }
-  else{
+  else{ //이미지
     answerObject.disabled=true;
     $(answerObject).css("background-color", "rgb(50,50,50)");
   }
@@ -320,32 +318,5 @@ function result_gotoMain_clicked() {
     }
   })
 })();
-
-/*
-function getThumbFile(_IMG){
-  //canvas에 이미지 객체를 리사이징해서 담는 과정
-  var canvas = document.createElement("canvas");
-  canvas.width = '300px'; //리사이징하여 그릴 가로 길이
-  canvas.height ='300px'; //리사이징하여 그릴 세로 길이
-  canvas.getContext("2d").drawImage(_IMG, 0, 0, 300, 300);
-
-  //canvas의 dataurl를 blob(file)화 하는 과정
-  var dataURL = canvas.toDataURL("image/png"); //png => jpg 등으로 변환 가능
-  alert(dataURL.toString());
-  var byteString = atob(dataURL.split(',')[1]);
-  var mimeString = dataURL.split(',')[0].split(':')[1].split(';')[0];
-  var ab = new ArrayBuffer(byteString.length);
-  var ia = new Uint8Array(ab);
-
-  for (var i = 0; i < byteString.length; i++) {
-    ia[i] = byteString.charCodeAt(i);
-  }
-
-  //리사이징된 file 객체
-  var tmpThumbFile = new Blob([ab], {type: mimeString});
-  return tmpThumbFile;
-}
-*/
-
 
 
