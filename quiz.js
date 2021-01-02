@@ -71,8 +71,13 @@ function gameReady(){
    
           quizType[index] = data[index].type;
           quizName[index] = data[index].quiz;
-          quizImage[index] = data[index].quizImage;
-          quizTable[index] = data[index].quizTable;
+
+          if(data[index].quizImage == undefined) {quizImage[index] = "none";}
+          else{quizImage[index] = data[index].quizImage;}
+
+          if(data[index].quizTable == undefined) {quizTable[index] = "none";}
+          else{quizTable[index] = data[index].quizTable;}
+
           answer1[index] = data[index].answer1;
           answer2[index] = data[index].answer2;
           answer3[index] = data[index].answer3;
@@ -82,15 +87,21 @@ function gameReady(){
           if(data[index].type == gameMode){
             quizType[_num] = data[index].type;
             quizName[_num] = data[index].quiz;
-            quizImage[_num] = data[index].quizImage;
-            quizTable[_num] = data[index].quizTable;
+
+            if(data[index].quizImage == undefined) {quizImage[_num] = "none";}
+            else{quizImage[_num] = data[index].quizImage;}
+
+            if(data[index].quizTable == undefined) {quizTable[_num] = "none";}
+            else{quizTable[_num] = data[index].quizTable;}
+
             answer1[_num] = data[index].answer1;
             answer2[_num] = data[index].answer2;
             answer3[_num] = data[index].answer3;
             answer4[_num] = data[index].answer4;
-
             _num++;
           }
+
+
         }
       })
       maxQuizNum = quizName.length;
@@ -127,7 +138,7 @@ function btnProvideQuestion() {
   _quizName.innerHTML= quizName[randomNum];
 
   //문제 이미지
-  if(quizImage[randomNum] == ""){
+  if(quizImage[randomNum] == "none"){
     _quizImage.style.display="none";
   }
   else{
@@ -137,14 +148,16 @@ function btnProvideQuestion() {
   }
 
   //테이블
-  if(quizTable[randomNum] == ""){
-    _quizTable.style.display="none";
+  console.log(quizTable[randomNum]);
+  if(quizTable[randomNum] == "none"){
+    $("#quizTable").hide();
   }
   else{
     var strTableTitle = quizTable[randomNum].split(':');
-    document.getElementById("quizImageTitle").innerHTML = strTableTitle[0];
-    document.getElementById("quizImageContent").innerHTML = strTableTitle[1];
-    _quizTable.style.display="block";
+    document.getElementById("quizTableTitle").innerHTML = strTableTitle[0];
+    document.getElementById("quizTableContent").innerHTML = strTableTitle[1];
+    $("#quizTable").show();
+    _quizTable.style.margin="0 auto";
   }
 
   for(var i=0; i<answerObj.length; i++){
@@ -196,6 +209,7 @@ function checkAnswer(selectAnswer, answerObject) {
 
     quizName.splice(randomNum, 1);
     quizImage.splice(randomNum, 1);
+    quizTable.splice(randomNum, 1);
     quizType.splice(randomNum, 1);
     answer1.splice(randomNum, 1);
     answer2.splice(randomNum, 1);
@@ -330,11 +344,10 @@ function result_gotoMain_clicked() {
       for(var i=0; i<randomAnswers.length; i++){
         if(randomAnswers[i] == answer1[randomNum]){
           answer_clicked(answerObj[i]);
-          console.log('정답 ' + i);
+          //console.log('정답 ' + i);
           break;
         }
       }
-      //document.dispatchEvent(new KeyboardEvent('keydown', {key: 'e'}));
     }
   })
 })();

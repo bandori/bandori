@@ -107,13 +107,16 @@ img.quizImage{
   height: 300;
 }
 
+.quizTable{
+  margin-bottom: 50px;
+}
 
 table.quizTable {
   border-collapse: collapse;
   line-height: 1.5;
   border-top: 1px solid #ccc;
   border-left: 4px solid #369;
-  margin : 20px 10px;
+
 }
 table.quizTable th {
   width: 147px;
@@ -123,8 +126,8 @@ table.quizTable th {
   color: #000000;
   border-right: 1px solid #ccc;
   border-bottom: 1px solid #ccc;
-
 }
+
 table.quizTable td {
   width: 349px;
   padding: 10px;
