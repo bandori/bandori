@@ -66,7 +66,9 @@ function gameReady(){
     dataType: 'json',
     success: function(data) {
       var _num=0;
+      var _count=0;
       $.each(data, function(index){
+        if(_count >= 100) { return false; }
         if(gameMode=="all"){
    
           quizType[index] = data[index].type;
@@ -82,6 +84,8 @@ function gameReady(){
           answer2[index] = data[index].answer2;
           answer3[index] = data[index].answer3;
           answer4[index] = data[index].answer4;
+
+          _count++;
         }
         else{
           if(data[index].type == gameMode){
@@ -99,6 +103,7 @@ function gameReady(){
             answer3[_num] = data[index].answer3;
             answer4[_num] = data[index].answer4;
             _num++;
+            _count++;
           }
 
 

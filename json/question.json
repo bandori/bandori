@@ -2925,6 +2925,1021 @@
             "answer4": "27"
         },
         {
+            "type": "song",
+            "quiz": "이 노래는?",
+            "quizImage": "https://bandori.github.io/bandori/img/song/song_slice_001.jpg",
+            "quizTable": "티어 드롭스",
+            "answer1": "Poppin'Party의 오리지널곡",
+            "answer2": "Poppin'Party의 커버곡",
+            "answer3": "Afterglow의 오리지널곡",
+            "answer4": "Afterglow의 커버곡"
+        },
+        {
+            "type": "song",
+            "quiz": "이 노래 제목의 첫 글자는?",
+            "quizImage": "https://bandori.github.io/bandori/img/song/song_slice_002.jpg",
+            "quizTable": "Alchemy",
+            "answer1": "A",
+            "answer2": "B",
+            "answer3": "S",
+            "answer4": "T"
+        },
+        {
+            "type": "song",
+            "quiz": "이 노래 제목의 첫 글자는?",
+            "quizImage": "https://bandori.github.io/bandori/img/song/song_slice_003.jpg",
+            "quizTable": "Don't say \"Lazy\"",
+            "answer1": "D",
+            "answer2": "G",
+            "answer3": "S",
+            "answer4": "T"
+        },
+        {
+            "type": "song",
+            "quiz": "이 노래 제목의 첫 글자는?",
+            "quizImage": "https://bandori.github.io/bandori/img/song/song_slice_004.jpg",
+            "quizTable": "Butter-fly",
+            "answer1": "B",
+            "answer2": "H",
+            "answer3": "S",
+            "answer4": "R"
+        },
+        {
+            "type": "song",
+            "quiz": "이 노래의 EXPERT 난이도는?",
+            "quizImage": "https://bandori.github.io/bandori/img/song/song_slice_005.jpg",
+            "quizTable": "내일의 밤하늘 초계반",
+            "answer1": "26",
+            "answer2": "24",
+            "answer3": "25",
+            "answer4": "27"
+        },
+        {
+            "type": "song",
+            "quiz": "이 노래 제목의 첫 글자는?",
+            "quizImage": "https://bandori.github.io/bandori/img/song/song_slice_006.jpg",
+            "quizTable": "길티",
+            "answer1": "T",
+            "answer2": "G",
+            "answer3": "L",
+            "answer4": "S"
+        },
+        {
+            "type": "song",
+            "quiz": "이 노래는?",
+            "quizImage": "https://bandori.github.io/bandori/img/song/song_slice_007.jpg",
+            "quizTable": "스칼렛 스카이",
+            "answer1": "Afterglow의 오리지널곡",
+            "answer2": "Afterglow의 커버곡",
+            "answer3": "Poppin'Party의 오리지널곡",
+            "answer4": "Poppin'Party의 커버곡"
+        },
+        {
+            "type": "song",
+            "quiz": "이 노래는?",
+            "quizImage": "https://bandori.github.io/bandori/img/song/song_slice_008.jpg",
+            "quizTable": "That is",
+            "answer1": "That Is How I Roll!",
+            "answer2": "이어진 하늘 모양",
+            "answer3": "ON YOUR MARK",
+            "answer4": "True Color"
+        },
+        {
+            "type": "song",
+            "quiz": "이 노래는?",
+            "quizImage": "https://bandori.github.io/bandori/img/song/song_slice_009.jpg",
+            "quizTable": "푹신푹신 타임",
+            "answer1": "Pastel*Palettes의 커버곡",
+            "answer2": "Pastel*Palettes의 오리지널곡",
+            "answer3": "헬로, 해피 월드!의 오리지널곡",
+            "answer4": "헬로, 해피 월드!의 커버곡"
+        },
+        {
+            "type": "song",
+            "quiz": "이 노래 제목의 첫 글자는?",
+            "quizImage": "https://bandori.github.io/bandori/img/song/song_slice_010.jpg",
+            "quizTable": "god knows",
+            "answer1": "G",
+            "answer2": "B",
+            "answer3": "K",
+            "answer4": "L"
+        },
+        {
+            "type": "song",
+            "quiz": "이 노래 제목의 첫 글자는?",
+            "quizImage": "https://bandori.github.io/bandori/img/song/song_slice_011.jpg",
+            "quizTable": "moon pride",
+            "answer1": "M",
+            "answer2": "G",
+            "answer3": "S",
+            "answer4": "T"
+        },
+        {
+            "type": "song",
+            "quiz": "이 노래 제목의 첫 글자는?",
+            "quizImage": "https://bandori.github.io/bandori/img/song/song_slice_012.jpg",
+            "quizTable": "천체관측(Tentai Kansoku)",
+            "answer1": "T",
+            "answer2": "C",
+            "answer3": "H",
+            "answer4": "K"
+        },
+        {
+            "type": "song",
+            "quizImage": "https://bandori.github.io/bandori/img/song/song_slice_013.jpg",
+            "quizTable": "리틀 버스터즈",
+            "answer1": "Poppin'Party의 커버곡",
+            "answer2": "Afterglow의 커버곡",
+            "answer3": "Pastel*Palettes의 커버곡",
+            "answer4": "헬로, 해피 월드!의 커버곡"
+        },
+        {
+            "type": "song",
+            "quizImage": "https://bandori.github.io/bandori/img/song/song_slice_014.jpg",
+            "quizTable": "실루엣",
+            "answer1": "헬로, 해피 월드!의 커버곡",
+            "answer2": "Poppin'Party의 커버곡",
+            "answer3": "Pastel*Palettes의 커버곡",
+            "answer4": "Roselia의 커버곡"
+        },
+        {
+            "type": "song",
+            "quiz": "이 노래 제목의 첫 글자는?",
+            "quizImage": "https://bandori.github.io/bandori/img/song/song_slice_015.jpg",
+            "quizTable": "디터미",
+            "answer1": "D",
+            "answer2": "O",
+            "answer3": "L",
+            "answer4": "P"
+        },
+        {
+            "type": "song",
+            "quizImage": "https://bandori.github.io/bandori/img/song/song_slice_016.jpg",
+            "quizTable": "히마와리",
+            "answer1": "헬로, 해피 월드!의 커버곡",
+            "answer2": "헬로, 해피 월드!의 오리지널곡",
+            "answer3": "Afterglow의 오리지널곡",
+            "answer4": "Afterglow의 커버곡"
+        },
+        {
+            "type": "song",
+            "quizImage": "https://bandori.github.io/bandori/img/song/song_slice_017.jpg",
+            "quizTable": "양지 로도나이트",
+            "answer1": "Roselia의 오리지널곡",
+            "answer2": "Poppin'Party의 오리지널곡",
+            "answer3": "Afterglow의 오리지널곡",
+            "answer4": "헬로, 해피 월드!의 오리지널곡"
+        },
+        {
+            "type": "song",
+            "quiz": "이 노래 제목의 첫 글자는?",
+            "quizImage": "https://bandori.github.io/bandori/img/song/song_slice_018.jpg",
+            "quizTable": "Louder",
+            "answer1": "L",
+            "answer2": "D",
+            "answer3": "F",
+            "answer4": "S"
+        },
+        {
+            "type": "song",
+            "quizImage": "https://bandori.github.io/bandori/img/song/song_slice_019.jpg",
+            "quizTable": "리버스데이",
+            "answer1": "Roselia의 오리지널곡",
+            "answer2": "Poppin'Party의 오리지널곡",
+            "answer3": "Pastel*Palettes의 오리지널곡",
+            "answer4": "Morfonica의 오리지널곡"
+        },
+        {
+            "type": "song",
+            "quizImage": "https://bandori.github.io/bandori/img/song/song_slice_020.jpg",
+            "quizTable": "사쿠라 메모리",
+            "answer1": "Poppin'Party의 오리지널곡",
+            "answer2": "Pastel*Palettes의 오리지널곡",
+            "answer3": "헬로, 해피 월드!의 오리지널곡",
+            "answer4": "Morfonica의 오리지널곡"
+        },
+        {
+            "type": "song",
+            "quiz": "이 노래 제목의 첫 글자는?",
+            "quizImage": "https://bandori.github.io/bandori/img/song/song_slice_021.jpg",
+            "quizTable": "서바네바",
+            "answer1": "S",
+            "answer2": "Y",
+            "answer3": "K",
+            "answer4": "W"
+        },
+        {
+            "type": "song",
+            "quizImage": "https://bandori.github.io/bandori/img/song/song_slice_022.jpg",
+            "quizTable": "슈와링",
+            "answer1": "슈와링☆드리~밍",
+            "answer2": "파스파레볼루션즈☆",
+            "answer3": "흔들・흔들 Ring-Dong-Dance",
+            "answer4": "큐～마이＊flower"
+        },
+        {
+            "type": "song",
+            "quizImage": "https://bandori.github.io/bandori/img/song/song_slice_023.jpg",
+            "quizTable": "하나마루",
+            "answer1": "Pastel*Palettes의 커버곡",
+            "answer2": "Pastel*Palettes의 오리지널곡",
+            "answer3": "헬로, 해피 월드!의 오리지널곡",
+            "answer4": "헬로, 해피 월드!의 커버곡"
+        },
+        {
+            "type": "song",
+            "quizImage": "https://bandori.github.io/bandori/img/song/song_slice_024.jpg",
+            "quizTable": "드래곤나이트",
+            "answer1": "헬로, 해피 월드!의 커버곡",
+            "answer2": "헬로, 해피 월드!의 오리지널곡",
+            "answer3": "Poppin'Party의 오리지널곡",
+            "answer4": "Poppin'Party의 커버곡"
+        },
+        {
+            "type": "song",
+            "quiz": "이 노래 제목의 첫 글자는?",
+            "quizImage": "https://bandori.github.io/bandori/img/song/song_slice_025.jpg",
+            "quizTable": "햎신사",
+            "answer1": "H",
+            "answer2": "P",
+            "answer3": "S",
+            "answer4": "W"
+        },
+        {
+            "type": "song",
+            "quiz": "이 노래의 EXPERT 난이도는?",
+            "quizImage": "https://bandori.github.io/bandori/img/song/song_slice_026.jpg",
+            "quizTable": "심애",
+            "answer1": "25",
+            "answer2": "23",
+            "answer3": "24",
+            "answer4": "26"
+        },
+        {
+            "type": "song",
+            "quizImage": "https://bandori.github.io/bandori/img/song/song_slice_027.jpg",
+            "quizTable": "사랑 혼돈",
+            "answer1": "헬로, 해피 월드!의 커버곡",
+            "answer2": "헬로, 해피 월드!의 오리지널곡",
+            "answer3": "Poppin'Party의 오리지널곡",
+            "answer4": "Poppin'Party의 커버곡"
+        },
+        {
+            "type": "song",
+            "quizImage": "https://bandori.github.io/bandori/img/song/song_slice_028.jpg",
+            "quizTable": "루프란",
+            "answer1": "Roselia의 커버곡",
+            "answer2": "듀엣 커버곡",
+            "answer3": "RAISE A SUILEN의 커버곡",
+            "answer4": "Afterglow의 커버곡"
+        },
+        {
+            "type": "song",
+            "quiz": "이 노래 제목의 첫 글자는?",
+            "quizImage": "https://bandori.github.io/bandori/img/song/song_slice_029.jpg",
+            "quizTable": "secret base",
+            "answer1": "S",
+            "answer2": "A",
+            "answer3": "K",
+            "answer4": "R"
+        },
+        {
+            "type": "song",
+            "quizImage": "https://bandori.github.io/bandori/img/song/song_slice_030.jpg",
+            "quizTable": "슈가송",
+            "answer1": "헬로, 해피 월드!의 커버곡",
+            "answer2": "Poppin'Party의 커버곡",
+            "answer3": "Afterglow의 커버곡",
+            "answer4": "Roselia의 커버곡"
+        },
+        {
+            "type": "song",
+            "quizImage": "https://bandori.github.io/bandori/img/song/song_slice_031.jpg",
+            "quizTable": "최고",
+            "answer1": "Poppin'Party의 오리지널곡",
+            "answer2": "Poppin'Party의 커버곡",
+            "answer3": "헬로, 해피 월드!의 오리지널곡",
+            "answer4": "헬로, 해피 월드!의 커버곡"
+        },
+        {
+            "type": "song",
+            "quiz": "이 노래 제목의 첫 글자는?",
+            "quizImage": "https://bandori.github.io/bandori/img/song/song_slice_032.jpg",
+            "quizTable": "neo aspect",
+            "answer1": "N",
+            "answer2": "B",
+            "answer3": "D",
+            "answer4": "F"
+        },
+        {
+            "type": "song",
+            "quizImage": "https://bandori.github.io/bandori/img/song/song_slice_033.jpg",
+            "quizTable": "변덕스러운 로맨틱",
+            "answer1": "Pastel*Palettes의 커버곡",
+            "answer2": "Pastel*Palettes의 오리지널곡",
+            "answer3": "헬로, 해피 월드!의 오리지널곡",
+            "answer4": "헬로, 해피 월드!의 커버곡"
+        },
+        {
+            "type": "song",
+            "quizImage": "https://bandori.github.io/bandori/img/song/song_slice_034.jpg",
+            "quizTable": "후와캬라",
+            "answer1": "헬로, 해피 월드!의 오리지널곡",
+            "answer2": "헬로, 해피 월드!의 커버곡",
+            "answer3": "Pastel*Palettes의 오리지널곡",
+            "answer4": "Pastel*Palettes의 커버곡"
+        },
+        {
+            "type": "song",
+            "quiz": "이 노래 제목의 첫 글자는?",
+            "quizImage": "https://bandori.github.io/bandori/img/song/song_slice_035.jpg",
+            "quizTable": "샹그리라",
+            "answer1": "S",
+            "answer2": "C",
+            "answer3": "H",
+            "answer4": "J"
+        },
+        {
+            "type": "song",
+            "quiz": "이 노래 제목의 첫 글자는?",
+            "quizImage": "https://bandori.github.io/bandori/img/song/song_slice_036.jpg",
+            "quizTable": "사쿠라 스킵",
+            "answer1": "S",
+            "answer2": "R",
+            "answer3": "T",
+            "answer4": "N"
+        },
+        {
+            "type": "song",
+            "quizImage": "https://bandori.github.io/bandori/img/song/song_slice_037.jpg",
+            "quizTable": "오페라",
+            "answer1": "Roselia의 오리지널곡",
+            "answer2": "Roselia의 커버곡",
+            "answer3": "Afterglow의 오리지널곡",
+            "answer4": "Afterglow의 커버곡"
+        },
+        {
+            "type": "song",
+            "quizImage": "https://bandori.github.io/bandori/img/song/song_slice_038.jpg",
+            "quizTable": "원네스",
+            "answer1": "Roselia의 오리지널곡",
+            "answer2": "Afterglow의 오리지널곡",
+            "answer3": "Morfonica의 오리지널곡",
+            "answer4": "RAISE A SUILEN의 오리지널곡"
+        },
+        {
+            "type": "song",
+            "quizImage": "https://bandori.github.io/bandori/img/song/song_slice_039.jpg",
+            "quizTable": "테제",
+            "answer1": "Roselia의 커버곡",
+            "answer2": "Poppin'Party의 커버곡",
+            "answer3": "Afterglow의 커버곡",
+            "answer4": "헬로, 해피 월드!의 커버곡"
+        },
+        {
+            "type": "song",
+            "quizImage": "https://bandori.github.io/bandori/img/song/song_slice_040.jpg",
+            "quizTable": "꼬옥데이즈",
+            "answer1": "꼬옥DAYS♪",
+            "answer2": "따끈따끈 언제나 여름 러브☆서머~!",
+            "answer3": "Power of LOVE!!!",
+            "answer4": "하나마루◎안단테"
+        },
+        {
+            "type": "song",
+            "quizImage": "https://bandori.github.io/bandori/img/song/song_slice_041.jpg",
+            "quizTable": "설월화",
+            "answer1": "헬로, 해피 월드!의 커버곡",
+            "answer2": "헬로, 해피 월드!의 오리지널곡",
+            "answer3": "Pastel*Palettes의 오리지널곡",
+            "answer4": "Pastel*Palettes의 커버곡"
+        },
+        {
+            "type": "song",
+            "quizImage": "https://bandori.github.io/bandori/img/song/song_slice_042.jpg",
+            "quizTable": "Wake Up",
+            "answer1": "Poppin'Party의 커버곡",
+            "answer2": "Afterglow의 커버곡",
+            "answer3": "Pastel*Palettes의 커버곡",
+            "answer4": "헬로, 해피 월드!의 커버곡"
+        },
+        {
+            "type": "song",
+            "quiz": "이 노래 제목의 첫 글자는?",
+            "quizImage": "https://bandori.github.io/bandori/img/song/song_slice_043.jpg",
+            "quizTable": "카나데",
+            "answer1": "K",
+            "answer2": "D",
+            "answer3": "S",
+            "answer4": "R"
+        },
+        {
+            "type": "song",
+            "quizImage": "https://bandori.github.io/bandori/img/song/song_slice_044.jpg",
+            "quizTable": "RIOT",
+            "answer1": "RAISE A SUILEN의 오리지널곡",
+            "answer2": "RAISE A SUILEN의 커버곡",
+            "answer3": "Roselia의 오리지널곡",
+            "answer4": "Roselia의 커버곡"
+        },
+        {
+            "type": "song",
+            "quiz": "이 노래 제목의 첫 글자는?",
+            "quizImage": "https://bandori.github.io/bandori/img/song/song_slice_045.jpg",
+            "quizTable": "Brave Jewel",
+            "answer1": "B",
+            "answer2": "D",
+            "answer3": "F",
+            "answer4": "O"
+        },
+        {
+            "type": "song",
+            "quizImage": "https://bandori.github.io/bandori/img/song/song_slice_046.jpg",
+            "quizTable": "키즈나 뮤직",
+            "answer1": "Poppin'Party의 오리지널곡",
+            "answer2": "Poppin'Party의 커버곡",
+            "answer3": "Pastel*Palettes의 오리지널곡",
+            "answer4": "Pastel*Palettes의 커버곡"
+        },
+        {
+            "type": "song",
+            "quizImage": "https://bandori.github.io/bandori/img/song/song_slice_047.jpg",
+            "quizTable": "Crow Song",
+            "answer1": "C",
+            "answer2": "R",
+            "answer3": "S",
+            "answer4": "T"
+        },
+        {
+            "type": "song",
+            "quizImage": "https://bandori.github.io/bandori/img/song/song_slice_048.jpg",
+            "quizTable": "Hello Wink",
+            "answer1": "H",
+            "answer2": "R",
+            "answer3": "W",
+            "answer4": "A"
+        },
+        {
+            "type": "song",
+            "quizImage": "https://bandori.github.io/bandori/img/song/song_slice_049.jpg",
+            "quizTable": "Discotheque",
+            "answer1": "Pastel*Palettes의 커버곡",
+            "answer2": "Poppin'Party의 오리지널곡",
+            "answer3": "Poppin'Party의 커버곡",
+            "answer4": "헬로, 해피 월드!의 커버곡"
+        },
+        {
+            "type": "song",
+            "quizImage": "https://bandori.github.io/bandori/img/song/song_slice_050.jpg",
+            "quizTable": "샤를",
+            "answer1": "Roselia의 커버곡",
+            "answer2": "Poppin'Party의 커버곡",
+            "answer3": "Afterglow의 커버곡",
+            "answer4": "Morfonica의 커버곡"
+        },
+        {
+            "type": "song",
+            "quizImage": "https://bandori.github.io/bandori/img/song/song_slice_051.jpg",
+            "quizTable": "Life will Change",
+            "answer1": "Poppin'Party의 커버곡",
+            "answer2": "Afterglow의 커버곡",
+            "answer3": "Roselia의 커버곡",
+            "answer4": "RAISE A SUILEN의 커버곡"
+        },
+        {
+            "type": "song",
+            "quiz": "이 노래 제목의 첫 글자는?",
+            "quizImage": "https://bandori.github.io/bandori/img/song/song_slice_052.jpg",
+            "quizTable": "Reach Out To The Truth",
+            "answer1": "R",
+            "answer2": "L",
+            "answer3": "D",
+            "answer4": "R"
+        },
+        {
+            "type": "song",
+            "quizImage": "https://bandori.github.io/bandori/img/song/song_slice_053.jpg",
+            "quizTable": "너의 기억",
+            "answer1": "Roselia의 커버곡",
+            "answer2": "Poppin'Party의 커버곡",
+            "answer3": "Pastel*Palettes의 커버곡",
+            "answer4": "Morfonica의 커버곡"
+        },
+        {
+            "type": "song",
+            "quiz": "이 노래 제목의 첫 글자는?",
+            "quizImage": "https://bandori.github.io/bandori/img/song/song_slice_054.jpg",
+            "quizTable": "Jumpin'",
+            "answer1": "J",
+            "answer2": "T",
+            "answer3": "A",
+            "answer4": "S"
+        },
+        {
+            "type": "song",
+            "quiz": "이 노래 제목의 첫 글자는?",
+            "quizImage": "https://bandori.github.io/bandori/img/song/song_slice_055.jpg",
+            "quizTable": "What the POPIPA!?",
+            "answer1": "W",
+            "answer2": "D",
+            "answer3": "S",
+            "answer4": "R"
+        },
+        {
+            "type": "song",
+            "quizImage": "https://bandori.github.io/bandori/img/song/song_slice_056.jpg",
+            "quizTable": "사랑의 시나리오",
+            "answer1": "Afterglow의 커버곡",
+            "answer2": "Afterglow의 오리지널곡",
+            "answer3": "RAISE A SUILEN의 오리지널곡",
+            "answer4": "RAISE A SUILEN의 커버곡"
+        },
+        {
+            "type": "song",
+            "quizImage": "https://bandori.github.io/bandori/img/song/song_slice_057.jpg",
+            "quizTable": "애달픈 Sandglass",
+            "answer1": "Poppin'Party의 오리지널곡",
+            "answer2": "Poppin'Party의 커버곡",
+            "answer3": "Morfonica의 오리지널곡",
+            "answer4": "Morfonica의 커버곡"
+        },
+        {
+            "type": "song",
+            "quizImage": "https://bandori.github.io/bandori/img/song/song_slice_058.jpg",
+            "quizTable": "Easy Come, Easy Go!",
+            "answer1": "Afterglow의 오리지널곡",
+            "answer2": "Poppin'Party의 오리지널곡",
+            "answer3": "Pastel*Palettes의 오리지널곡",
+            "answer4": "헬로, 해피 월드!의 오리지널곡"
+        },
+        {
+            "type": "song",
+            "quizImage": "https://bandori.github.io/bandori/img/song/song_slice_059.jpg",
+            "quizTable": "푸른 책갈피",
+            "answer1": "Afterglow의 커버곡",
+            "answer2": "Poppin'Party의 커버곡",
+            "answer3": "Pastel*Palettes의 커버곡",
+            "answer4": "헬로, 해피 월드!의 커버곡"
+        },
+        {
+            "type": "song",
+            "quizImage": "https://bandori.github.io/bandori/img/song/song_slice_060.jpg",
+            "quizTable": "해색",
+            "answer1": "Roselia의 커버곡",
+            "answer2": "Roselia의 오리지널곡",
+            "answer3": "Afterglow의 오리지널곡",
+            "answer4": "Afterglow의 커버곡"
+        },
+        {
+            "type": "song",
+            "quizImage": "https://bandori.github.io/bandori/img/song/song_slice_061.jpg",
+            "quizTable": "연애재판",
+            "answer1": "헬로, 해피 월드!의 커버곡",
+            "answer2": "헬로, 해피 월드!의 오리지널곡",
+            "answer3": "Poppin'Party의 오리지널곡",
+            "answer4": "Poppin'Party의 커버곡"
+        },
+        {
+            "type": "song",
+            "quizImage": "https://bandori.github.io/bandori/img/song/song_slice_062.jpg",
+            "quizTable": "약속",
+            "answer1": "약속",
+            "answer2": "R",
+            "answer3": "Safe and Sound",
+            "answer4": "Avant-garde HISTORY"
+        },
+        {
+            "type": "song",
+            "quizImage": "https://bandori.github.io/bandori/img/song/song_slice_063.jpg",
+            "quizTable": "한밤 중의 약속",
+            "answer1": "Afterglow의 커버곡",
+            "answer2": "Poppin'Party의 오리지널곡",
+            "answer3": "Poppin'Party의 커버곡",
+            "answer4": "Roselia의 커버곡"
+        },
+        {
+            "type": "song",
+            "quizImage": "https://bandori.github.io/bandori/img/song/song_slice_064.jpg",
+            "quizTable": "언스토퍼블",
+            "answer1": "RAISE A SUILEN의 오리지널곡",
+            "answer2": "RAISE A SUILEN의 커버곡",
+            "answer3": "Roselia의 오리지널곡",
+            "answer4": "Roselia의 커버곡"
+        },
+        {
+            "type": "song",
+            "quizImage": "https://bandori.github.io/bandori/img/song/song_slice_065.jpg",
+            "quizTable": "비색의 하늘",
+            "answer1": "Roselia의 커버곡",
+            "answer2": "Afterglow의 오리지널곡",
+            "answer3": "Afterglow의 커버곡",
+            "answer4": "헬로, 해피 월드!의 커버곡"
+        },
+        {
+            "type": "song",
+            "quiz": "이 노래 제목의 첫 글자는?",
+            "quizImage": "https://bandori.github.io/bandori/img/song/song_slice_066.jpg",
+            "quizTable": "데이드림 카페",
+            "answer1": "D",
+            "answer2": "N",
+            "answer3": "P",
+            "answer4": "S"
+        },
+        {
+            "type": "song",
+            "quizImage": "https://bandori.github.io/bandori/img/song/song_slice_067.jpg",
+            "quizTable": "ON YOUR MARK",
+            "answer1": "Afterglow의 오리지널곡",
+            "answer2": "Afterglow의 커버곡",
+            "answer3": "RAISE A SUILEN의 오리지널곡",
+            "answer4": "RAISE A SUILEN의 커버곡"
+        },
+        {
+            "type": "song",
+            "quiz": "이 노래 제목의 첫 글자는?",
+            "quizImage": "https://bandori.github.io/bandori/img/song/song_slice_068.jpg",
+            "quizTable": "Returns",
+            "answer1": "R",
+            "answer2": "C",
+            "answer3": "I",
+            "answer4": "M"
+        },
+        {
+            "type": "song",
+            "quiz": "이 노래 제목의 첫 글자는?",
+            "quizImage": "https://bandori.github.io/bandori/img/song/song_slice_069.jpg",
+            "quizTable": "Ringing Bloom",
+            "answer1": "R",
+            "answer2": "B",
+            "answer3": "S",
+            "answer4": "Y"
+        },
+        {
+            "type": "song",
+            "quizImage": "https://bandori.github.io/bandori/img/song/song_slice_070.jpg",
+            "quizTable": "친구 필름",
+            "answer1": "Poppin'Party의 커버곡",
+            "answer2": "Poppin'Party의 오리지널곡",
+            "answer3": "Pastel*Palettes의 오리지널곡",
+            "answer4": "Pastel*Palettes의 커버곡"
+        },
+        {
+            "type": "song",
+            "quizImage": "https://bandori.github.io/bandori/img/song/song_slice_071.jpg",
+            "quizTable": "라시사",
+            "answer1": "Afterglow의 커버곡",
+            "answer2": "Poppin'Party의 커버곡",
+            "answer3": "Roselia의 커버곡",
+            "answer4": "RAISE A SUILEN의 커버곡"
+        },
+        {
+            "type": "song",
+            "quizImage": "https://bandori.github.io/bandori/img/song/song_slice_072.jpg",
+            "quizTable": "플레이 플레이",
+            "answer1": "헬로, 해피 월드!의 오리지널곡",
+            "answer2": "헬로, 해피 월드!의 커버곡",
+            "answer3": "Poppin'Party의 오리지널곡",
+            "answer4": "Poppin'Party의 커버곡"
+        },
+        {
+            "type": "song",
+            "quizImage": "https://bandori.github.io/bandori/img/song/song_slice_073.jpg",
+            "quizTable": "군청일화",
+            "answer1": "군청일화",
+            "answer2": "야행성 하이즈",
+            "answer3": "인연 뮤직♪",
+            "answer4": "꿈을 꿰뚫는 순간에!"
+        },
+        {
+            "type": "song",
+            "quizImage": "https://bandori.github.io/bandori/img/song/song_slice_074.jpg",
+            "quizTable": "메릿사",
+            "answer1": "Morfonica의 커버곡",
+            "answer2": "Afterglow의 커버곡",
+            "answer3": "Roselia의 커버곡",
+            "answer4": "Pastel*Palettes의 커버곡"
+        },
+        {
+            "type": "song",
+            "quizImage": "https://bandori.github.io/bandori/img/song/song_slice_075.jpg",
+            "quizTable": "데이라이트",
+            "answer1": "Morfonica의 오리지널곡",
+            "answer2": "Morfonica의 커버곡",
+            "answer3": "Poppin'Party의 오리지널곡",
+            "answer4": "Poppin'Party의 커버곡"
+        },
+        {
+            "type": "song",
+            "quizImage": "https://bandori.github.io/bandori/img/song/song_slice_076.jpg",
+            "quizTable": "로키",
+            "answer1": "Afterglow의 커버곡",
+            "answer2": "Poppin'Party의 커버곡",
+            "answer3": "Roselia의 커버곡",
+            "answer4": "헬로, 해피 월드!의 커버곡"
+        },
+        {
+            "type": "song",
+            "quizImage": "https://bandori.github.io/bandori/img/song/song_slice_077.jpg",
+            "quizTable": "인페르노",
+            "answer1": "Afterglow의 커버곡",
+            "answer2": "Afterglow의 오리지널곡",
+            "answer3": "RAISE A SUILEN의 오리지널곡",
+            "answer4": "RAISE A SUILEN의 커버곡"
+        },
+        {
+            "type": "song",
+            "quiz": "이 노래 제목의 첫 글자는?",
+            "quizImage": "https://bandori.github.io/bandori/img/song/song_slice_078.jpg",
+            "quizTable": "Twinkle Circle",
+            "answer1": "T",
+            "answer2": "C",
+            "answer3": "G",
+            "answer4": "H"
+        },
+        {
+            "type": "song",
+            "quizImage": "https://bandori.github.io/bandori/img/song/song_slice_079.jpg",
+            "quizTable": "도레미파 론도",
+            "answer1": "헬로, 해피 월드!의 커버곡",
+            "answer2": "헬로, 해피 월드!의 오리지널곡",
+            "answer3": "Pastel*Palettes의 오리지널곡",
+            "answer4": "Pastel*Palettes의 커버곡"
+        },
+        {
+            "type": "song",
+            "quizImage": "https://bandori.github.io/bandori/img/song/song_slice_080.jpg",
+            "quizTable": "Song I am",
+            "answer1": "S",
+            "answer2": "R",
+            "answer3": "I",
+            "answer4": "N"
+        },
+        {
+            "type": "song",
+            "quizImage": "https://bandori.github.io/bandori/img/song/song_slice_081.jpg",
+            "quizTable": "코우가인법첩",
+            "answer1": "Roselia의 커버곡",
+            "answer2": "Roselia의 오리지널곡",
+            "answer3": "Afterglow의 커버곡",
+            "answer4": "Morfonica의 커버곡"
+        },
+        {
+            "type": "song",
+            "quizImage": "https://bandori.github.io/bandori/img/song/song_slice_082.jpg",
+            "quizTable": "꿈꿰뚫",
+            "answer1": "Poppin'Party의 오리지널곡",
+            "answer2": "Afterglow의 커버곡",
+            "answer3": "Pastel*Palettes의 오리지널곡",
+            "answer4": "Pastel*Palettes의 커버곡"
+        },
+        {
+            "type": "song",
+            "quizImage": "https://bandori.github.io/bandori/img/song/song_slice_083.jpg",
+            "quizTable": "이로하니호",
+            "answer1": "Pastel*Palettes의 커버곡",
+            "answer2": "Pastel*Palettes의 오리지널곡",
+            "answer3": "헬로, 해피 월드!의 커버곡",
+            "answer4": "Poppin'Party의 커버곡"
+        },
+        {
+            "type": "song",
+            "quizImage": "https://bandori.github.io/bandori/img/song/song_slice_084.jpg",
+            "quizTable": "천성의 약함",
+            "answer1": "Afterglow의 커버곡",
+            "answer2": "Roselia의 오리지널곡",
+            "answer3": "Roselia의 커버곡",
+            "answer4": "RAISE A SUILEN의 커버곡"
+        },
+        {
+            "type": "song",
+            "quizImage": "https://bandori.github.io/bandori/img/song/song_slice_085.jpg",
+            "quizTable": "이니셜",
+            "answer1": "이니셜",
+            "answer2": "Breakthrough!",
+            "answer3": "What's the POPIPA!?",
+            "answer4": "Dreamers Go!"
+        },
+        {
+            "type": "song",
+            "quizImage": "https://bandori.github.io/bandori/img/song/song_slice_086.jpg",
+            "quizTable": "추억 일루미네이션",
+            "answer1": "헬로, 해피 월드!의 오리지널곡",
+            "answer2": "헬로, 해피 월드!의 커버곡",
+            "answer3": "Poppin'Party의 오리지널곡",
+            "answer4": "Poppin'Party의 커버곡"
+        },
+        {
+            "type": "song",
+            "quizImage": "https://bandori.github.io/bandori/img/song/song_slice_087.jpg",
+            "quizTable": "격동",
+            "answer1": "RAISE A SUILEN의 커버곡",
+            "answer2": "Afterglow의 커버곡",
+            "answer3": "Roselia의 커버곡",
+            "answer4": "Morfonica의 커버곡"
+        },
+        {
+            "type": "song",
+            "quiz": "이 노래 제목의 첫 글자는?",
+            "quizImage": "https://bandori.github.io/bandori/img/song/song_slice_088.jpg",
+            "quizTable": "Sasanqua",
+            "answer1": "S",
+            "answer2": "E",
+            "answer3": "F",
+            "answer4": "L"
+        },
+        {
+            "type": "song",
+            "quiz": "이 노래 제목의 첫 글자는?",
+            "quizImage": "https://bandori.github.io/bandori/img/song/song_slice_089.jpg",
+            "quizTable": "CQCQ",
+            "answer1": "C",
+            "answer2": "B",
+            "answer3": "N",
+            "answer4": "P"
+        },
+        {
+            "type": "song",
+            "quizImage": "https://bandori.github.io/bandori/img/song/song_slice_090.jpg",
+            "quizTable": "좋아 눈",
+            "answer1": "헬로, 해피 월드!의 커버곡",
+            "answer2": "헬로, 해피 월드!의 오리지널곡",
+            "answer3": "Pastel*Palettes의 오리지널곡",
+            "answer4": "Pastel*Palettes의 커버곡"
+        },
+        {
+            "type": "song",
+            "quiz": "이 노래 제목의 첫 글자는?",
+            "quizImage": "https://bandori.github.io/bandori/img/song/song_slice_091.jpg",
+            "quizTable": "선전포고",
+            "answer1": "S",
+            "answer2": "F",
+            "answer3": "K",
+            "answer4": "T"
+        },
+        {
+            "type": "song",
+            "quiz": "이 노래 제목의 첫 글자는?",
+            "quizImage": "https://bandori.github.io/bandori/img/song/song_slice_092.jpg",
+            "quizTable": "TITLE IDOL",
+            "answer1": "T",
+            "answer2": "P",
+            "answer3": "S",
+            "answer4": "Y"
+        },
+        {
+            "type": "song",
+            "quiz": "이 노래 제목의 첫 글자는?",
+            "quizImage": "https://bandori.github.io/bandori/img/song/song_slice_093.jpg",
+            "quizTable": "Sistser's Noise",
+            "answer1": "S",
+            "answer2": "A",
+            "answer3": "B",
+            "answer4": "P"
+        },
+        {
+            "type": "song",
+            "quiz": "이 노래 제목의 첫 글자는?",
+            "quizImage": "https://bandori.github.io/bandori/img/song/song_slice_094.jpg",
+            "quizTable": "Rolling Star",
+            "answer1": "R",
+            "answer2": "A",
+            "answer3": "T",
+            "answer4": "S"
+        },
+        {
+            "type": "song",
+            "quizImage": "https://bandori.github.io/bandori/img/song/song_slice_095.jpg",
+            "quizTable": "ONE OF US",
+            "answer1": "Afterglow의 오리지널곡",
+            "answer2": "Afterglow의 커버곡",
+            "answer3": "Poppin'Party의 오리지널곡",
+            "answer4": "Poppin'Party의 커버곡"
+        },
+        {
+            "type": "song",
+            "quiz": "이 노래 제목의 첫 글자는?",
+            "quizImage": "https://bandori.github.io/bandori/img/song/song_slice_096.jpg",
+            "quizTable": "Nevereverland",
+            "answer1": "N",
+            "answer2": "B",
+            "answer3": "C",
+            "answer4": "D"
+        },
+        {
+            "type": "song",
+            "quizImage": "https://bandori.github.io/bandori/img/song/song_slice_097.jpg",
+            "quizTable": "순간 여행",
+            "answer1": "Poppin'Party의 커버곡",
+            "answer2": "Pastel*Palettes의 커버곡",
+            "answer3": "헬로, 해피 월드!의 오리지널곡",
+            "answer4": "헬로, 해피 월드!의 커버곡"
+        },
+        {
+            "type": "song",
+            "quizImage": "https://bandori.github.io/bandori/img/song/song_slice_098.jpg",
+            "quizTable": "ZEAL of proud",
+            "answer1": "Roselia의 오리지널곡",
+            "answer2": "Roselia의 커버곡",
+            "answer3": "RAISE A SUILEN의 오리지널곡",
+            "answer4": "RAISE A SUILEN의 커버곡"
+        },
+        {
+            "type": "song",
+            "quiz": "이 노래 제목의 첫 글자는?",
+            "quizImage": "https://bandori.github.io/bandori/img/song/song_slice_099.jpg",
+            "quizTable": "INVADE ",
+            "answer1": "I",
+            "answer2": "H",
+            "answer3": "S",
+            "answer4": "R"
+        },
+        {
+            "type": "song",
+            "quiz": "이 노래 제목의 첫 글자는?",
+            "quizImage": "https://bandori.github.io/bandori/img/song/song_slice_100.jpg",
+            "quizTable": "Beautiful Birthday",
+            "answer1": "B",
+            "answer2": "A",
+            "answer3": "I",
+            "answer4": "R"
+        },
+        {
+            "type": "song",
+            "quizImage": "https://bandori.github.io/bandori/img/song/song_slice_101.jpg",
+            "quizTable": "I Knew It!",
+            "answer1": "Afterglow의 오리지널곡",
+            "answer2": "Afterglow의 커버곡",
+            "answer3": "Poppin'Party의 오리지널곡",
+            "answer4": "Pastel*Palettes의 커버곡"
+        },
+        {
+            "type": "song",
+            "quizImage": "https://bandori.github.io/bandori/img/song/song_slice_102.jpg",
+            "quizTable": "웃는 얼굴 찾았다",
+            "answer1": "헬로, 해피 월드!의 오리지널곡",
+            "answer2": "헬로, 해피 월드!의 커버곡",
+            "answer3": "Afterglow의 커버곡",
+            "answer4": "Pastel*Palettes의 커버곡"
+        },
+        {
+            "type": "song",
+            "quiz": "이 노래 제목의 첫 글자는?",
+            "quizImage": "https://bandori.github.io/bandori/img/song/song_slice_103.jpg",
+            "quizTable": "flame of hope",
+            "answer1": "F",
+            "answer2": "B",
+            "answer3": "D",
+            "answer4": "S"
+        },
+        {
+            "type": "song",
+            "quiz": "이 노래 제목의 첫 글자는?",
+            "quizImage": "https://bandori.github.io/bandori/img/song/song_slice_104.jpg",
+            "quizTable": "Level 5",
+            "answer1": "L",
+            "answer2": "D",
+            "answer3": "H",
+            "answer4": "O"
+        },
+        {
+            "type": "song",
+            "quiz": "이 노래 제목의 첫 글자는?",
+            "quizImage": "https://bandori.github.io/bandori/img/song/song_slice_105.jpg",
+            "quizTable": "Blessing Chord",
+            "answer1": "B",
+            "answer2": "H",
+            "answer3": "R",
+            "answer4": "U"
+        },
+        {
+            "type": "song",
+            "quizImage": "https://bandori.github.io/bandori/img/song/song_slice_106.jpg",
+            "quizTable": "초침을 깨물다",
+            "answer1": "Morfonica의 커버곡",
+            "answer2": "Poppin'Party의 커버곡",
+            "answer3": "Afterglow의 커버곡",
+            "answer4": "Pastel*Palettes의 커버곡"
+        },
+        {
+            "type": "song",
+            "quiz": "이 노래 제목의 첫 글자는?",
+            "quizImage": "https://bandori.github.io/bandori/img/song/song_slice_107.jpg",
+            "quizTable": "Avant-garde HISTORY",
+            "answer1": "A",
+            "answer2": "B",
+            "answer3": "R",
+            "answer4": "Z"
+        },
+        {
+            "type": "song",
+            "quizImage": "https://bandori.github.io/bandori/img/song/song_slice_108.jpg",
+            "quizTable": "미래 트레인",
+            "answer1": "Poppin'Party의 오리지널곡",
+            "answer2": "Afterglow의 오리지널곡",
+            "answer3": "헬로, 해피 월드!의 오리지널곡",
+            "answer4": "Morfonica의 오리지널곡"
+        },
+        {
             "type": "bg",
             "quiz": "여기는 어디일까요?",
             "quizImage": "https://i.bandori.party/u/asset/tthumb/1203Tsugumi-s-Room-1Azxdp.png",
@@ -3057,7 +4072,16 @@
             "answer1": "우다가와 가",
             "answer2": "시로카네 가",
             "answer3": "미나토 가",
-            "answer4": "츄츄의 집"
+            "answer4": "츄츄의 맨션"
+        },
+        {
+            "type": "bg",
+            "quiz": "여기는 어디일까요?",
+            "quizImage": "https://bestdori.com/assets/jp/bg/scenario38_rip/bg00384.png",
+            "answer1": "토야마 가",
+            "answer2": "야마부키 가",
+            "answer3": "마츠바라 가",
+            "answer4": "와카미야 가"
         },
         {
             "type": "bg",
@@ -3133,39 +4157,21 @@
         },
         {
             "type": "bg",
-            "quiz": "배경과 가장 관련 있는 밴드는?",
-            "quizImage": "https://i.bandori.party/u/asset/tthumb/907Water-park-0hldK6.png",
-            "answer1": "Roselia",
-            "answer2": "Poppin'Party",
-            "answer3": "Pastel*Palettes",
-            "answer4": "헬로, 해피 월드!"
+            "quiz": "여기는 어디일까요?",
+            "quizImage": "https://bestdori.com/assets/jp/bg/scenario40_rip/bg00407.png",
+            "answer1": "아야의 방",
+            "answer2": "히마리의 방",
+            "answer3": "리미의 방",
+            "answer4": "파레오의 방"
         },
         {
             "type": "bg",
             "quiz": "배경과 가장 관련 있는 밴드는?",
-            "quizImage": "https://i.bandori.party/u/asset/tthumb/900Beach-MKPczi.png",
-            "answer1": "헬로, 해피 월드!",
-            "answer2": "Poppin'Party",
-            "answer3": "Pastel*Palettes",
-            "answer4": "Afterglow"
-        },
-        {
-            "type": "bg",
-            "quiz": "배경과 가장 관련 있는 밴드는?",
-            "quizImage": "https://i.bandori.party/u/asset/tthumb/855Aquarium-R7EEVA.png",
-            "answer1": "Afterglow",
-            "answer2": "Poppin'Party",
-            "answer3": "Pastel*Palettes",
-            "answer4": "헬로, 해피 월드!"
-        },
-        {
-            "type": "bg",
-            "quiz": "배경과 가장 관련 있는 밴드는?",
-            "quizImage": "https://i.bandori.party/u/asset/tthumb/806Flowers-field-uPf2ty.png",
-            "answer1": "Pastel*Palettes",
-            "answer2": "Poppin'Party",
-            "answer3": "Afterglow",
-            "answer4": "헬로, 해피 월드!"
+            "quizImage": "https://bestdori.com/assets/jp/bg/scenario56_rip/bg00568.png",
+            "answer1": "레이야의 방",
+            "answer2": "토우코의 방",
+            "answer3": "나나미의 방",
+            "answer4": "카오루의 방"
         },
         {
             "type": "bg",
@@ -3182,60 +4188,6 @@
             "quizImage": "https://i.bandori.party/u/asset/zpDE30Stage-vLWCQV.png",
             "answer1": "Poppin'Party",
             "answer2": "Pastel*Palettes",
-            "answer3": "Roselia",
-            "answer4": "헬로, 해피 월드!"
-        },
-        {
-            "type": "bg",
-            "quiz": "배경과 가장 관련 있는 밴드는?",
-            "quizImage": "https://i.bandori.party/u/asset/tthumb/830Countryside-68MAAA.png",
-            "answer1": "Roselia",
-            "answer2": "Poppin'Party",
-            "answer3": "Pastel*Palettes",
-            "answer4": "헬로, 해피 월드!"
-        },
-        {
-            "type": "bg",
-            "quiz": "배경과 가장 관련 있는 밴드는?",
-            "quizImage": "https://i.bandori.party/u/asset/tthumb/863Park-tbSdVi.png",
-            "answer1": "Poppin'Party",
-            "answer2": "Pastel*Palettes",
-            "answer3": "Afterglow",
-            "answer4": "Roselia"
-        },
-        {
-            "type": "bg",
-            "quiz": "배경과 가장 관련 있는 밴드는?",
-            "quizImage": "https://i.bandori.party/u/asset/MyXLBDLibrary-Stacks-q72UVP.png",
-            "answer1": "헬로, 해피 월드!",
-            "answer2": "Poppin'Party",
-            "answer3": "Afterglow",
-            "answer4": "Roselia"
-        },
-        {
-            "type": "bg",
-            "quiz": "배경과 가장 관련 있는 밴드는?",
-            "quizImage": "https://i.bandori.party/u/asset/hibLWsLiving-room-V7bU1r.png",
-            "answer1": "Pastel*Palettes",
-            "answer2": "Poppin'Party",
-            "answer3": "Roselia",
-            "answer4": "헬로, 해피 월드!"
-        },
-        {
-            "type": "bg",
-            "quiz": "배경과 가장 관련 있는 밴드는?",
-            "quizImage": "https://i.bandori.party/u/asset/tthumb/903Corridor-with-smoke-0VtYgg.png",
-            "answer1": "Afterglow",
-            "answer2": "Poppin'Party",
-            "answer3": "Pastel*Palettes",
-            "answer4": "헬로, 해피 월드!"
-        },
-        {
-            "type": "bg",
-            "quiz": "배경과 가장 관련 있는 밴드는?",
-            "quizImage": "https://i.bandori.party/u/asset/tthumb/892Photo-studio-0boqiE.png",
-            "answer1": "Pastel*Palettes",
-            "answer2": "Afterglow",
             "answer3": "Roselia",
             "answer4": "헬로, 해피 월드!"
         },
@@ -3260,11 +4212,110 @@
         {
             "type": "bg",
             "quiz": "배경과 가장 관련 있는 밴드는?",
+            "quizImage": "https://i.bandori.party/u/asset/tthumb/863Park-tbSdVi.png",
+            "answer1": "Poppin'Party",
+            "answer2": "Pastel*Palettes",
+            "answer3": "Afterglow",
+            "answer4": "Roselia"
+        },
+        {
+            "type": "bg",
+            "quiz": "배경과 가장 관련 있는 밴드는?",
+            "quizImage": "https://i.bandori.party/u/asset/tthumb/903Corridor-with-smoke-0VtYgg.png",
+            "answer1": "Afterglow",
+            "answer2": "Poppin'Party",
+            "answer3": "Pastel*Palettes",
+            "answer4": "헬로, 해피 월드!"
+        },
+        {
+            "type": "bg",
+            "quiz": "배경과 가장 관련 있는 밴드는?",
+            "quizImage": "https://bestdori.com/assets/jp/bg/scenario53_rip/bg00538.png",
+            "answer1": "Afterglow",
+            "answer2": "Pastel*Palettes",
+            "answer3": "Roselia",
+            "answer4": "헬로, 해피 월드!"
+        },
+        {
+            "type": "bg",
+            "quiz": "배경과 가장 관련 있는 밴드는?",
             "quizImage": "https://bestdori.com/assets/jp/bg/scenario56_rip/bg00561.png",
             "answer1": "Afterglow",
             "answer2": "Poppin'Party",
             "answer3": "Pastel*Palettes",
             "answer4": "Roselia"
+        },
+        {
+            "type": "bg",
+            "quiz": "배경과 가장 관련 있는 밴드는?",
+            "quizImage": "https://i.bandori.party/u/asset/tthumb/855Aquarium-R7EEVA.png",
+            "answer1": "Afterglow",
+            "answer2": "Poppin'Party",
+            "answer3": "Pastel*Palettes",
+            "answer4": "헬로, 해피 월드!"
+        },
+        {
+            "type": "bg",
+            "quiz": "배경과 가장 관련 있는 밴드는?",
+            "quizImage": "https://i.bandori.party/u/asset/tthumb/892Photo-studio-0boqiE.png",
+            "answer1": "Pastel*Palettes",
+            "answer2": "Afterglow",
+            "answer3": "Roselia",
+            "answer4": "헬로, 해피 월드!"
+        },
+        {
+            "type": "bg",
+            "quiz": "배경과 가장 관련 있는 밴드는?",
+            "quizImage": "https://i.bandori.party/u/asset/hibLWsLiving-room-V7bU1r.png",
+            "answer1": "Pastel*Palettes",
+            "answer2": "Poppin'Party",
+            "answer3": "Roselia",
+            "answer4": "헬로, 해피 월드!"
+        },
+        {
+            "type": "bg",
+            "quiz": "배경과 가장 관련 있는 밴드는?",
+            "quizImage": "https://i.bandori.party/u/asset/tthumb/806Flowers-field-uPf2ty.png",
+            "answer1": "Pastel*Palettes",
+            "answer2": "Poppin'Party",
+            "answer3": "Afterglow",
+            "answer4": "헬로, 해피 월드!"
+        },
+        {
+            "type": "bg",
+            "quiz": "배경과 가장 관련 있는 밴드는?",
+            "quizImage": "https://i.bandori.party/u/asset/tthumb/830Countryside-68MAAA.png",
+            "answer1": "Roselia",
+            "answer2": "Poppin'Party",
+            "answer3": "Pastel*Palettes",
+            "answer4": "헬로, 해피 월드!"
+        },
+        {
+            "type": "bg",
+            "quiz": "배경과 가장 관련 있는 밴드는?",
+            "quizImage": "https://i.bandori.party/u/asset/tthumb/907Water-park-0hldK6.png",
+            "answer1": "Roselia",
+            "answer2": "Poppin'Party",
+            "answer3": "Pastel*Palettes",
+            "answer4": "헬로, 해피 월드!"
+        },
+        {
+            "type": "bg",
+            "quiz": "배경과 가장 관련 있는 밴드는?",
+            "quizImage": "https://i.bandori.party/u/asset/MyXLBDLibrary-Stacks-q72UVP.png",
+            "answer1": "헬로, 해피 월드!",
+            "answer2": "Poppin'Party",
+            "answer3": "Afterglow",
+            "answer4": "Roselia"
+        },
+        {
+            "type": "bg",
+            "quiz": "배경과 가장 관련 있는 밴드는?",
+            "quizImage": "https://bestdori.com/assets/jp/bg/scenario56_rip/bg00562.png",
+            "answer1": "헬로, 해피 월드!",
+            "answer2": "Poppin'Party",
+            "answer3": "Afterglow",
+            "answer4": "Pastel*Palettes"
         },
         {
             "type": "bg",
@@ -3278,11 +4329,56 @@
         {
             "type": "bg",
             "quiz": "배경과 가장 관련 있는 밴드는?",
-            "quizImage": "https://bestdori.com/assets/jp/bg/scenario53_rip/bg00538.png",
-            "answer1": "Afterglow",
-            "answer2": "Pastel*Palettes",
+            "quizImage": "https://bestdori.com/assets/jp/bg/scenario28_rip/bg00281.png",
+            "answer1": "헬로, 해피 월드!",
+            "answer2": "Poppin'Party",
+            "answer3": "Pastel*Palettes",
+            "answer4": "Afterglow"
+        },
+        {
+            "type": "bg",
+            "quiz": "배경과 가장 관련 있는 밴드는?",
+            "quizImage": "https://bestdori.com/assets/jp/bg/scenario28_rip/bg00281.png",
+            "answer1": "RAISE A SUILEN",
+            "answer2": "Afterglow",
             "answer3": "Roselia",
-            "answer4": "헬로, 해피 월드!"
+            "answer4": "Morfonica"
+        },
+        {
+            "type": "bg",
+            "quiz": "배경과 관련 없는 캐릭터는?",
+            "quizImage": "https://bestdori.com/assets/jp/bg/scenario35_rip/bg00353.png",
+            "answer1": "리미",
+            "answer2": "리사",
+            "answer3": "사요",
+            "answer4": "사아야"
+        },
+        {
+            "type": "bg",
+            "quiz": "배경과 관련 없는 캐릭터는?",
+            "quizImage": "https://bestdori.com/assets/jp/bg/scenario35_rip/bg00354.png",
+            "answer1": "카오루",
+            "answer2": "토모에",
+            "answer3": "미셸",
+            "answer4": "타에"
+        },
+        {
+            "type": "bg",
+            "quiz": "배경과 관련 없는 캐릭터는?",
+            "quizImage": "https://bestdori.com/assets/jp/bg/scenario35_rip/bg00355.png",
+            "answer1": "히나",
+            "answer2": "란",
+            "answer3": "유키나",
+            "answer4": "치사토"
+        },
+        {
+            "type": "bg",
+            "quiz": "배경과 관련 없는 캐릭터는?",
+            "quizImage": "https://bestdori.com/assets/jp/bg/scenario35_rip/bg00356.png",
+            "answer1": "린코",
+            "answer2": "아야",
+            "answer3": "카스미",
+            "answer4": "하구미"
         },
         {
             "type": "char",
@@ -3476,7 +4572,7 @@
         {
             "type": "char",
             "quiz": "이 프로필과 관련된 캐릭터는?",
-            "quizTable": "학년/생일:2학년, 7월 14일",
+            "quizTable": "학교/생일:하나사키가와 2학년, 7월 14일",
             "answer1": "카스미",
             "answer2": "란",
             "answer3": "코코로",
@@ -3512,7 +4608,7 @@
         {
             "type": "char",
             "quiz": "이 프로필과 관련된 캐릭터는?",
-            "quizTable": "학년/생일:2학년, 12월 4일",
+            "quizTable": "학교/생일:하나사키가와 2학년, 12월 4일",
             "answer1": "타에",
             "answer2": "히마리",
             "answer3": "이브",
@@ -3548,7 +4644,7 @@
         {
             "type": "char",
             "quiz": "이 프로필과 관련된 캐릭터는?",
-            "quizTable": "학년/생일:2학년, 3월 23일",
+            "quizTable": "학교/생일:하나사키가와 2학년, 3월 23일",
             "answer1": "리미",
             "answer2": "사아야",
             "answer3": "츠구미",
@@ -3575,9 +4671,9 @@
         {
             "type": "char",
             "quiz": "이 프로필과 관련된 캐릭터는?",
-            "quizTable": "학년/생일:2학년, 5월 19일",
+            "quizTable": "학교/생일:하나사키가와 2학년, 5월 19일",
             "answer1": "사아야",
-            "answer2": "아리사",
+            "answer2": "하구미",
             "answer3": "토모에",
             "answer4": "히나"
         },
@@ -3611,7 +4707,7 @@
         {
             "type": "char",
             "quiz": "이 프로필과 관련된 캐릭터는?",
-            "quizTable": "학년/생일:2학년, 10월 27일",
+            "quizTable": "학교/생일:하나사키가와 2학년, 10월 27일",
             "answer1": "아리사",
             "answer2": "츠구미",
             "answer3": "미사키",
@@ -3647,7 +4743,7 @@
         {
             "type": "char",
             "quiz": "이 프로필과 관련된 캐릭터는?",
-            "quizTable": "학년/생일:2학년, 4월 10일",
+            "quizTable": "학교/생일:하네오카 2학년, 4월 10일",
             "answer1": "란",
             "answer2": "타에",
             "answer3": "리사",
@@ -3683,7 +4779,7 @@
         {
             "type": "char",
             "quiz": "이 프로필과 관련된 캐릭터는?",
-            "quizTable": "학년/생일:2학년, 9월 3일",
+            "quizTable": "학교/생일:하네오카 2학년, 9월 3일",
             "answer1": "모카",
             "answer2": "리미",
             "answer3": "이브",
@@ -3719,137 +4815,137 @@
         {
             "type": "char",
             "quiz": "이 프로필과 관련된 캐릭터는?",
-            "quizTable": "학년/생일:2학년, 10월 23일",
+            "quizTable": "학교/생일:하네오카 2학년, 10월 23일",
             "answer1": "히마리",
-            "answer2": "리사",
-            "answer3": "치사토",
-            "answer4": "사아야"
+            "answer2": "이브",
+            "answer3": "미사키",
+            "answer4": "마스킹"
         },
         {
             "type": "char",
             "quiz": "이 프로필과 관련된 캐릭터는?",
-            "quizTable": "좋아하는 음식: 초콜릿, 편의점 디저트",
+            "quizTable": "좋아하는 음식:초콜릿, 편의점 디저트",
             "answer1": "히마리",
-            "answer2": "츠구미",
-            "answer3": "마스킹",
-            "answer4": "사아야"
+            "answer2": "리미",
+            "answer3": "이브",
+            "answer4": "사요"
         },
         {
             "type": "char",
             "quiz": "이 프로필과 관련된 캐릭터는?",
             "quizTable": "싫어하는 음식:표고버섯",
             "answer1": "히마리",
-            "answer2": "모카",
-            "answer3": "유키나",
-            "answer4": "아리사"
+            "answer2": "사아야",
+            "answer3": "아코",
+            "answer4": "린코"
         },
         {
             "type": "char",
             "quiz": "이 프로필과 관련된 캐릭터는?",
             "quizTable": "취미:편의점 디저트 먹고 비교하기",
             "answer1": "히마리",
-            "answer2": "타에",
-            "answer3": "코코로",
-            "answer4": "히나"
+            "answer2": "아야",
+            "answer3": "아코",
+            "answer4": "나나미"
         },
         {
             "type": "char",
             "quiz": "이 프로필과 관련된 캐릭터는?",
-            "quizTable": "학년/생일:2학년, 4월 15일",
+            "quizTable": "학교/생일:하네오카 2학년, 4월 15일",
             "answer1": "토모에",
-            "answer2": "사아야",
-            "answer3": "타에",
-            "answer4": "루이"
+            "answer2": "리미",
+            "answer3": "린코",
+            "answer4": "레이야"
         },
         {
             "type": "char",
             "quiz": "이 프로필과 관련된 캐릭터는?",
             "quizTable": "좋아하는 음식:돈코츠 소유 라멘",
             "answer1": "토모에",
-            "answer2": "나나미",
-            "answer3": "나나미",
-            "answer4": "아리사"
+            "answer2": "카오루",
+            "answer3": "레이야",
+            "answer4": "마스킹"
         },
         {
             "type": "char",
             "quiz": "이 프로필과 관련된 캐릭터는?",
             "quizTable": "싫어하는 음식:없음",
             "answer1": "토모에",
-            "answer2": "마시로",
-            "answer3": "사요",
-            "answer4": "아야"
+            "answer2": "아리사",
+            "answer3": "미사키",
+            "answer4": "파레오"
         },
         {
             "type": "char",
             "quiz": "이 프로필과 관련된 캐릭터는?",
             "quizTable": "취미:패션, 일본식 큰 북",
             "answer1": "토모에",
-            "answer2": "카스미",
-            "answer3": "카논",
-            "answer4": "카논"
+            "answer2": "리사",
+            "answer3": "츠쿠시",
+            "answer4": "록"
         },
         {
             "type": "char",
             "quiz": "이 프로필과 관련된 캐릭터는?",
-            "quizTable": "학년/생일:2학년, 1월 7일",
+            "quizTable": "학교/생일:하네오카 2학년, 1월 7일",
             "answer1": "츠구미",
-            "answer2": "사아야",
+            "answer2": "아리사",
             "answer3": "코코로",
-            "answer4": "타에"
+            "answer4": "미사키"
         },
         {
             "type": "char",
             "quiz": "이 프로필과 관련된 캐릭터는?",
             "quizTable": "좋아하는 음식:엄마가 만든 케이크",
             "answer1": "츠구미",
-            "answer2": "마시로",
-            "answer3": "란",
-            "answer4": "아야"
+            "answer2": "사아야",
+            "answer3": "유키나",
+            "answer4": "카논"
         },
         {
             "type": "char",
             "quiz": "이 프로필과 관련된 캐릭터는?",
             "quizTable": "싫어하는 음식:블랙커피",
             "answer1": "츠구미",
-            "answer2": "츠구미",
-            "answer3": "카스미",
-            "answer4": "록"
+            "answer2": "모카",
+            "answer3": "유키나",
+            "answer4": "루이"
         },
         {
             "type": "char",
             "quiz": "이 프로필과 관련된 캐릭터는?",
             "quizTable": "취미:입욕제 모으기",
             "answer1": "츠구미",
-            "answer2": "하구미",
-            "answer3": "마스킹",
-            "answer4": "아야"
+            "answer2": "리미",
+            "answer3": "히나",
+            "answer4": "마시로"
         },
         {
             "type": "char",
             "quiz": "이 프로필과 관련된 캐릭터는?",
-            "quizTable": "학년/생일:3학년, 12월 27일",
+            "quizTable": "학교/생일:하나사키가와 3학년, 12월 27일",
             "answer1": "아야",
-            "answer2": "츄츄",
-            "answer3": "토모에",
-            "answer4": "록"
+            "answer2": "히나",
+            "answer3": "리사",
+            "answer4": "카논"
         },
         {
             "type": "char",
             "quiz": "이 프로필과 관련된 캐릭터는?",
             "quizTable": "좋아하는 음식:오므라이스, 햄버그 같은 양식",
             "answer1": "아야",
-            "answer2": "히나",
-            "answer3": "모카",
-            "answer4": "카오루"
+            "answer2": "치사토",
+            "answer3": "이브",
+            "answer4": "츠쿠시"
         },
         {
             "type": "char",
             "quiz": "이 프로필과 관련된 캐릭터는?",
             "quizTable": "싫어하는 음식:문어",
             "answer1": "아야",
-            "answer2": "마시로",
+            "answer2": "란",
             "answer3": "마시로",
-            "answer4": "아야"
+            "answer4": "록"
         },
         {
             "type": "char",
@@ -3857,52 +4953,52 @@
             "quizTable": "취미:SNS, 셀카 연구",
             "answer1": "아야",
             "answer2": "히마리",
-            "answer3": "토우코",
-            "answer4": "히나"
+            "answer3": "리사",
+            "answer4": "토우코"
         },
         {
             "type": "char",
             "quiz": "이 프로필과 관련된 캐릭터는?",
-            "quizTable": "학년/생일:3학년, 3월 20일",
+            "quizTable": "학교/생일:하네오카 3학년, 3월 20일",
             "answer1": "히나",
-            "answer2": "루이",
-            "answer3": "사요",
-            "answer4": "츄츄"
+            "answer2": "사요",
+            "answer3": "린코",
+            "answer4": "카논"
         },
         {
             "type": "char",
             "quiz": "이 프로필과 관련된 캐릭터는?",
             "quizTable": "좋아하는 음식:껌, 사탕, 정크푸드",
             "answer1": "히나",
-            "answer2": "츠쿠시",
-            "answer3": "이브",
-            "answer4": "히마리"
+            "answer2": "히마리",
+            "answer3": "아코",
+            "answer4": "나나미"
         },
         {
             "type": "char",
             "quiz": "이 프로필과 관련된 캐릭터는?",
             "quizTable": "싫어하는 음식:두부, 유바처럼 맛이 옅은 것",
             "answer1": "히나",
-            "answer2": "카스미",
-            "answer3": "치사토",
-            "answer4": "토우코"
+            "answer2": "타에",
+            "answer3": "린코",
+            "answer4": "나나미"
         },
         {
             "type": "char",
             "quiz": "이 프로필과 관련된 캐릭터는?",
             "quizTable": "취미:아로마 오일 만들기",
             "answer1": "히나",
-            "answer2": "카논",
-            "answer3": "란",
-            "answer4": "사아야"
+            "answer2": "츠구미",
+            "answer3": "이브",
+            "answer4": "나나미"
         },
         {
             "type": "char",
             "quiz": "이 프로필과 관련된 캐릭터는?",
-            "quizTable": "학년/생일:3학년, 4월 6일",
+            "quizTable": "학교/생일:하나사키가와 3학년, 4월 6일",
             "answer1": "치사토",
-            "answer2": "란",
-            "answer3": "타에",
+            "answer2": "히나",
+            "answer3": "카오루",
             "answer4": "유키나"
         },
         {
@@ -3910,125 +5006,125 @@
             "quiz": "이 프로필과 관련된 캐릭터는?",
             "quizTable": "좋아하는 음식:홍차, 담백한 음식, 아사이 보울",
             "answer1": "치사토",
-            "answer2": "카논",
-            "answer3": "아코",
-            "answer4": "히나"
+            "answer2": "아리사",
+            "answer3": "토우코",
+            "answer4": "록"
         },
         {
             "type": "char",
             "quiz": "이 프로필과 관련된 캐릭터는?",
             "quizTable": "싫어하는 음식:낫토",
             "answer1": "치사토",
-            "answer2": "타에",
-            "answer3": "리사",
-            "answer4": "파레오"
+            "answer2": "리미",
+            "answer3": "이브",
+            "answer4": "츠쿠시"
         },
         {
             "type": "char",
             "quiz": "이 프로필과 관련된 캐릭터는?",
             "quizTable": "취미:카페에서 차 마시기, 쇼핑",
             "answer1": "치사토",
-            "answer2": "히나",
-            "answer3": "마스킹",
-            "answer4": "사아야"
+            "answer2": "사아야",
+            "answer3": "히마리",
+            "answer4": "카논"
         },
         {
             "type": "char",
             "quiz": "이 프로필과 관련된 캐릭터는?",
-            "quizTable": "학년/생일:3학년, 11월 3일",
+            "quizTable": "학교/생일:하네오카 3학년, 11월 3일",
             "answer1": "마야",
-            "answer2": "록",
-            "answer3": "히마리",
-            "answer4": "란"
+            "answer2": "아야",
+            "answer3": "린코",
+            "answer4": "카오루"
         },
         {
             "type": "char",
             "quiz": "이 프로필과 관련된 캐릭터는?",
             "quizTable": "좋아하는 음식:야채스틱",
             "answer1": "마야",
-            "answer2": "츠구미",
-            "answer3": "코코로",
-            "answer4": "마야"
+            "answer2": "파레오",
+            "answer3": "마시로",
+            "answer4": "록"
         },
         {
             "type": "char",
             "quiz": "이 프로필과 관련된 캐릭터는?",
             "quizTable": "싫어하는 음식:고급 식재료",
             "answer1": "마야",
-            "answer2": "츄츄",
-            "answer3": "나나미",
-            "answer4": "록"
+            "answer2": "타에",
+            "answer3": "하구미",
+            "answer4": "츄츄"
         },
         {
             "type": "char",
             "quiz": "이 프로필과 관련된 캐릭터는?",
             "quizTable": "취미:장비를 만지는 일",
             "answer1": "마야",
-            "answer2": "사아야",
-            "answer3": "린코",
-            "answer4": "토우코"
+            "answer2": "아코",
+            "answer3": "레이야",
+            "answer4": "츄츄"
         },
         {
             "type": "char",
             "quiz": "이 프로필과 관련된 캐릭터는?",
-            "quizTable": "학년/생일:2학년, 6월 27일",
+            "quizTable": "학교/생일:하나사키가와 2학년, 6월 27일",
             "answer1": "이브",
-            "answer2": "유키나",
-            "answer3": "카논",
-            "answer4": "츠구미"
+            "answer2": "타에",
+            "answer3": "란",
+            "answer4": "록"
         },
         {
             "type": "char",
             "quiz": "이 프로필과 관련된 캐릭터는?",
             "quizTable": "좋아하는 음식:진저브레드 쿠키",
             "answer1": "이브",
-            "answer2": "마시로",
-            "answer3": "모카",
-            "answer4": "리미"
+            "answer2": "란",
+            "answer3": "리사",
+            "answer4": "루이"
         },
         {
             "type": "char",
             "quiz": "이 프로필과 관련된 캐릭터는?",
             "quizTable": "싫어하는 음식:누카즈케",
             "answer1": "이브",
-            "answer2": "리사",
-            "answer3": "린코",
-            "answer4": "코코로"
+            "answer2": "아야",
+            "answer3": "치사토",
+            "answer4": "마시로"
         },
         {
             "type": "char",
             "quiz": "이 프로필과 관련된 캐릭터는?",
             "quizTable": "취미:사극 감상",
             "answer1": "이브",
-            "answer2": "미사키",
-            "answer3": "아리사",
-            "answer4": "히마리"
+            "answer2": "타에",
+            "answer3": "마시로",
+            "answer4": "루이"
         },
         {
             "type": "char",
             "quiz": "이 프로필과 관련된 캐릭터는?",
-            "quizTable": "학년/생일:3학년, 10월 26일",
+            "quizTable": "학교/생일:하네오카 3학년, 10월 26일",
             "answer1": "유키나",
-            "answer2": "츠쿠시",
-            "answer3": "치사토",
-            "answer4": "아리사"
+            "answer2": "치사토",
+            "answer3": "사요",
+            "answer4": "레이야"
         },
         {
             "type": "char",
             "quiz": "이 프로필과 관련된 캐릭터는?",
             "quizTable": "좋아하는 음식:꿀차, 리사가 만든 쿠키",
             "answer1": "유키나",
-            "answer2": "이브",
-            "answer3": "코코로",
-            "answer4": "유키나"
+            "answer2": "모카",
+            "answer3": "사요",
+            "answer4": "린코"
         },
         {
             "type": "char",
             "quiz": "이 프로필과 관련된 캐릭터는?",
             "quizTable": "싫어하는 음식:여주(이 외, 쓴맛이 나는 것)",
             "answer1": "유키나",
-            "answer2": "나나미",
-            "answer3": "카논",
+            "answer2": "아코",
+            "answer3": "마시로",
             "answer4": "레이야"
         },
         {
@@ -4036,393 +5132,285 @@
             "quiz": "이 프로필과 관련된 캐릭터는?",
             "quizTable": "취미:없음",
             "answer1": "유키나",
-            "answer2": "히마리",
-            "answer3": "히마리",
-            "answer4": "란"
+            "answer2": "치사토",
+            "answer3": "카오루",
+            "answer4": "츄츄"
         },
         {
             "type": "char",
             "quiz": "이 프로필과 관련된 캐릭터는?",
-            "quizTable": "학년/생일:3학년, 3월 20일",
+            "quizTable": "학교/생일:하나사키가와 3학년, 3월 20일",
             "answer1": "사요",
-            "answer2": "츠쿠시",
-            "answer3": "아코",
-            "answer4": "유키나"
+            "answer2": "마야",
+            "answer3": "리사",
+            "answer4": "카논"
         },
         {
             "type": "char",
             "quiz": "이 프로필과 관련된 캐릭터는?",
             "quizTable": "좋아하는 음식:정크푸드, 껌, 사탕",
             "answer1": "사요",
-            "answer2": "사요",
-            "answer3": "란",
-            "answer4": "카스미"
+            "answer2": "히마리",
+            "answer3": "아코",
+            "answer4": "나나미"
         },
         {
             "type": "char",
             "quiz": "이 프로필과 관련된 캐릭터는?",
             "quizTable": "싫어하는 음식:당근",
             "answer1": "사요",
-            "answer2": "히나",
-            "answer3": "츄츄",
-            "answer4": "코코로"
+            "answer2": "카오루",
+            "answer3": "카논",
+            "answer4": "토우코"
         },
         {
             "type": "char",
             "quiz": "이 프로필과 관련된 캐릭터는?",
             "quizTable": "취미:없음",
             "answer1": "사요",
-            "answer2": "마시로",
-            "answer3": "코코로",
-            "answer4": "나나미"
+            "answer2": "치사토",
+            "answer3": "카오루",
+            "answer4": "츄츄"
         },
         {
             "type": "char",
             "quiz": "이 프로필과 관련된 캐릭터는?",
-            "quizTable": "학년/생일:3학년, 8월 25일",
+            "quizTable": "학교/생일:하네오카 3학년, 8월 25일",
             "answer1": "리사",
-            "answer2": "츠쿠시",
-            "answer3": "레이야",
-            "answer4": "카스미"
+            "answer2": "유키나",
+            "answer3": "린코",
+            "answer4": "카논"
         },
         {
             "type": "char",
             "quiz": "이 프로필과 관련된 캐릭터는?",
             "quizTable": "좋아하는 음식:치쿠젠니, 스노모노",
             "answer1": "리사",
-            "answer2": "하구미",
-            "answer3": "츄츄",
-            "answer4": "아코"
+            "answer2": "카오루",
+            "answer3": "레이야",
+            "answer4": "츄츄"
         },
         {
             "type": "char",
             "quiz": "이 프로필과 관련된 캐릭터는?",
             "quizTable": "싫어하는 음식:그린 스무디",
             "answer1": "리사",
-            "answer2": "마스킹",
-            "answer3": "카오루",
-            "answer4": "히마리"
+            "answer2": "아야",
+            "answer3": "미사키",
+            "answer4": "마스킹"
         },
         {
             "type": "char",
             "quiz": "이 프로필과 관련된 캐릭터는?",
             "quizTable": "취미:뜨개질",
             "answer1": "리사",
-            "answer2": "린코",
-            "answer3": "린코",
-            "answer4": "츠구미"
+            "answer2": "츠구미",
+            "answer3": "카논",
+            "answer4": "츠쿠시"
         },
         {
             "type": "char",
             "quiz": "이 프로필과 관련된 캐릭터는?",
-            "quizTable": "학년/생일:1학년, 7월 3일",
+            "quizTable": "학교/생일:하네오카 1학년, 7월 3일",
             "answer1": "아코",
-            "answer2": "레이야",
-            "answer3": "코코로",
-            "answer4": "유키나"
+            "answer2": "나나미",
+            "answer3": "아스카",
+            "answer4": "록"
         },
         {
             "type": "char",
             "quiz": "이 프로필과 관련된 캐릭터는?",
             "quizTable": "좋아하는 음식:포테이토칩, 젤리빈",
             "answer1": "아코",
-            "answer2": "사요",
-            "answer3": "마시로",
-            "answer4": "란"
+            "answer2": "모카",
+            "answer3": "히나",
+            "answer4": "츠쿠시"
         },
         {
             "type": "char",
             "quiz": "이 프로필과 관련된 캐릭터는?",
             "quizTable": "싫어하는 음식:해삼, 피망",
             "answer1": "아코",
-            "answer2": "레이야",
-            "answer3": "나나미",
-            "answer4": "히나"
+            "answer2": "사아야",
+            "answer3": "히마리",
+            "answer4": "아야"
         },
         {
             "type": "char",
             "quiz": "이 프로필과 관련된 캐릭터는?",
             "quizTable": "취미:멋있는 것 연구하기",
             "answer1": "아코",
-            "answer2": "미사키",
-            "answer3": "파레오",
-            "answer4": "리미"
+            "answer2": "타에",
+            "answer3": "이브",
+            "answer4": "하구미"
         },
         {
             "type": "char",
             "quiz": "이 프로필과 관련된 캐릭터는?",
-            "quizTable": "학년/생일:3학년, 10월 17일",
+            "quizTable": "학교/생일:하나사키가와 3학년, 10월 17일",
             "answer1": "린코",
-            "answer2": "츠쿠시",
-            "answer3": "나나미",
-            "answer4": "사아야"
+            "answer2": "아야",
+            "answer3": "마야",
+            "answer4": "유키나"
         },
         {
             "type": "char",
             "quiz": "이 프로필과 관련된 캐릭터는?",
             "quizTable": "좋아하는 음식:핫 밀크",
             "answer1": "린코",
-            "answer2": "모카",
-            "answer3": "파레오",
-            "answer4": "루이"
+            "answer2": "아리사",
+            "answer3": "마시로",
+            "answer4": "토우코"
         },
         {
             "type": "char",
             "quiz": "이 프로필과 관련된 캐릭터는?",
             "quizTable": "싫어하는 음식:샐러리",
             "answer1": "린코",
-            "answer2": "유키나",
-            "answer3": "츄츄",
-            "answer4": "파레오"
+            "answer2": "마시로",
+            "answer3": "파레오",
+            "answer4": "츄츄"
         },
         {
             "type": "char",
             "quiz": "이 프로필과 관련된 캐릭터는?",
             "quizTable": "취미:온라인 게임, 십자말풀이, 독서",
             "answer1": "린코",
-            "answer2": "모카",
-            "answer3": "토모에",
-            "answer4": "마야"
+            "answer2": "아코",
+            "answer3": "사요",
+            "answer4": "마스킹"
         },
         {
             "type": "char",
             "quiz": "이 프로필과 관련된 캐릭터는?",
-            "quizTable": "학년/생일:2학년, 8월 8일",
+            "quizTable": "학교/생일:하나사키가와 2학년, 8월 8일",
             "answer1": "코코로",
-            "answer2": "유키나",
-            "answer3": "마야",
-            "answer4": "리사"
+            "answer2": "아리사",
+            "answer3": "모카",
+            "answer4": "츠구미"
         },
         {
             "type": "char",
             "quiz": "이 프로필과 관련된 캐릭터는?",
             "quizTable": "좋아하는 음식:뭐든 다 좋아함!",
             "answer1": "코코로",
-            "answer2": "파레오",
-            "answer3": "츠쿠시",
-            "answer4": "나나미"
+            "answer2": "카스미",
+            "answer3": "츠구미",
+            "answer4": "파레오"
         },
         {
             "type": "char",
             "quiz": "이 프로필과 관련된 캐릭터는?",
             "quizTable": "싫어하는 음식:없음!",
             "answer1": "코코로",
-            "answer2": "록",
-            "answer3": "하구미",
-            "answer4": "이브"
+            "answer2": "이브",
+            "answer3": "리사",
+            "answer4": "레이야"
         },
         {
             "type": "char",
             "quiz": "이 프로필과 관련된 캐릭터는?",
             "quizTable": "취미:즐거운 일 찾기",
             "answer1": "코코로",
-            "answer2": "토모에",
-            "answer3": "히나",
-            "answer4": "마시로"
+            "answer2": "히나",
+            "answer3": "하구미",
+            "answer4": "파레오"
         },
         {
             "type": "char",
             "quiz": "이 프로필과 관련된 캐릭터는?",
-            "quizTable": "학년/생일:3학년, 2월 28일",
+            "quizTable": "학교/생일:하네오카 3학년, 2월 28일",
             "answer1": "카오루",
-            "answer2": "유키나",
-            "answer3": "히나",
-            "answer4": "유키나"
+            "answer2": "치사토",
+            "answer3": "사요",
+            "answer4": "히나"
         },
         {
             "type": "char",
             "quiz": "이 프로필과 관련된 캐릭터는?",
             "quizTable": "좋아하는 음식:떡국",
             "answer1": "카오루",
-            "answer2": "아리사",
-            "answer3": "마야",
-            "answer4": "카논"
+            "answer2": "리사",
+            "answer3": "츠쿠시",
+            "answer4": "마스킹"
         },
         {
             "type": "char",
             "quiz": "이 프로필과 관련된 캐릭터는?",
             "quizTable": "싫어하는 음식:생어패류",
             "answer1": "카오루",
-            "answer2": "루이",
-            "answer3": "츄츄",
-            "answer4": "츠구미"
+            "answer2": "리미",
+            "answer3": "카논",
+            "answer4": "록"
         },
         {
             "type": "char",
             "quiz": "이 프로필과 관련된 캐릭터는?",
             "quizTable": "취미:철학 책 읽기",
             "answer1": "카오루",
-            "answer2": "리미",
-            "answer3": "카논",
-            "answer4": "란"
+            "answer2": "란",
+            "answer3": "루이",
+            "answer4": "마스킹"
         },
         {
             "type": "char",
             "quiz": "이 프로필과 관련된 캐릭터는?",
-            "quizTable": "학년/생일:2학년, 7월 30일",
+            "quizTable": "학교/생일:하나사키가와 2학년, 7월 30일",
             "answer1": "하구미",
-            "answer2": "레이야",
-            "answer3": "마시로",
-            "answer4": "유키나"
+            "answer2": "사아야",
+            "answer3": "히마리",
+            "answer4": "마스킹"
         },
         {
             "type": "char",
             "quiz": "이 프로필과 관련된 캐릭터는?",
             "quizTable": "싫어하는 음식:없음",
             "answer1": "하구미",
-            "answer2": "나나미",
-            "answer3": "토우코",
-            "answer4": "리미"
+            "answer2": "토모에",
+            "answer3": "리사",
+            "answer4": "나나미"
         },
         {
             "type": "char",
             "quiz": "이 프로필과 관련된 캐릭터는?",
             "quizTable": "취미:마라톤",
             "answer1": "하구미",
-            "answer2": "마시로",
-            "answer3": "미사키",
-            "answer4": "사요"
+            "answer2": "토모에",
+            "answer3": "코코로",
+            "answer4": "레이야"
         },
         {
             "type": "char",
             "quiz": "이 프로필과 관련된 캐릭터는?",
-            "quizTable": "학년/생일:3학년, 5월 11일",
+            "quizTable": "학교/생일:하나사키가와 3학년, 5월 11일",
             "answer1": "카논",
-            "answer2": "아야",
-            "answer3": "린코",
-            "answer4": "파레오"
+            "answer2": "치사토",
+            "answer3": "리사",
+            "answer4": "카오루"
         },
         {
             "type": "char",
             "quiz": "이 프로필과 관련된 캐릭터는?",
             "quizTable": "좋아하는 음식:맛있는 과자, 케이크, 커피, 홍차",
             "answer1": "카논",
-            "answer2": "히마리",
-            "answer3": "린코",
-            "answer4": "사요"
+            "answer2": "타에",
+            "answer3": "히마리",
+            "answer4": "치사토"
         },
         {
             "type": "char",
             "quiz": "이 프로필과 관련된 캐릭터는?",
             "quizTable": "싫어하는 음식:버섯",
             "answer1": "카논",
-            "answer2": "파레오",
-            "answer3": "루이",
-            "answer4": "카스미"
+            "answer2": "사요",
+            "answer3": "카오루",
+            "answer4": "루이"
         },
         {
             "type": "char",
             "quiz": "이 프로필과 관련된 캐릭터는?",
             "quizTable": "취미:해파리 보기, 카페 탐방",
             "answer1": "카논",
-            "answer2": "마스킹",
-            "answer3": "마스킹",
-            "answer4": "카논"
-        },
-        {
-            "type": "char",
-            "quiz": "이 프로필과 관련된 캐릭터는?",
-            "quizTable": "학년/생일:2학년, 10월 1일",
-            "answer1": "미사키",
-            "answer2": "히마리",
-            "answer3": "아야",
-            "answer4": "히마리"
-        },
-        {
-            "type": "char",
-            "quiz": "이 프로필과 관련된 캐릭터는?",
-            "quizTable": "좋아하는 음식:패밀리 레스토랑의 음식",
-            "answer1": "미사키",
-            "answer2": "아리사",
-            "answer3": "타에",
-            "answer4": "리미"
-        },
-        {
-            "type": "char",
-            "quiz": "이 프로필과 관련된 캐릭터는?",
-            "quizTable": "싫어하는 음식:고수",
-            "answer1": "미사키",
-            "answer2": "이브",
-            "answer3": "츠쿠시",
-            "answer4": "토모에"
-        },
-        {
-            "type": "char",
-            "quiz": "이 프로필과 관련된 캐릭터는?",
-            "quizTable": "취미:양모 펠트 공예",
-            "answer1": "미사키",
-            "answer2": "모카",
-            "answer3": "리사",
-            "answer4": "마시로"
-        },
-        {
-            "type": "char",
-            "quiz": "이 프로필과 관련된 캐릭터는?",
-            "quizTable": "학년/생일:1학년, 2월 19일",
-            "answer1": "마시로",
-            "answer2": "츠구미",
-            "answer3": "록",
-            "answer4": "파레오"
-        },
-        {
-            "type": "char",
-            "quiz": "이 프로필과 관련된 캐릭터는?",
-            "quizTable": "좋아하는 음식:비프 스프",
-            "answer1": "마시로",
-            "answer2": "츠구미",
-            "answer3": "마스킹",
-            "answer4": "하구미"
-        },
-        {
-            "type": "char",
-            "quiz": "이 프로필과 관련된 캐릭터는?",
-            "quizTable": "싫어하는 음식:시금치, 완두콩, 당근 등",
-            "answer1": "마시로",
-            "answer2": "코코로",
-            "answer3": "코코로",
-            "answer4": "파레오"
-        },
-        {
-            "type": "char",
-            "quiz": "이 프로필과 관련된 캐릭터는?",
-            "quizTable": "취미:뜨개질",
-            "answer1": "마시로",
-            "answer2": "파레오",
-            "answer3": "츠쿠시",
-            "answer4": "마야"
-        },
-        {
-            "type": "char",
-            "quiz": "이 프로필과 관련된 캐릭터는?",
-            "quizTable": "학년/생일:1학년, 12월 16일",
-            "answer1": "토우코",
-            "answer2": "린코",
-            "answer3": "토모에",
-            "answer4": "이브"
-        },
-        {
-            "type": "char",
-            "quiz": "이 프로필과 관련된 캐릭터는?",
-            "quizTable": "좋아하는 음식:컵 야키소바",
-            "answer1": "토우코",
-            "answer2": "아리사",
-            "answer3": "파레오",
-            "answer4": "카스미"
-        },
-        {
-            "type": "char",
-            "quiz": "이 프로필과 관련된 캐릭터는?",
-            "quizTable": "싫어하는 음식:민트계의 껌",
-            "answer1": "토우코",
-            "answer2": "카오루",
-            "answer3": "토우코",
-            "answer4": "츄츄"
-        },
-        {
-            "type": "char",
-            "quiz": "이 프로필과 관련된 캐릭터는?",
-            "quizTable": "취미:SNS, 의상 디자인",
-            "answer1": "토우코",
             "answer2": "치사토",
             "answer3": "이브",
             "answer4": "파레오"
@@ -4430,235 +5418,343 @@
         {
             "type": "char",
             "quiz": "이 프로필과 관련된 캐릭터는?",
-            "quizTable": "학년/생일:1학년, 6월 16일",
-            "answer1": "나나미",
+            "quizTable": "학교/생일:하나사키가와 2학년, 10월 1일",
+            "answer1": "미사키",
+            "answer2": "타에",
+            "answer3": "란",
+            "answer4": "이브"
+        },
+        {
+            "type": "char",
+            "quiz": "이 프로필과 관련된 캐릭터는?",
+            "quizTable": "좋아하는 음식:패밀리 레스토랑의 음식",
+            "answer1": "미사키",
+            "answer2": "히마리",
+            "answer3": "아야",
+            "answer4": "나나미"
+        },
+        {
+            "type": "char",
+            "quiz": "이 프로필과 관련된 캐릭터는?",
+            "quizTable": "싫어하는 음식:고수",
+            "answer1": "미사키",
+            "answer2": "리미",
+            "answer3": "모카",
+            "answer4": "카논"
+        },
+        {
+            "type": "char",
+            "quiz": "이 프로필과 관련된 캐릭터는?",
+            "quizTable": "취미:양모 펠트 공예",
+            "answer1": "미사키",
+            "answer2": "리미",
+            "answer3": "리사",
+            "answer4": "마시로"
+        },
+        {
+            "type": "char",
+            "quiz": "이 프로필과 관련된 캐릭터는?",
+            "quizTable": "학교/생일:츠키노모리 1학년, 2월 19일",
+            "answer1": "마시로",
             "answer2": "토우코",
-            "answer3": "마야",
+            "answer3": "나나미",
+            "answer4": "아코"
+        },
+        {
+            "type": "char",
+            "quiz": "이 프로필과 관련된 캐릭터는?",
+            "quizTable": "좋아하는 음식:비프 스프",
+            "answer1": "마시로",
+            "answer2": "아리사",
+            "answer3": "린코",
+            "answer4": "루이"
+        },
+        {
+            "type": "char",
+            "quiz": "이 프로필과 관련된 캐릭터는?",
+            "quizTable": "싫어하는 음식:시금치, 완두콩, 당근 등",
+            "answer1": "마시로",
+            "answer2": "치사토",
+            "answer3": "츠쿠시",
+            "answer4": "츄츄"
+        },
+        {
+            "type": "char",
+            "quiz": "이 프로필과 관련된 캐릭터는?",
+            "quizTable": "취미:뜨개질",
+            "answer1": "마시로",
+            "answer2": "치사토",
+            "answer3": "미사키",
+            "answer4": "나나미"
+        },
+        {
+            "type": "char",
+            "quiz": "이 프로필과 관련된 캐릭터는?",
+            "quizTable": "학교/생일:츠키노모리 1학년, 12월 16일",
+            "answer1": "토우코",
+            "answer2": "나나미",
+            "answer3": "츠쿠시",
             "answer4": "록"
+        },
+        {
+            "type": "char",
+            "quiz": "이 프로필과 관련된 캐릭터는?",
+            "quizTable": "좋아하는 음식:컵 야키소바",
+            "answer1": "토우코",
+            "answer2": "사아야",
+            "answer3": "토모에",
+            "answer4": "레이야"
+        },
+        {
+            "type": "char",
+            "quiz": "이 프로필과 관련된 캐릭터는?",
+            "quizTable": "싫어하는 음식:민트계의 껌",
+            "answer1": "토우코",
+            "answer2": "리미",
+            "answer3": "아야",
+            "answer4": "츠쿠시"
+        },
+        {
+            "type": "char",
+            "quiz": "이 프로필과 관련된 캐릭터는?",
+            "quizTable": "취미:SNS, 의상 디자인",
+            "answer1": "토우코",
+            "answer2": "아야",
+            "answer3": "미사키",
+            "answer4": "린코"
+        },
+        {
+            "type": "char",
+            "quiz": "이 프로필과 관련된 캐릭터는?",
+            "quizTable": "학교/생일:츠키노모리 1학년, 6월 16일",
+            "answer1": "나나미",
+            "answer2": "츠쿠시",
+            "answer3": "루이",
+            "answer4": "아스카"
         },
         {
             "type": "char",
             "quiz": "이 프로필과 관련된 캐릭터는?",
             "quizTable": "좋아하는 음식:매운 것, 중독성 있는 음식",
             "answer1": "나나미",
-            "answer2": "리미",
-            "answer3": "사요",
-            "answer4": "파레오"
+            "answer2": "마야",
+            "answer3": "마스킹",
+            "answer4": "레이야"
         },
         {
             "type": "char",
             "quiz": "이 프로필과 관련된 캐릭터는?",
             "quizTable": "싫어하는 음식:없음",
             "answer1": "나나미",
-            "answer2": "파레오",
-            "answer3": "코코로",
-            "answer4": "하구미"
+            "answer2": "아야",
+            "answer3": "토우코",
+            "answer4": "루이"
         },
         {
             "type": "char",
             "quiz": "이 프로필과 관련된 캐릭터는?",
             "quizTable": "취미:경품 모으기",
             "answer1": "나나미",
-            "answer2": "츠쿠시",
+            "answer2": "모카",
             "answer3": "츠구미",
-            "answer4": "리사"
+            "answer4": "록"
         },
         {
             "type": "char",
             "quiz": "이 프로필과 관련된 캐릭터는?",
-            "quizTable": "학년/생일:1학년, 9월 15일",
+            "quizTable": "학교/생일:츠키노모리 1학년, 9월 15일",
             "answer1": "츠쿠시",
-            "answer2": "록",
+            "answer2": "루이",
             "answer3": "마시로",
-            "answer4": "아리사"
+            "answer4": "아코"
         },
         {
             "type": "char",
             "quiz": "이 프로필과 관련된 캐릭터는?",
             "quizTable": "좋아하는 음식:엄마의 카레",
             "answer1": "츠쿠시",
-            "answer2": "아야",
-            "answer3": "아리사",
-            "answer4": "타에"
+            "answer2": "츠구미",
+            "answer3": "마시로",
+            "answer4": "파레오"
         },
         {
             "type": "char",
             "quiz": "이 프로필과 관련된 캐릭터는?",
             "quizTable": "싫어하는 음식:녹색 채소",
             "answer1": "츠쿠시",
-            "answer2": "마야",
-            "answer3": "아리사",
-            "answer4": "사요"
+            "answer2": "아리사",
+            "answer3": "히마리",
+            "answer4": "리사"
         },
         {
             "type": "char",
             "quiz": "이 프로필과 관련된 캐릭터는?",
             "quizTable": "취미:헤어 어레인지",
             "answer1": "츠쿠시",
-            "answer2": "아리사",
-            "answer3": "카오루",
-            "answer4": "모카"
+            "answer2": "히나",
+            "answer3": "리사",
+            "answer4": "나나미"
         },
         {
             "type": "char",
             "quiz": "이 프로필과 관련된 캐릭터는?",
-            "quizTable": "학년/생일:1학년, 11월 19일",
+            "quizTable": "학교/생일:츠키노모리 1학년, 11월 19일",
             "answer1": "루이",
-            "answer2": "토모에",
-            "answer3": "모카",
-            "answer4": "사아야"
+            "answer2": "마시로",
+            "answer3": "토우코",
+            "answer4": "록"
         },
         {
             "type": "char",
             "quiz": "이 프로필과 관련된 캐릭터는?",
             "quizTable": "좋아하는 음식:새알심 단팥죽",
             "answer1": "루이",
-            "answer2": "아야",
-            "answer3": "사요",
-            "answer4": "치사토"
+            "answer2": "카오루",
+            "answer3": "마시로",
+            "answer4": "토우코"
         },
         {
             "type": "char",
             "quiz": "이 프로필과 관련된 캐릭터는?",
             "quizTable": "싫어하는 음식:맛이 진한 것, 주장이 강한 것",
             "answer1": "루이",
-            "answer2": "나나미",
-            "answer3": "마시로",
-            "answer4": "록"
+            "answer2": "타에",
+            "answer3": "이브",
+            "answer4": "마스킹"
         },
         {
             "type": "char",
             "quiz": "이 프로필과 관련된 캐릭터는?",
             "quizTable": "취미:없음",
             "answer1": "루이",
-            "answer2": "마야",
-            "answer3": "모카",
-            "answer4": "사아야"
+            "answer2": "아리사",
+            "answer3": "마야",
+            "answer4": "레이야"
         },
         {
             "type": "char",
             "quiz": "이 프로필과 관련된 캐릭터는?",
-            "quizTable": "학년/생일:2학년, 1월 13일",
+            "quizTable": "학년/생일:예술학원고교 2학년, 1월 13일",
             "answer1": "레이야",
-            "answer2": "하구미",
-            "answer3": "아리사",
-            "answer4": "나나미"
+            "answer2": "나나미",
+            "answer3": "마스킹",
+            "answer4": "파레오"
         },
         {
             "type": "char",
             "quiz": "이 프로필과 관련된 캐릭터는?",
             "quizTable": "좋아하는 음식:핫밀크(꿀 들어간 것)",
             "answer1": "레이야",
-            "answer2": "레이야",
-            "answer3": "록",
-            "answer4": "츠구미"
+            "answer2": "카스미",
+            "answer3": "린코",
+            "answer4": "카논"
         },
         {
             "type": "char",
             "quiz": "이 프로필과 관련된 캐릭터는?",
             "quizTable": "싫어하는 음식:쓴 커피, 해삼",
             "answer1": "레이야",
-            "answer2": "마스킹",
-            "answer3": "사요",
-            "answer4": "히마리"
+            "answer2": "츠구미",
+            "answer3": "치사토",
+            "answer4": "이브"
         },
         {
             "type": "char",
             "quiz": "이 프로필과 관련된 캐릭터는?",
             "quizTable": "취미:스트레칭",
             "answer1": "레이야",
-            "answer2": "츠쿠시",
-            "answer3": "파레오",
-            "answer4": "토모에"
+            "answer2": "이브",
+            "answer3": "하구미",
+            "answer4": "록"
         },
         {
             "type": "char",
             "quiz": "이 프로필과 관련된 캐릭터는?",
-            "quizTable": "학년/생일:1학년, 7월 17일",
+            "quizTable": "학교/생일:하네오카 1학년, 7월 17일",
             "answer1": "록",
-            "answer2": "나나미",
-            "answer3": "록",
-            "answer4": "아코"
+            "answer2": "아코",
+            "answer3": "마시로",
+            "answer4": "아스카"
         },
         {
             "type": "char",
             "quiz": "이 프로필과 관련된 캐릭터는?",
             "quizTable": "좋아하는 음식:단팥, 군고구마",
             "answer1": "록",
-            "answer2": "리사",
-            "answer3": "카오루",
-            "answer4": "이브"
+            "answer2": "토모에",
+            "answer3": "마야",
+            "answer4": "츄츄"
         },
         {
             "type": "char",
             "quiz": "이 프로필과 관련된 캐릭터는?",
             "quizTable": "싫어하는 음식:가게에서 먹는 라멘",
             "answer1": "록",
-            "answer2": "토우코",
-            "answer3": "코코로",
-            "answer4": "마시로"
+            "answer2": "토모에",
+            "answer3": "나나미",
+            "answer4": "미사키"
         },
         {
             "type": "char",
             "quiz": "이 프로필과 관련된 캐릭터는?",
             "quizTable": "취미:기타",
             "answer1": "록",
-            "answer2": "모카",
-            "answer3": "마야",
-            "answer4": "사아야"
+            "answer2": "타에",
+            "answer3": "사요",
+            "answer4": "토우코"
         },
         {
             "type": "char",
             "quiz": "이 프로필과 관련된 캐릭터는?",
-            "quizTable": "학년/생일:2학년, 5월 12일",
+            "quizTable": "학교/생일:시라유키 2학년, 5월 12일",
             "answer1": "마스킹",
-            "answer2": "린코",
-            "answer3": "린코",
-            "answer4": "치사토"
+            "answer2": "츠쿠시",
+            "answer3": "레이야",
+            "answer4": "파레오"
         },
         {
             "type": "char",
             "quiz": "이 프로필과 관련된 캐릭터는?",
             "quizTable": "좋아하는 음식:라멘, 야채카레",
             "answer1": "마스킹",
-            "answer2": "린코",
-            "answer3": "이브",
-            "answer4": "루이"
+            "answer2": "토모에",
+            "answer3": "나나미",
+            "answer4": "토우코"
         },
         {
             "type": "char",
             "quiz": "이 프로필과 관련된 캐릭터는?",
             "quizTable": "싫어하는 음식:없음",
             "answer1": "마스킹",
-            "answer2": "유키나",
-            "answer3": "리사",
-            "answer4": "록"
+            "answer2": "치사토",
+            "answer3": "란",
+            "answer4": "루이"
         },
         {
             "type": "char",
             "quiz": "이 프로필과 관련된 캐릭터는?",
             "quizTable": "취미:만화책 읽기",
             "answer1": "마스킹",
-            "answer2": "록",
-            "answer3": "란",
-            "answer4": "마야"
+            "answer2": "모카",
+            "answer3": "아코",
+            "answer4": "츄츄"
         },
         {
             "type": "char",
             "quiz": "이 프로필과 관련된 캐릭터는?",
-            "quizTable": "학년/생일:2학년, 3월 25일",
+            "quizTable": "학년/생일:카모가와 2학년, 3월 25일",
             "answer1": "파레오",
-            "answer2": "아야",
-            "answer3": "모카",
-            "answer4": "토우코"
+            "answer2": "마스킹",
+            "answer3": "파레오",
+            "answer4": "츄츄"
         },
         {
             "type": "char",
             "quiz": "이 프로필과 관련된 캐릭터는?",
             "quizTable": "좋아하는 음식:양배추",
             "answer1": "파레오",
-            "answer2": "사요",
-            "answer3": "츄츄",
+            "answer2": "아리사",
+            "answer3": "마야",
             "answer4": "록"
         },
         {
@@ -4666,53 +5762,53 @@
             "quiz": "이 프로필과 관련된 캐릭터는?",
             "quizTable": "싫어하는 음식:고수, 생양파",
             "answer1": "파레오",
-            "answer2": "레이야",
-            "answer3": "카오루",
-            "answer4": "타에"
+            "answer2": "아리사",
+            "answer3": "미사키",
+            "answer4": "츄츄"
         },
         {
             "type": "char",
             "quiz": "이 프로필과 관련된 캐릭터는?",
             "quizTable": "취미:아이돌",
             "answer1": "파레오",
-            "answer2": "모카",
-            "answer3": "타에",
-            "answer4": "루이"
+            "answer2": "마야",
+            "answer3": "히마리",
+            "answer4": "록"
         },
         {
             "type": "char",
             "quiz": "이 프로필과 관련된 캐릭터는?",
-            "quizTable": "학년/생일:2학년, 12월 7일",
+            "quizTable": "학년/생일:셀로시아 인터네셔널 스쿨 2학년, 12월 7일",
             "answer1": "츄츄",
-            "answer2": "란",
-            "answer3": "토우코",
-            "answer4": "아코"
+            "answer2": "레이야",
+            "answer3": "파레오",
+            "answer4": "마스킹"
         },
         {
             "type": "char",
             "quiz": "이 프로필과 관련된 캐릭터는?",
             "quizTable": "좋아하는 음식:육포",
             "answer1": "츄츄",
-            "answer2": "츠쿠시",
-            "answer3": "토우코",
-            "answer4": "유키나"
+            "answer2": "레이야",
+            "answer3": "록",
+            "answer4": "마스킹"
         },
         {
             "type": "char",
             "quiz": "이 프로필과 관련된 캐릭터는?",
             "quizTable": "싫어하는 음식:샐러드",
             "answer1": "츄츄",
-            "answer2": "츠구미",
-            "answer3": "사요",
-            "answer4": "린코"
+            "answer2": "리미",
+            "answer3": "아야",
+            "answer4": "츠쿠시"
         },
         {
             "type": "char",
             "quiz": "이 프로필과 관련된 캐릭터는?",
             "quizTable": "취미:음악 감상",
             "answer1": "츄츄",
-            "answer2": "카논",
-            "answer3": "린코",
-            "answer4": "카오루"
+            "answer2": "카스미",
+            "answer3": "타에",
+            "answer4": "유키나"
         }
     ]
