@@ -118,8 +118,8 @@ function gameReady(){
   })
 }
 
-function shuffle(o, shuffleType) {
-  if(shuffleType=="song"){
+function shuffle(o, shuffleType, answer1) {
+  if(shuffleType=="song" && Number(answer1)){
     o.sort(function(a,b){
       return a-b;
     });
@@ -133,7 +133,7 @@ function shuffle(o, shuffleType) {
 function btnProvideQuestion() { 
   randomNum = Math.floor(Math.random()*quizName.length);
   randomAnswers = [answer1[randomNum], answer2[randomNum], answer3[randomNum], answer4[randomNum]];
-  shuffle(randomAnswers, quizType[randomNum]);
+  shuffle(randomAnswers, quizType[randomNum], answer1[randomNum]);
 
   var _quizName = document.getElementById("quizName");
   var _quizImage = document.getElementById("quizImage");

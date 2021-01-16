@@ -2802,10 +2802,10 @@
             "type": "song",
             "quiz": "이 노래의 EXPERT 난이도는?",
             "quizImage": "https://i.bandori.party/u/asset/k/1396Egao-Sing-A-Song-Original-In-Game-Cover-U0rp1W.png",
-            "answer1": "27",
+            "answer1": "26",
             "answer2": "24",
             "answer3": "25",
-            "answer4": "26"
+            "answer4": "27"
         },
         {
             "type": "song",
@@ -3340,7 +3340,7 @@
         },
         {
             "type": "song",
-            "quiz": "이 노래는?",
+            "quiz": "이 노래 제목의 첫 글자는?",
             "quizImage": "https://bandori.github.io/bandori/img/song/song_slice_047.jpg",
             "answer1": "C",
             "answer2": "R",
@@ -3349,7 +3349,7 @@
         },
         {
             "type": "song",
-            "quiz": "이 노래는?",
+            "quiz": "이 노래 제목의 첫 글자는?",
             "quizImage": "https://bandori.github.io/bandori/img/song/song_slice_048.jpg",
             "answer1": "H",
             "answer2": "R",
