@@ -295,7 +295,7 @@ function result(){
   });
 
   var _review;
-  if(currentScore >= 1000){
+  if(currentScore >= 750){
     _review = "솔직히 다 외웠죠?";
   }
   else if(currentScore >= 500){
