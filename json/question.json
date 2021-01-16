@@ -3390,7 +3390,7 @@
             "answer1": "R",
             "answer2": "L",
             "answer3": "D",
-            "answer4": "R"
+            "answer4": "K"
         },
         {
             "type": "song",
@@ -5332,9 +5332,9 @@
             "quiz": "이 프로필과 관련된 캐릭터는?",
             "quizTable": "싫어하는 음식:없음",
             "answer1": "하구미",
-            "answer2": "토모에",
+            "answer2": "카스미",
             "answer3": "리사",
-            "answer4": "나나미"
+            "answer4": "토우코"
         },
         {
             "type": "char",
