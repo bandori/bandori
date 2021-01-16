@@ -107,6 +107,11 @@ img.quizImage{
   height: 300;
 }
 
+img.resultImage{
+  max-width: 100%;
+  height: auto;
+}
+
 .quizTable{
   margin-bottom: 50px;
 }
