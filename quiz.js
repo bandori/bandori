@@ -13,8 +13,8 @@ var maxQuizNum;
 var randomNum;
 var answerObj = [];
 var currentScore = 0;
-var currentLife = 5;
-var maxLife = 5;
+var currentLife = 10;
+var maxLife = 10;
 var gameMode = "";
 var gameModeHangul = "";
 
@@ -23,6 +23,9 @@ function initalize(){
   adjustScore(true, true);
   adjustLife(true);
 }
+
+$(document).ready(function(){
+});
 
 function gameModeSelect(type){
   switch(type){
@@ -44,7 +47,7 @@ function gameModeSelect(type){
       break;
     case 99:
       gameMode="all";
-      gameModeHangul="모든 퀴즈";
+      gameModeHangul="종합 퀴즈";
       break;
   }
 
@@ -52,9 +55,7 @@ function gameModeSelect(type){
     $("#mainGame").fadeIn(300);
   });
 
-  //$("#main").css("display","none");
   $("#footer").css("display","none");
-  //$("#mainGame").css("display","block");
 
   gameReady();
 }
@@ -67,10 +68,12 @@ function gameReady(){
     success: function(data) {
       var _num=0;
       var _count=0;
+      shuffle(data);
+
       $.each(data, function(index){
         if(_count >= 100) { return false; }
+
         if(gameMode=="all"){
-   
           quizType[index] = data[index].type;
           quizName[index] = data[index].quiz;
 
@@ -91,13 +94,12 @@ function gameReady(){
           if(data[index].type == gameMode){
             quizType[_num] = data[index].type;
             quizName[_num] = data[index].quiz;
-
+        
             if(data[index].quizImage == undefined) {quizImage[_num] = "none";}
             else{quizImage[_num] = data[index].quizImage;}
 
             if(data[index].quizTable == undefined) {quizTable[_num] = "none";}
             else{quizTable[_num] = data[index].quizTable;}
-
             answer1[_num] = data[index].answer1;
             answer2[_num] = data[index].answer2;
             answer3[_num] = data[index].answer3;
@@ -105,11 +107,10 @@ function gameReady(){
             _num++;
             _count++;
           }
-
-
         }
       })
       maxQuizNum = quizName.length;
+
     }
   })
   $.when(ajaxRequest).done(function(){
@@ -153,7 +154,7 @@ function btnProvideQuestion() {
   }
 
   //테이블
-  console.log(quizTable[randomNum]);
+  console.log("테이블 :"+quizTable[randomNum]);
   if(quizTable[randomNum] == "none"){
     $("#quizTable").hide();
   }
@@ -323,7 +324,7 @@ function clear(){
     $("#clear").fadeIn(300);
   });
 
-  document.getElementById("clearReview").innerHTML = "당신은 "+gameModeHangul+"를 모두 맞추었습니다!";
+  document.getElementById("clearReview").innerHTML = "당신은 "+gameModeHangul+"를 모두 맞추었습니다!<br><br>상으로 모카의 빵을 드립니다.";
 }
 
 function result_retry_clicked() {

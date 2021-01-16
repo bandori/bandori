@@ -8,7 +8,7 @@
     })(window,document,'script','dataLayer','GTM-M56KHBW');</script>
     <!-- End Google Tag Manager -->
 
-    <title>방도리!</title>
+    <title>모카의 퀴즈교실</title>
     <link rel="stylesheet" href="quiz.css"/>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -47,7 +47,7 @@
       <button class="mainMenu" onclick="play(); gameModeSelect(4)">4. 캐릭터 퀴즈</button>
       <button class="mainMenu" onclick="play(); gameModeSelect(99)">종합</button>
       <br><br><br>
-      <div>모든 문제는 랜덤으로 출제됩니다.</div>
+      <div id="quizCount">642개의 문제 중에서 랜덤으로 출제됩니다.</div>
     </div> 
 
     <div id="footer" class="footer">
@@ -94,7 +94,7 @@
 
       <div class="scoreBoard">
         <div id="score" style="display:inline">점수: 0</div>
-        <div id="life" style="display:inline">라이프: 5 / 5</div>
+        <div id="life" style="display:inline">라이프: 10 / 10</div>
       </div>
     </div>
 
@@ -113,6 +113,7 @@
       <h2><div id="clearScore">점수: 0</div></h2>
       <h3><div id="clearReview"></div></h3>
       <img class="clearImage" src="img/img_result_01.png" alt="모카빵">
+      <br>
       <button class="resultBtn" id="result_Retry" onclick="result_retry_clicked()">재시작</button>
       <button class="resultBtn" id="result_GotoMain" onclick="result_gotoMain_clicked()">처음으로</button>
     </div>
