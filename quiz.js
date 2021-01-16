@@ -343,19 +343,6 @@ function result_gotoMain_clicked() {
   window.location.reload();
 }
 
-(function(){
-  document.addEventListener('keydown', function(e){
-    const keyCode = e.keyCode;
-    if(keyCode == 13){ // Enter key
-      for(var i=0; i<randomAnswers.length; i++){
-        if(randomAnswers[i] == answer1[randomNum]){
-          answer_clicked(answerObj[i]);
-          //console.log('정답 ' + i);
-          break;
-        }
-      }
-    }
-  })
-})();
+
 
 
