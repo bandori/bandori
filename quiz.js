@@ -299,27 +299,27 @@ function result(){
   var resultImage = document.getElementById("resultImage");
   if(currentScore >= 750){
     _review = "나나미";
-    resultImage.src = "img/img_result_06.png";
+    resultImage.src = "img/result/img_result_06.png";
   }
   else if(currentScore >= 500){
     _review = "고인물";
-    resultImage.src = "img/img_result_05.png";
+    resultImage.src = "img/result/img_result_05.png";
   }
   else if(currentScore >= 300){
     _review = "핵고수";
-    resultImage.src = "img/img_result_04.png";
+    resultImage.src = "img/result/img_result_04.png";
   }
   else if(currentScore >= 200){
     _review = "고수"
-    resultImage.src = "img/img_result_03.png";
+    resultImage.src = "img/result/img_result_03.png";
   }
   else if (currentScore >= 100){
     _review = "방청년";
-    resultImage.src = "img/img_result_02.png";
+    resultImage.src = "img/result/img_result_02.png";
   }
   else{
     _review = "방린이";
-    resultImage.src = "img/img_result_01.png";
+    resultImage.src = "img/result/img_result_01.png";
   }
   document.getElementById("resultReview").innerHTML = "평가: "+_review;
 
