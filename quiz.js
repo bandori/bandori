@@ -63,7 +63,6 @@ function gameModeSelect(type){
 function gameReady(){
   var ajaxRequest = $.ajax({
     url: 'https://bandori.github.io/bandori/json/question.json',
-    //url: 'json/question.json',
     dataType: 'json',
     success: function(data) {
       var _num=0;
