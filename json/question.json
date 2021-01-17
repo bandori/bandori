@@ -201,9 +201,9 @@
             "type": "illust",
             "quiz": "일러스트의 이름은?",
             "quizImage": "https://i.bandori.party/u/c/art/1024Himari-Uehara-Happy-ハイテンション-aFSmsL.png",
-            "answer1": "예술을 접하고",
+            "answer1": "하이한 기분!",
             "answer2": "소녀의 동경",
-            "answer3": "하이한 기분!",
+            "answer3": "예술을 접하고",
             "answer4": "두 사람 사이좋게"
         },
         {
@@ -1499,8 +1499,8 @@
             "quizImage": "https://bandori.github.io/bandori/img/illust/illust_slice_002.jpg",
             "answer1": "카스미",
             "answer2": "사아야",
-            "answer3": "리사",
-            "answer4": "이브"
+            "answer3": "아리사",
+            "answer4": "타에"
         },
         {
             "type": "illust",
@@ -1516,9 +1516,9 @@
             "quiz": "누구의 일러스트일까요?",
             "quizImage": "https://bandori.github.io/bandori/img/illust/illust_slice_004.jpg",
             "answer1": "타에",
-            "answer2": "리미",
-            "answer3": "마야",
-            "answer4": "미사키"
+            "answer2": "아야",
+            "answer3": "츠구미",
+            "answer4": "이브"
         },
         {
             "type": "illust",
@@ -2830,8 +2830,8 @@
             "quiz": "이 노래의 EXPERT 난이도는?",
             "quizImage": "https://bestdori.com/assets/jp/musicjacket/musicjacket290_rip/assets-star-forassetbundle-startapp-musicjacket-musicjacket290-289_invadeshow-jacket.png",
             "answer1": "27",
-            "answer2": "26",
-            "answer3": "27",
+            "answer2": "25",
+            "answer3": "26",
             "answer4": "28"
         },
         {
@@ -3897,6 +3897,285 @@
             "answer4": "Morfonica의 오리지널곡"
         },
         {
+            "type": "song",
+            "quiz": "이 노래 가사의 제목은?",
+            "quizTable": "코노 테오 하나사나이:이 손을 놓지 않을게",
+            "answer1": "티어 드롭스",
+            "answer2": "이제 막 달리기 시작한 너에게",
+            "answer3": "앞으로 나아가자!",
+            "answer4": "B.O.F"
+        },
+        {
+            "type": "song",
+            "quiz": "이 노래 가사의 제목은?",
+            "quizTable": "소-다 돈나니 이마가 츠라쿠탓테:그래 아무리 지금이 괴롭더라도",
+            "answer1": "앞으로 나아가자!",
+            "answer2": "반짝임이나 꿈이나 ~Sing Girls~",
+            "answer3": "최고(자, 가자)!",
+            "answer4": "Dreamers Go!"
+        },
+        {
+            "type": "song",
+            "quiz": "이 노래 가사의 제목은?",
+            "quizTable": "타다 히타무키니 오이카케테이타:단지 닥치는 대로 뒤쫓고 있었던",
+            "answer1": "인연 뮤직♪",
+            "answer2": "이제 막 달리기 시작한 너에게",
+            "answer3": "1000번 눈물 지은 하늘",
+            "answer4": "Returns"
+        },
+        {
+            "type": "song",
+            "quiz": "이 노래 가사의 제목은?",
+            "quizTable": "하루니 나이테 나츠니 키메타:봄에 울고 여름에 정했어",
+            "answer1": "애달픈 Sandglass",
+            "answer2": "여름의 펑!",
+            "answer3": "White Afternoon",
+            "answer4": "Time Lapse"
+        },
+        {
+            "type": "song",
+            "quiz": "이 노래 가사의 제목은?",
+            "quizTable": "민나오테라스 호시니 낫타:모두를 비추는 별이 되었어",
+            "answer1": "꿈을 꿰뚫는 순간에!",
+            "answer2": "Jumpin'",
+            "answer3": "인연 뮤직♪",
+            "answer4": "반짝반짝 스타!"
+        },
+        {
+            "type": "song",
+            "quiz": "이 노래 가사의 제목은?",
+            "quizTable": "카베노 타카사난테 칸케이 나이요:벽의 높이 같은 건 상관없어",
+            "answer1": "Y.O.L.O!!!!!",
+            "answer2": "이어진, 하늘 모양",
+            "answer3": "ON YOUR MARK",
+            "answer4": "Easy come, Easy go!"
+        },
+        {
+            "type": "song",
+            "quiz": "이 노래 가사의 제목은?",
+            "quizTable": "아타시노 세나카오 신지테츠이테키테:내 등을 믿고 따라와 줘",
+            "answer1": "이어진, 하늘 모양",
+            "answer2": "Scarlet Sky",
+            "answer3": "I love your way!",
+            "answer4": "I knew it!"
+        },
+        {
+            "type": "song",
+            "quiz": "이 노래 가사의 제목은?",
+            "quizTable": "카라마왓테 바카리데모 젠료쿠데 코타에테 유쿠:헛돌기만 하고 있어도 전력으로 응해 주겠어",
+            "answer1": "Easy come, Easy go!",
+            "answer2": "That Is How I Roll!",
+            "answer3": "Y.O.L.O!!!!!",
+            "answer4": "ON YOUR MARK"
+        },
+        {
+            "type": "song",
+            "quiz": "이 노래 가사의 제목은?",
+            "quizTable": "아노 히 스베테가 하지맛테탄다네:그 날 모든 것이 시작된 거네",
+            "answer1": "Sasanqua",
+            "answer2": "Jamboree!Journey!",
+            "answer3": "Rumbling Memory",
+            "answer4": "RED RED RED"
+        },
+        {
+            "type": "song",
+            "quiz": "이 노래 가사의 제목은?",
+            "quizTable": "돈나 센죠오닷테 노조무 토코로사:어떤 전쟁터라도 바라는 바야",
+            "answer1": "ONE OF US",
+            "answer2": "ON YOUR MARK",
+            "answer3": "RED RED RED",
+            "answer4": "SENSENFUKOKU"
+        },
+        {
+            "type": "song",
+            "quiz": "이 노래 가사의 제목은?",
+            "quizTable": "코코로 유라시 마쿠가 히라쿠 키미노코에데:마음이 흔들리고 막이 열리고 너의 목소리로",
+            "answer1": "흔들・흔들 Ring-Dong-Dance",
+            "answer2": "슈와링☆드리~밍",
+            "answer3": "큐～마이＊flower",
+            "answer4": "파스파레볼루션즈☆"
+        },
+        {
+            "type": "song",
+            "quiz": "이 노래 가사의 제목은?",
+            "quizTable": "이마와 마다 요와이 마마데모:지금은 아직 약한 채라도",
+            "answer1": "다시 한번 루미너스",
+            "answer2": "하나마루◎안단테",
+            "answer3": "슈와링☆드리~밍",
+            "answer4": "꼬옥 DAYS♪"
+        },
+        {
+            "type": "song",
+            "quiz": "이 노래 가사의 제목은?",
+            "quizTable": "코코로가 쿠못타마마쟈 다레모 스쿠에나이:우울한 채로는 누구도 구할 수 없어",
+            "answer1": "천하통일 A to Z☆",
+            "answer2": "파스파레볼루션즈☆",
+            "answer3": "SURVIVOR 네버 기브 업!",
+            "answer4": "절대선언〜Recital〜"
+        },
+        {
+            "type": "song",
+            "quiz": "이 노래 가사의 제목은?",
+            "quizTable": "도오시테나노? 키라키라니 나레 나이 지분오 세메테:어째서야? 반짝반짝하지 않는 자신을 나무라며",
+            "answer1": "꼬옥DAYS♪",
+            "answer2": "다시 한 번 루미너스",
+            "answer3": "꿈꿈 그라데이션",
+            "answer4": "TITLE IDOL"
+        },
+        {
+            "type": "song",
+            "quiz": "이 노래 가사의 제목은?",
+            "quizTable": "유메오 오이카케테 유메노 아토에 츠즈케테유쿤다:꿈을 쫓아가서 꿈을 전해 줄 거야",
+            "answer1": "TITLE IDOL",
+            "answer2": "Wonderland Girl",
+            "answer3": "꿈꿈 그라데이션",
+            "answer4": "Power of LOVE!!!"
+        },
+        {
+            "type": "song",
+            "quiz": "이 노래 가사의 제목은?",
+            "quizTable": "No more need to cry 킷토:No more need to cry 분명",
+            "answer1": "LOUDER",
+            "answer2": "BLACK SHOUT",
+            "answer3": "Re:birth day",
+            "answer4": "Opera of the wasteland"
+        },
+        {
+            "type": "song",
+            "quiz": "이 노래 가사의 제목은?",
+            "quizTable": "카사나루 WAVE-MOTION 무네후루와세:겹쳐지는 WAVE-MOTION 가슴 떨리게 해",
+            "answer1": "ONENESS",
+            "answer2": "열색 스타마인",
+            "answer3": "Neo-Aspect",
+            "answer4": "BRAVE JEWEL"
+        },
+        {
+            "type": "song",
+            "quiz": "이 노래 가사의 제목은?",
+            "quizTable": "메자메루 요-나 센시반코-노 우타요:눈을 뜨는 듯한 천자만홍의 노래여",
+            "answer1": "Ringing Bloom",
+            "answer2": "BRAVE JEWEL",
+            "answer3": "FIRE BIRD",
+            "answer4": "Break your desire"
+        },
+        {
+            "type": "song",
+            "quiz": "이 노래 가사의 제목은?",
+            "quizTable": "미라이에 츠즈쿠 미치오 아루코우:미래로 이어지는 길을 걸어가자",
+            "answer1": "약속",
+            "answer2": "궤적",
+            "answer3": "“UNIONS” Road",
+            "answer4": "Avant-garde HISTORY"
+        },
+        {
+            "type": "song",
+            "quiz": "이 노래 가사의 제목은?",
+            "quizTable": "아나타가 이타카라 와타시가 이타 카코카라:당신이 있었기에 내가 있어 과거부터",
+            "answer1": "Song I am.",
+            "answer2": "Neo-Aspect",
+            "answer3": "R",
+            "answer4": "약속"
+        },
+        {
+            "type": "song",
+            "quiz": "이 노래 가사의 제목은?",
+            "quizTable": "두비두밧!!!:두비두바!!!",
+            "answer1": "호화! 호쾌!? 팬텀 시프!",
+            "answer2": "해피니스! 해피 매지컬♪",
+            "answer3": "세계로 쭉쭉 트레져!",
+            "answer4": "웃는 얼굴･싱･어･송"
+        },
+        {
+            "type": "song",
+            "quiz": "이 노래 가사의 제목은?",
+            "quizTable": "페타페타 펫탄토 나나카이 코론데:터벅터벅 꿍하고 7번 넘어지고",
+            "answer1": "시끌‧벅적‧우당탕 행진곡",
+            "answer2": "웃는 얼굴의 오케스트라!",
+            "answer3": "하이파이브∞어드벤처",
+            "answer4": "싱글×벙글=하이퍼 스마일 파워!"
+        },
+        {
+            "type": "song",
+            "quiz": "이 노래 가사의 제목은?",
+            "quizTable": "키즈나 키라키라 보쿠라오 츠나이데:인연이 반짝반짝 우리들을 이어주어서",
+            "answer1": "네가 꼭 필요해!",
+            "answer2": "해피니스! 해피 매지컬♪",
+            "answer3": "웃는 얼굴･싱･어･송",
+            "answer4": "웃는 얼굴, 찾~았다!"
+        },
+        {
+            "type": "song",
+            "quiz": "이 노래 가사의 제목은?",
+            "quizTable": "이츠데모 난데모 오미토오시노 윙크:언제든지 무엇이든지 꿰뚫어보는 윙크",
+            "answer1": "맑게 튼튼하게 반짝반짝♪",
+            "answer2": "호화! 호쾌!? 팬텀 시프!",
+            "answer3": "네가 꼭 필요해!",
+            "answer4": "웃는 얼굴, 찾~았다!"
+        },
+        {
+            "type": "song",
+            "quiz": "이 노래 가사의 제목은?",
+            "quizTable": "세카이츄우모 에보류ー숀 코에오 아게테:온 세계도 에볼루션 목소리를 높여서",
+            "answer1": "웃는 얼굴･싱･어･송",
+            "answer2": "웃는 얼굴의 오케스트라!",
+            "answer3": "YAPPY!\r\nSCHOOL CARNIVAL☆彡",
+            "answer4": "시끌‧벅적‧우당탕 행진곡"
+        },
+        {
+            "type": "song",
+            "quiz": "이 노래 가사의 제목은?",
+            "quizTable": "포츠포츠 코보시타 후안가:방울, 방울, 흘러나온 불안이",
+            "answer1": "Daylight -데이라이트-",
+            "answer2": "금빛의 프렐류드",
+            "answer3": "다시 한번 루미너스",
+            "answer4": "Power of LOVE!!!"
+        },
+        {
+            "type": "song",
+            "quiz": "이 노래 가사의 제목은?",
+            "quizTable": "이치멘니 히로갓타 이쿠센노 시키사이:한 면에 펼쳐지는 수천개의 색채",
+            "answer1": "블룸 블룸",
+            "answer2": "flame of hope",
+            "answer3": "큐～마이＊flower",
+            "answer4": "꿈꿈 그라데이션"
+        },
+        {
+            "type": "song",
+            "quiz": "이 노래 가사의 제목은?",
+            "quizTable": "후안모 잇쇼니 오토데 테츠나이데:불안도 함께 소리로 손을 잡고",
+            "answer1": "하모니 데이",
+            "answer2": "Daylight -데이라이트-",
+            "answer3": "천하통일 A to Z☆",
+            "answer4": "TITLE IDOL"
+        },
+        {
+            "type": "song",
+            "quiz": "이 노래 가사의 제목은?",
+            "quizTable": "보쿠라노 오토와 세카이에토 효오이스루:우리의 소리는 세계로 빙의해",
+            "answer1": "R・I・O・T",
+            "answer2": "UNSTOPPABLE",
+            "answer3": "A DECLARATION OF ×××",
+            "answer4": "EXPOSE ‘Burn out!!!’"
+        },
+        {
+            "type": "song",
+            "quiz": "이 노래 가사의 제목은?",
+            "quizTable": "보쿠타치노 우타데 “Welcome to US”:우리들의 노래로 “Welcome to US”",
+            "answer1": "EXPOSE ‘Burn out!!!’",
+            "answer2": "R・I・O・T",
+            "answer3": "Beautiful Birthday",
+            "answer4": "!NVADE SHOW!"
+        },
+        {
+            "type": "song",
+            "quiz": "이 노래 가사의 제목은?",
+            "quizTable": "세카이와 아나타오 마앗테타:세상은:당신을 기다리고 있었어",
+            "answer1": "Beautiful Birthday",
+            "answer2": "UNSTOPPABLE",
+            "answer3": "EXPOSE ‘Burn out!!!’",
+            "answer4": "!NVADE SHOW!"
+        },
+        {
             "type": "bg",
             "quiz": "여기는 어디일까요?",
             "quizImage": "https://i.bandori.party/u/asset/tthumb/1203Tsugumi-s-Room-1Azxdp.png",
@@ -4053,7 +4332,7 @@
             "type": "bg",
             "quiz": "여기는 어디일까요?",
             "quizImage": "https://i.bandori.party/u/asset/tthumb/663School-dTA4pz.png",
-            "answer1": "하네오카 여학고",
+            "answer1": "하네오카 여학교",
             "answer2": "하나사키가와 여학교",
             "answer3": "츠키노모리 여학교",
             "answer4": "시라유키 학원"

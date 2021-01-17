@@ -201,9 +201,9 @@
             "type": "illust",
             "quiz": "일러스트의 이름은?",
             "quizImage": "https://i.bandori.party/u/c/art/1024Himari-Uehara-Happy-ハイテンション-aFSmsL.png",
-            "answer1": "예술을 접하고",
+            "answer1": "하이한 기분!",
             "answer2": "소녀의 동경",
-            "answer3": "하이한 기분!",
+            "answer3": "예술을 접하고",
             "answer4": "두 사람 사이좋게"
         },
         {
@@ -4332,7 +4332,7 @@
             "type": "bg",
             "quiz": "여기는 어디일까요?",
             "quizImage": "https://i.bandori.party/u/asset/tthumb/663School-dTA4pz.png",
-            "answer1": "하네오카 여학고",
+            "answer1": "하네오카 여학교",
             "answer2": "하나사키가와 여학교",
             "answer3": "츠키노모리 여학교",
             "answer4": "시라유키 학원"
