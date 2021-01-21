@@ -5631,7 +5631,7 @@
         },
         {
             "type": "char",
-            "subType": "char01",
+            "subType": "char02",
             "quiz": "이 프로필과 관련된 캐릭터는?",
             "quizTable": "학교/생일:하나사키가와 2학년, 7월 14일",
             "answer1": "카스미",
@@ -5641,7 +5641,7 @@
         },
         {
             "type": "char",
-            "subType": "char01",
+            "subType": "char02",
             "quiz": "이 프로필과 관련된 캐릭터는?",
             "quizTable": "좋아하는 음식:감자튀김, 흰 밥",
             "answer1": "카스미",
@@ -5651,7 +5651,7 @@
         },
         {
             "type": "char",
-            "subType": "char01",
+            "subType": "char02",
             "quiz": "이 프로필과 관련된 캐릭터는?",
             "quizTable": "싫어하는 음식:낫토",
             "answer1": "카스미",
@@ -5661,7 +5661,7 @@
         },
         {
             "type": "char",
-            "subType": "char01",
+            "subType": "char02",
             "quiz": "이 프로필과 관련된 캐릭터는?",
             "quizTable": "취미:노래방, 모험, 여러가지 일에 도전해보기",
             "answer1": "카스미",
@@ -5671,7 +5671,7 @@
         },
         {
             "type": "char",
-            "subType": "char01",
+            "subType": "char02",
             "quiz": "이 프로필과 관련된 캐릭터는?",
             "quizTable": "학교/생일:하나사키가와 2학년, 12월 4일",
             "answer1": "타에",
@@ -5681,7 +5681,7 @@
         },
         {
             "type": "char",
-            "subType": "char01",
+            "subType": "char02",
             "quiz": "이 프로필과 관련된 캐릭터는?",
             "quizTable": "좋아하는 음식:햄버그, 단팥죽, 먹는 것 전부 좋아함!",
             "answer1": "타에",
@@ -5691,7 +5691,7 @@
         },
         {
             "type": "char",
-            "subType": "char01",
+            "subType": "char02",
             "quiz": "이 프로필과 관련된 캐릭터는?",
             "quizTable": "싫어하는 음식:없음!(희한한 음식 같은 거...?)",
             "answer1": "타에",
@@ -5701,7 +5701,7 @@
         },
         {
             "type": "char",
-            "subType": "char01",
+            "subType": "char02",
             "quiz": "이 프로필과 관련된 캐릭터는?",
             "quizTable": "취미:러닝(무리하지 않는 선에서), 점토, 목욕",
             "answer1": "타에",
@@ -5711,7 +5711,7 @@
         },
         {
             "type": "char",
-            "subType": "char01",
+            "subType": "char02",
             "quiz": "이 프로필과 관련된 캐릭터는?",
             "quizTable": "학교/생일:하나사키가와 2학년, 3월 23일",
             "answer1": "리미",
@@ -5721,7 +5721,7 @@
         },
         {
             "type": "char",
-            "subType": "char01",
+            "subType": "char02",
             "quiz": "이 프로필과 관련된 캐릭터는?",
             "quizTable": "싫어하는 음식:민트초코맛",
             "answer1": "리미",
@@ -5731,7 +5731,7 @@
         },
         {
             "type": "char",
-            "subType": "char01",
+            "subType": "char02",
             "quiz": "이 프로필과 관련된 캐릭터는?",
             "quizTable": "취미:게임, 독서",
             "answer1": "리미",
@@ -5741,7 +5741,7 @@
         },
         {
             "type": "char",
-            "subType": "char01",
+            "subType": "char02",
             "quiz": "이 프로필과 관련된 캐릭터는?",
             "quizTable": "학교/생일:하나사키가와 2학년, 5월 19일",
             "answer1": "사아야",
@@ -5751,7 +5751,7 @@
         },
         {
             "type": "char",
-            "subType": "char01",
+            "subType": "char02",
             "quiz": "이 프로필과 관련된 캐릭터는?",
             "quizTable": "좋아하는 음식:알리오 올리오, 치즈",
             "answer1": "사아야",
@@ -5761,7 +5761,7 @@
         },
         {
             "type": "char",
-            "subType": "char01",
+            "subType": "char02",
             "quiz": "이 프로필과 관련된 캐릭터는?",
             "quizTable": "싫어하는 음식:생어패류",
             "answer1": "사아야",
@@ -5771,7 +5771,7 @@
         },
         {
             "type": "char",
-            "subType": "char01",
+            "subType": "char02",
             "quiz": "이 프로필과 관련된 캐릭터는?",
             "quizTable": "취미:노래방, 야구 관람, 헤어 악세서리 모으기",
             "answer1": "사아야",
@@ -5781,7 +5781,7 @@
         },
         {
             "type": "char",
-            "subType": "char01",
+            "subType": "char02",
             "quiz": "이 프로필과 관련된 캐릭터는?",
             "quizTable": "학교/생일:하나사키가와 2학년, 10월 27일",
             "answer1": "아리사",
@@ -5791,7 +5791,7 @@
         },
         {
             "type": "char",
-            "subType": "char01",
+            "subType": "char02",
             "quiz": "이 프로필과 관련된 캐릭터는?",
             "quizTable": "좋아하는 음식:안미츠, 현미, 삶은 달걀",
             "answer1": "아리사",
@@ -5801,7 +5801,7 @@
         },
         {
             "type": "char",
-            "subType": "char01",
+            "subType": "char02",
             "quiz": "이 프로필과 관련된 캐릭터는?",
             "quizTable": "싫어하는 음식:파 종류",
             "answer1": "아리사",
@@ -5811,7 +5811,7 @@
         },
         {
             "type": "char",
-            "subType": "char01",
+            "subType": "char02",
             "quiz": "이 프로필과 관련된 캐릭터는?",
             "quizTable": "취미:분재, 인터넷 검색",
             "answer1": "아리사",
@@ -5821,7 +5821,7 @@
         },
         {
             "type": "char",
-            "subType": "char01",
+            "subType": "char02",
             "quiz": "이 프로필과 관련된 캐릭터는?",
             "quizTable": "학교/생일:하네오카 2학년, 4월 10일",
             "answer1": "란",
@@ -5831,7 +5831,7 @@
         },
         {
             "type": "char",
-            "subType": "char01",
+            "subType": "char02",
             "quiz": "이 프로필과 관련된 캐릭터는?",
             "quizTable": "좋아하는 음식:쓴맛이 나는 과자",
             "answer1": "란",
@@ -5841,7 +5841,7 @@
         },
         {
             "type": "char",
-            "subType": "char01",
+            "subType": "char02",
             "quiz": "이 프로필과 관련된 캐릭터는?",
             "quizTable": "싫어하는 음식:완두콩, 단 음식",
             "answer1": "란",
@@ -5851,7 +5851,7 @@
         },
         {
             "type": "char",
-            "subType": "char01",
+            "subType": "char02",
             "quiz": "이 프로필과 관련된 캐릭터는?",
             "quizTable": "취미:없음",
             "answer1": "란",
@@ -5861,7 +5861,7 @@
         },
         {
             "type": "char",
-            "subType": "char01",
+            "subType": "char02",
             "quiz": "이 프로필과 관련된 캐릭터는?",
             "quizTable": "학교/생일:하네오카 2학년, 9월 3일",
             "answer1": "모카",
@@ -5871,7 +5871,7 @@
         },
         {
             "type": "char",
-            "subType": "char01",
+            "subType": "char02",
             "quiz": "이 프로필과 관련된 캐릭터는?",
             "quizTable": "좋아하는 음식:빵",
             "answer1": "모카",
@@ -5881,7 +5881,7 @@
         },
         {
             "type": "char",
-            "subType": "char01",
+            "subType": "char02",
             "quiz": "이 프로필과 관련된 캐릭터는?",
             "quizTable": "싫어하는 음식:매운 음식",
             "answer1": "모카",
@@ -5891,7 +5891,7 @@
         },
         {
             "type": "char",
-            "subType": "char01",
+            "subType": "char02",
             "quiz": "이 프로필과 관련된 캐릭터는?",
             "quizTable": "취미:포인트 카드 모으기, 잠자기",
             "answer1": "모카",
@@ -5901,7 +5901,7 @@
         },
         {
             "type": "char",
-            "subType": "char01",
+            "subType": "char02",
             "quiz": "이 프로필과 관련된 캐릭터는?",
             "quizTable": "학교/생일:하네오카 2학년, 10월 23일",
             "answer1": "히마리",
@@ -5911,7 +5911,7 @@
         },
         {
             "type": "char",
-            "subType": "char01",
+            "subType": "char02",
             "quiz": "이 프로필과 관련된 캐릭터는?",
             "quizTable": "좋아하는 음식:초콜릿, 편의점 디저트",
             "answer1": "히마리",
@@ -5921,7 +5921,7 @@
         },
         {
             "type": "char",
-            "subType": "char01",
+            "subType": "char02",
             "quiz": "이 프로필과 관련된 캐릭터는?",
             "quizTable": "싫어하는 음식:표고버섯",
             "answer1": "히마리",
@@ -5931,7 +5931,7 @@
         },
         {
             "type": "char",
-            "subType": "char01",
+            "subType": "char02",
             "quiz": "이 프로필과 관련된 캐릭터는?",
             "quizTable": "취미:편의점 디저트 먹고 비교하기",
             "answer1": "히마리",
@@ -5941,7 +5941,7 @@
         },
         {
             "type": "char",
-            "subType": "char01",
+            "subType": "char02",
             "quiz": "이 프로필과 관련된 캐릭터는?",
             "quizTable": "학교/생일:하네오카 2학년, 4월 15일",
             "answer1": "토모에",
@@ -5951,7 +5951,7 @@
         },
         {
             "type": "char",
-            "subType": "char01",
+            "subType": "char02",
             "quiz": "이 프로필과 관련된 캐릭터는?",
             "quizTable": "좋아하는 음식:돈코츠 소유 라멘",
             "answer1": "토모에",
@@ -5961,7 +5961,7 @@
         },
         {
             "type": "char",
-            "subType": "char01",
+            "subType": "char02",
             "quiz": "이 프로필과 관련된 캐릭터는?",
             "quizTable": "싫어하는 음식:없음",
             "answer1": "토모에",
@@ -5971,7 +5971,7 @@
         },
         {
             "type": "char",
-            "subType": "char01",
+            "subType": "char02",
             "quiz": "이 프로필과 관련된 캐릭터는?",
             "quizTable": "취미:패션, 일본식 큰 북",
             "answer1": "토모에",
@@ -5981,7 +5981,7 @@
         },
         {
             "type": "char",
-            "subType": "char01",
+            "subType": "char02",
             "quiz": "이 프로필과 관련된 캐릭터는?",
             "quizTable": "학교/생일:하네오카 2학년, 1월 7일",
             "answer1": "츠구미",
@@ -5991,7 +5991,7 @@
         },
         {
             "type": "char",
-            "subType": "char01",
+            "subType": "char02",
             "quiz": "이 프로필과 관련된 캐릭터는?",
             "quizTable": "좋아하는 음식:엄마가 만든 케이크",
             "answer1": "츠구미",
@@ -6001,7 +6001,7 @@
         },
         {
             "type": "char",
-            "subType": "char01",
+            "subType": "char02",
             "quiz": "이 프로필과 관련된 캐릭터는?",
             "quizTable": "싫어하는 음식:블랙커피",
             "answer1": "츠구미",
@@ -6011,7 +6011,7 @@
         },
         {
             "type": "char",
-            "subType": "char01",
+            "subType": "char02",
             "quiz": "이 프로필과 관련된 캐릭터는?",
             "quizTable": "취미:입욕제 모으기",
             "answer1": "츠구미",
@@ -6021,7 +6021,7 @@
         },
         {
             "type": "char",
-            "subType": "char01",
+            "subType": "char02",
             "quiz": "이 프로필과 관련된 캐릭터는?",
             "quizTable": "학교/생일:하나사키가와 3학년, 12월 27일",
             "answer1": "아야",
@@ -6031,7 +6031,7 @@
         },
         {
             "type": "char",
-            "subType": "char01",
+            "subType": "char02",
             "quiz": "이 프로필과 관련된 캐릭터는?",
             "quizTable": "좋아하는 음식:오므라이스, 햄버그 같은 양식",
             "answer1": "아야",
@@ -6041,7 +6041,7 @@
         },
         {
             "type": "char",
-            "subType": "char01",
+            "subType": "char02",
             "quiz": "이 프로필과 관련된 캐릭터는?",
             "quizTable": "싫어하는 음식:문어",
             "answer1": "아야",
@@ -6051,7 +6051,7 @@
         },
         {
             "type": "char",
-            "subType": "char01",
+            "subType": "char02",
             "quiz": "이 프로필과 관련된 캐릭터는?",
             "quizTable": "취미:SNS, 셀카 연구",
             "answer1": "아야",
@@ -6061,7 +6061,7 @@
         },
         {
             "type": "char",
-            "subType": "char01",
+            "subType": "char02",
             "quiz": "이 프로필과 관련된 캐릭터는?",
             "quizTable": "학교/생일:하네오카 3학년, 3월 20일",
             "answer1": "히나",
@@ -6071,7 +6071,7 @@
         },
         {
             "type": "char",
-            "subType": "char01",
+            "subType": "char02",
             "quiz": "이 프로필과 관련된 캐릭터는?",
             "quizTable": "좋아하는 음식:껌, 사탕, 정크푸드",
             "answer1": "히나",
@@ -6081,7 +6081,7 @@
         },
         {
             "type": "char",
-            "subType": "char01",
+            "subType": "char02",
             "quiz": "이 프로필과 관련된 캐릭터는?",
             "quizTable": "싫어하는 음식:두부, 유바처럼 맛이 옅은 것",
             "answer1": "히나",
@@ -6091,7 +6091,7 @@
         },
         {
             "type": "char",
-            "subType": "char01",
+            "subType": "char02",
             "quiz": "이 프로필과 관련된 캐릭터는?",
             "quizTable": "취미:아로마 오일 만들기",
             "answer1": "히나",
@@ -6101,7 +6101,7 @@
         },
         {
             "type": "char",
-            "subType": "char01",
+            "subType": "char02",
             "quiz": "이 프로필과 관련된 캐릭터는?",
             "quizTable": "학교/생일:하나사키가와 3학년, 4월 6일",
             "answer1": "치사토",
@@ -6111,7 +6111,7 @@
         },
         {
             "type": "char",
-            "subType": "char01",
+            "subType": "char02",
             "quiz": "이 프로필과 관련된 캐릭터는?",
             "quizTable": "좋아하는 음식:홍차, 담백한 음식, 아사이 보울",
             "answer1": "치사토",
@@ -6121,7 +6121,7 @@
         },
         {
             "type": "char",
-            "subType": "char01",
+            "subType": "char02",
             "quiz": "이 프로필과 관련된 캐릭터는?",
             "quizTable": "싫어하는 음식:낫토",
             "answer1": "치사토",
@@ -6131,7 +6131,7 @@
         },
         {
             "type": "char",
-            "subType": "char01",
+            "subType": "char02",
             "quiz": "이 프로필과 관련된 캐릭터는?",
             "quizTable": "취미:카페에서 차 마시기, 쇼핑",
             "answer1": "치사토",
@@ -6141,7 +6141,7 @@
         },
         {
             "type": "char",
-            "subType": "char01",
+            "subType": "char02",
             "quiz": "이 프로필과 관련된 캐릭터는?",
             "quizTable": "학교/생일:하네오카 3학년, 11월 3일",
             "answer1": "마야",
@@ -6151,7 +6151,7 @@
         },
         {
             "type": "char",
-            "subType": "char01",
+            "subType": "char02",
             "quiz": "이 프로필과 관련된 캐릭터는?",
             "quizTable": "좋아하는 음식:야채스틱",
             "answer1": "마야",
@@ -6161,7 +6161,7 @@
         },
         {
             "type": "char",
-            "subType": "char01",
+            "subType": "char02",
             "quiz": "이 프로필과 관련된 캐릭터는?",
             "quizTable": "싫어하는 음식:고급 식재료",
             "answer1": "마야",
@@ -6171,7 +6171,7 @@
         },
         {
             "type": "char",
-            "subType": "char01",
+            "subType": "char02",
             "quiz": "이 프로필과 관련된 캐릭터는?",
             "quizTable": "취미:장비를 만지는 일",
             "answer1": "마야",
@@ -6181,7 +6181,7 @@
         },
         {
             "type": "char",
-            "subType": "char01",
+            "subType": "char02",
             "quiz": "이 프로필과 관련된 캐릭터는?",
             "quizTable": "학교/생일:하나사키가와 2학년, 6월 27일",
             "answer1": "이브",
@@ -6191,7 +6191,7 @@
         },
         {
             "type": "char",
-            "subType": "char01",
+            "subType": "char02",
             "quiz": "이 프로필과 관련된 캐릭터는?",
             "quizTable": "좋아하는 음식:진저브레드 쿠키",
             "answer1": "이브",
@@ -6201,7 +6201,7 @@
         },
         {
             "type": "char",
-            "subType": "char01",
+            "subType": "char02",
             "quiz": "이 프로필과 관련된 캐릭터는?",
             "quizTable": "싫어하는 음식:누카즈케",
             "answer1": "이브",
@@ -6211,7 +6211,7 @@
         },
         {
             "type": "char",
-            "subType": "char01",
+            "subType": "char02",
             "quiz": "이 프로필과 관련된 캐릭터는?",
             "quizTable": "취미:사극 감상",
             "answer1": "이브",
@@ -6221,7 +6221,7 @@
         },
         {
             "type": "char",
-            "subType": "char01",
+            "subType": "char02",
             "quiz": "이 프로필과 관련된 캐릭터는?",
             "quizTable": "학교/생일:하네오카 3학년, 10월 26일",
             "answer1": "유키나",
@@ -6231,7 +6231,7 @@
         },
         {
             "type": "char",
-            "subType": "char01",
+            "subType": "char02",
             "quiz": "이 프로필과 관련된 캐릭터는?",
             "quizTable": "좋아하는 음식:꿀차, 리사가 만든 쿠키",
             "answer1": "유키나",
@@ -6241,7 +6241,7 @@
         },
         {
             "type": "char",
-            "subType": "char01",
+            "subType": "char02",
             "quiz": "이 프로필과 관련된 캐릭터는?",
             "quizTable": "싫어하는 음식:여주(이 외, 쓴맛이 나는 것)",
             "answer1": "유키나",
@@ -6251,7 +6251,7 @@
         },
         {
             "type": "char",
-            "subType": "char01",
+            "subType": "char02",
             "quiz": "이 프로필과 관련된 캐릭터는?",
             "quizTable": "취미:없음",
             "answer1": "유키나",
@@ -6261,7 +6261,7 @@
         },
         {
             "type": "char",
-            "subType": "char01",
+            "subType": "char02",
             "quiz": "이 프로필과 관련된 캐릭터는?",
             "quizTable": "학교/생일:하나사키가와 3학년, 3월 20일",
             "answer1": "사요",
@@ -6271,7 +6271,7 @@
         },
         {
             "type": "char",
-            "subType": "char01",
+            "subType": "char02",
             "quiz": "이 프로필과 관련된 캐릭터는?",
             "quizTable": "좋아하는 음식:정크푸드, 껌, 사탕",
             "answer1": "사요",
@@ -6281,7 +6281,7 @@
         },
         {
             "type": "char",
-            "subType": "char01",
+            "subType": "char02",
             "quiz": "이 프로필과 관련된 캐릭터는?",
             "quizTable": "싫어하는 음식:당근",
             "answer1": "사요",
@@ -6291,7 +6291,7 @@
         },
         {
             "type": "char",
-            "subType": "char01",
+            "subType": "char02",
             "quiz": "이 프로필과 관련된 캐릭터는?",
             "quizTable": "취미:없음",
             "answer1": "사요",
@@ -6301,7 +6301,7 @@
         },
         {
             "type": "char",
-            "subType": "char01",
+            "subType": "char02",
             "quiz": "이 프로필과 관련된 캐릭터는?",
             "quizTable": "학교/생일:하네오카 3학년, 8월 25일",
             "answer1": "리사",
@@ -6311,7 +6311,7 @@
         },
         {
             "type": "char",
-            "subType": "char01",
+            "subType": "char02",
             "quiz": "이 프로필과 관련된 캐릭터는?",
             "quizTable": "좋아하는 음식:치쿠젠니, 스노모노",
             "answer1": "리사",
@@ -6321,7 +6321,7 @@
         },
         {
             "type": "char",
-            "subType": "char01",
+            "subType": "char02",
             "quiz": "이 프로필과 관련된 캐릭터는?",
             "quizTable": "싫어하는 음식:그린 스무디",
             "answer1": "리사",
@@ -6331,7 +6331,7 @@
         },
         {
             "type": "char",
-            "subType": "char01",
+            "subType": "char02",
             "quiz": "이 프로필과 관련된 캐릭터는?",
             "quizTable": "취미:뜨개질",
             "answer1": "리사",
@@ -6341,7 +6341,7 @@
         },
         {
             "type": "char",
-            "subType": "char01",
+            "subType": "char02",
             "quiz": "이 프로필과 관련된 캐릭터는?",
             "quizTable": "학교/생일:하네오카 1학년, 7월 3일",
             "answer1": "아코",
@@ -6351,7 +6351,7 @@
         },
         {
             "type": "char",
-            "subType": "char01",
+            "subType": "char02",
             "quiz": "이 프로필과 관련된 캐릭터는?",
             "quizTable": "좋아하는 음식:포테이토칩, 젤리빈",
             "answer1": "아코",
@@ -6361,7 +6361,7 @@
         },
         {
             "type": "char",
-            "subType": "char01",
+            "subType": "char02",
             "quiz": "이 프로필과 관련된 캐릭터는?",
             "quizTable": "싫어하는 음식:해삼, 피망",
             "answer1": "아코",
@@ -6371,7 +6371,7 @@
         },
         {
             "type": "char",
-            "subType": "char01",
+            "subType": "char02",
             "quiz": "이 프로필과 관련된 캐릭터는?",
             "quizTable": "취미:멋있는 것 연구하기",
             "answer1": "아코",
@@ -6381,7 +6381,7 @@
         },
         {
             "type": "char",
-            "subType": "char01",
+            "subType": "char02",
             "quiz": "이 프로필과 관련된 캐릭터는?",
             "quizTable": "학교/생일:하나사키가와 3학년, 10월 17일",
             "answer1": "린코",
@@ -6391,7 +6391,7 @@
         },
         {
             "type": "char",
-            "subType": "char01",
+            "subType": "char02",
             "quiz": "이 프로필과 관련된 캐릭터는?",
             "quizTable": "좋아하는 음식:핫 밀크",
             "answer1": "린코",
@@ -6401,7 +6401,7 @@
         },
         {
             "type": "char",
-            "subType": "char01",
+            "subType": "char02",
             "quiz": "이 프로필과 관련된 캐릭터는?",
             "quizTable": "싫어하는 음식:샐러리",
             "answer1": "린코",
@@ -6411,7 +6411,7 @@
         },
         {
             "type": "char",
-            "subType": "char01",
+            "subType": "char02",
             "quiz": "이 프로필과 관련된 캐릭터는?",
             "quizTable": "취미:온라인 게임, 십자말풀이, 독서",
             "answer1": "린코",
@@ -6421,7 +6421,7 @@
         },
         {
             "type": "char",
-            "subType": "char01",
+            "subType": "char02",
             "quiz": "이 프로필과 관련된 캐릭터는?",
             "quizTable": "학교/생일:하나사키가와 2학년, 8월 8일",
             "answer1": "코코로",
@@ -6431,7 +6431,7 @@
         },
         {
             "type": "char",
-            "subType": "char01",
+            "subType": "char02",
             "quiz": "이 프로필과 관련된 캐릭터는?",
             "quizTable": "좋아하는 음식:뭐든 다 좋아함!",
             "answer1": "코코로",
@@ -6441,7 +6441,7 @@
         },
         {
             "type": "char",
-            "subType": "char01",
+            "subType": "char02",
             "quiz": "이 프로필과 관련된 캐릭터는?",
             "quizTable": "싫어하는 음식:없음!",
             "answer1": "코코로",
@@ -6451,7 +6451,7 @@
         },
         {
             "type": "char",
-            "subType": "char01",
+            "subType": "char02",
             "quiz": "이 프로필과 관련된 캐릭터는?",
             "quizTable": "취미:즐거운 일 찾기",
             "answer1": "코코로",
@@ -6461,7 +6461,7 @@
         },
         {
             "type": "char",
-            "subType": "char01",
+            "subType": "char02",
             "quiz": "이 프로필과 관련된 캐릭터는?",
             "quizTable": "학교/생일:하네오카 3학년, 2월 28일",
             "answer1": "카오루",
@@ -6471,7 +6471,7 @@
         },
         {
             "type": "char",
-            "subType": "char01",
+            "subType": "char02",
             "quiz": "이 프로필과 관련된 캐릭터는?",
             "quizTable": "좋아하는 음식:떡국",
             "answer1": "카오루",
@@ -6481,7 +6481,7 @@
         },
         {
             "type": "char",
-            "subType": "char01",
+            "subType": "char02",
             "quiz": "이 프로필과 관련된 캐릭터는?",
             "quizTable": "싫어하는 음식:생어패류",
             "answer1": "카오루",
@@ -6491,7 +6491,7 @@
         },
         {
             "type": "char",
-            "subType": "char01",
+            "subType": "char02",
             "quiz": "이 프로필과 관련된 캐릭터는?",
             "quizTable": "취미:철학 책 읽기",
             "answer1": "카오루",
@@ -6501,7 +6501,7 @@
         },
         {
             "type": "char",
-            "subType": "char01",
+            "subType": "char02",
             "quiz": "이 프로필과 관련된 캐릭터는?",
             "quizTable": "학교/생일:하나사키가와 2학년, 7월 30일",
             "answer1": "하구미",
@@ -6511,7 +6511,7 @@
         },
         {
             "type": "char",
-            "subType": "char01",
+            "subType": "char02",
             "quiz": "이 프로필과 관련된 캐릭터는?",
             "quizTable": "싫어하는 음식:없음",
             "answer1": "하구미",
@@ -6521,7 +6521,7 @@
         },
         {
             "type": "char",
-            "subType": "char01",
+            "subType": "char02",
             "quiz": "이 프로필과 관련된 캐릭터는?",
             "quizTable": "취미:마라톤",
             "answer1": "하구미",
@@ -6531,7 +6531,7 @@
         },
         {
             "type": "char",
-            "subType": "char01",
+            "subType": "char02",
             "quiz": "이 프로필과 관련된 캐릭터는?",
             "quizTable": "학교/생일:하나사키가와 3학년, 5월 11일",
             "answer1": "카논",
@@ -6541,7 +6541,7 @@
         },
         {
             "type": "char",
-            "subType": "char01",
+            "subType": "char02",
             "quiz": "이 프로필과 관련된 캐릭터는?",
             "quizTable": "좋아하는 음식:맛있는 과자, 케이크, 커피, 홍차",
             "answer1": "카논",
@@ -6551,7 +6551,7 @@
         },
         {
             "type": "char",
-            "subType": "char01",
+            "subType": "char02",
             "quiz": "이 프로필과 관련된 캐릭터는?",
             "quizTable": "싫어하는 음식:버섯",
             "answer1": "카논",
@@ -6561,7 +6561,7 @@
         },
         {
             "type": "char",
-            "subType": "char01",
+            "subType": "char02",
             "quiz": "이 프로필과 관련된 캐릭터는?",
             "quizTable": "취미:해파리 보기, 카페 탐방",
             "answer1": "카논",
@@ -6571,7 +6571,7 @@
         },
         {
             "type": "char",
-            "subType": "char01",
+            "subType": "char02",
             "quiz": "이 프로필과 관련된 캐릭터는?",
             "quizTable": "학교/생일:하나사키가와 2학년, 10월 1일",
             "answer1": "미사키",
@@ -6581,7 +6581,7 @@
         },
         {
             "type": "char",
-            "subType": "char01",
+            "subType": "char02",
             "quiz": "이 프로필과 관련된 캐릭터는?",
             "quizTable": "좋아하는 음식:패밀리 레스토랑의 음식",
             "answer1": "미사키",
@@ -6591,7 +6591,7 @@
         },
         {
             "type": "char",
-            "subType": "char01",
+            "subType": "char02",
             "quiz": "이 프로필과 관련된 캐릭터는?",
             "quizTable": "싫어하는 음식:고수",
             "answer1": "미사키",
@@ -6601,7 +6601,7 @@
         },
         {
             "type": "char",
-            "subType": "char01",
+            "subType": "char02",
             "quiz": "이 프로필과 관련된 캐릭터는?",
             "quizTable": "취미:양모 펠트 공예",
             "answer1": "미사키",
@@ -6611,7 +6611,7 @@
         },
         {
             "type": "char",
-            "subType": "char01",
+            "subType": "char02",
             "quiz": "이 프로필과 관련된 캐릭터는?",
             "quizTable": "학교/생일:츠키노모리 1학년, 2월 19일",
             "answer1": "마시로",
@@ -6621,7 +6621,7 @@
         },
         {
             "type": "char",
-            "subType": "char01",
+            "subType": "char02",
             "quiz": "이 프로필과 관련된 캐릭터는?",
             "quizTable": "좋아하는 음식:비프 스프",
             "answer1": "마시로",
@@ -6631,7 +6631,7 @@
         },
         {
             "type": "char",
-            "subType": "char01",
+            "subType": "char02",
             "quiz": "이 프로필과 관련된 캐릭터는?",
             "quizTable": "싫어하는 음식:시금치, 완두콩, 당근 등",
             "answer1": "마시로",
@@ -6641,7 +6641,7 @@
         },
         {
             "type": "char",
-            "subType": "char01",
+            "subType": "char02",
             "quiz": "이 프로필과 관련된 캐릭터는?",
             "quizTable": "취미:뜨개질",
             "answer1": "마시로",
@@ -6651,7 +6651,7 @@
         },
         {
             "type": "char",
-            "subType": "char01",
+            "subType": "char02",
             "quiz": "이 프로필과 관련된 캐릭터는?",
             "quizTable": "학교/생일:츠키노모리 1학년, 12월 16일",
             "answer1": "토우코",
@@ -6661,7 +6661,7 @@
         },
         {
             "type": "char",
-            "subType": "char01",
+            "subType": "char02",
             "quiz": "이 프로필과 관련된 캐릭터는?",
             "quizTable": "좋아하는 음식:컵 야키소바",
             "answer1": "토우코",
@@ -6671,7 +6671,7 @@
         },
         {
             "type": "char",
-            "subType": "char01",
+            "subType": "char02",
             "quiz": "이 프로필과 관련된 캐릭터는?",
             "quizTable": "싫어하는 음식:민트계의 껌",
             "answer1": "토우코",
@@ -6681,7 +6681,7 @@
         },
         {
             "type": "char",
-            "subType": "char01",
+            "subType": "char02",
             "quiz": "이 프로필과 관련된 캐릭터는?",
             "quizTable": "취미:SNS, 의상 디자인",
             "answer1": "토우코",
@@ -6691,7 +6691,7 @@
         },
         {
             "type": "char",
-            "subType": "char01",
+            "subType": "char02",
             "quiz": "이 프로필과 관련된 캐릭터는?",
             "quizTable": "학교/생일:츠키노모리 1학년, 6월 16일",
             "answer1": "나나미",
@@ -6701,7 +6701,7 @@
         },
         {
             "type": "char",
-            "subType": "char01",
+            "subType": "char02",
             "quiz": "이 프로필과 관련된 캐릭터는?",
             "quizTable": "좋아하는 음식:매운 것, 중독성 있는 음식",
             "answer1": "나나미",
@@ -6711,7 +6711,7 @@
         },
         {
             "type": "char",
-            "subType": "char01",
+            "subType": "char02",
             "quiz": "이 프로필과 관련된 캐릭터는?",
             "quizTable": "싫어하는 음식:없음",
             "answer1": "나나미",
@@ -6721,7 +6721,7 @@
         },
         {
             "type": "char",
-            "subType": "char01",
+            "subType": "char02",
             "quiz": "이 프로필과 관련된 캐릭터는?",
             "quizTable": "취미:경품 모으기",
             "answer1": "나나미",
@@ -6731,7 +6731,7 @@
         },
         {
             "type": "char",
-            "subType": "char01",
+            "subType": "char02",
             "quiz": "이 프로필과 관련된 캐릭터는?",
             "quizTable": "학교/생일:츠키노모리 1학년, 9월 15일",
             "answer1": "츠쿠시",
@@ -6741,7 +6741,7 @@
         },
         {
             "type": "char",
-            "subType": "char01",
+            "subType": "char02",
             "quiz": "이 프로필과 관련된 캐릭터는?",
             "quizTable": "좋아하는 음식:엄마의 카레",
             "answer1": "츠쿠시",
@@ -6751,7 +6751,7 @@
         },
         {
             "type": "char",
-            "subType": "char01",
+            "subType": "char02",
             "quiz": "이 프로필과 관련된 캐릭터는?",
             "quizTable": "싫어하는 음식:녹색 채소",
             "answer1": "츠쿠시",
@@ -6761,7 +6761,7 @@
         },
         {
             "type": "char",
-            "subType": "char01",
+            "subType": "char02",
             "quiz": "이 프로필과 관련된 캐릭터는?",
             "quizTable": "취미:헤어 어레인지",
             "answer1": "츠쿠시",
@@ -6771,7 +6771,7 @@
         },
         {
             "type": "char",
-            "subType": "char01",
+            "subType": "char02",
             "quiz": "이 프로필과 관련된 캐릭터는?",
             "quizTable": "학교/생일:츠키노모리 1학년, 11월 19일",
             "answer1": "루이",
@@ -6781,7 +6781,7 @@
         },
         {
             "type": "char",
-            "subType": "char01",
+            "subType": "char02",
             "quiz": "이 프로필과 관련된 캐릭터는?",
             "quizTable": "좋아하는 음식:새알심 단팥죽",
             "answer1": "루이",
@@ -6791,7 +6791,7 @@
         },
         {
             "type": "char",
-            "subType": "char01",
+            "subType": "char02",
             "quiz": "이 프로필과 관련된 캐릭터는?",
             "quizTable": "싫어하는 음식:맛이 진한 것, 주장이 강한 것",
             "answer1": "루이",
@@ -6801,7 +6801,7 @@
         },
         {
             "type": "char",
-            "subType": "char01",
+            "subType": "char02",
             "quiz": "이 프로필과 관련된 캐릭터는?",
             "quizTable": "취미:없음",
             "answer1": "루이",
@@ -6811,7 +6811,7 @@
         },
         {
             "type": "char",
-            "subType": "char01",
+            "subType": "char02",
             "quiz": "이 프로필과 관련된 캐릭터는?",
             "quizTable": "학년/생일:예술학원고교 2학년, 1월 13일",
             "answer1": "레이야",
@@ -6821,7 +6821,7 @@
         },
         {
             "type": "char",
-            "subType": "char01",
+            "subType": "char02",
             "quiz": "이 프로필과 관련된 캐릭터는?",
             "quizTable": "좋아하는 음식:핫밀크(꿀 들어간 것)",
             "answer1": "레이야",
@@ -6831,7 +6831,7 @@
         },
         {
             "type": "char",
-            "subType": "char01",
+            "subType": "char02",
             "quiz": "이 프로필과 관련된 캐릭터는?",
             "quizTable": "싫어하는 음식:쓴 커피, 해삼",
             "answer1": "레이야",
@@ -6841,7 +6841,7 @@
         },
         {
             "type": "char",
-            "subType": "char01",
+            "subType": "char02",
             "quiz": "이 프로필과 관련된 캐릭터는?",
             "quizTable": "취미:스트레칭",
             "answer1": "레이야",
@@ -6851,7 +6851,7 @@
         },
         {
             "type": "char",
-            "subType": "char01",
+            "subType": "char02",
             "quiz": "이 프로필과 관련된 캐릭터는?",
             "quizTable": "학교/생일:하네오카 1학년, 7월 17일",
             "answer1": "록",
@@ -6861,7 +6861,7 @@
         },
         {
             "type": "char",
-            "subType": "char01",
+            "subType": "char02",
             "quiz": "이 프로필과 관련된 캐릭터는?",
             "quizTable": "좋아하는 음식:단팥, 군고구마",
             "answer1": "록",
@@ -6871,7 +6871,7 @@
         },
         {
             "type": "char",
-            "subType": "char01",
+            "subType": "char02",
             "quiz": "이 프로필과 관련된 캐릭터는?",
             "quizTable": "싫어하는 음식:가게에서 먹는 라멘",
             "answer1": "록",
@@ -6881,7 +6881,7 @@
         },
         {
             "type": "char",
-            "subType": "char01",
+            "subType": "char02",
             "quiz": "이 프로필과 관련된 캐릭터는?",
             "quizTable": "취미:기타",
             "answer1": "록",
@@ -6891,7 +6891,7 @@
         },
         {
             "type": "char",
-            "subType": "char01",
+            "subType": "char02",
             "quiz": "이 프로필과 관련된 캐릭터는?",
             "quizTable": "학교/생일:시라유키 2학년, 5월 12일",
             "answer1": "마스킹",
@@ -6901,7 +6901,7 @@
         },
         {
             "type": "char",
-            "subType": "char01",
+            "subType": "char02",
             "quiz": "이 프로필과 관련된 캐릭터는?",
             "quizTable": "좋아하는 음식:라멘, 야채카레",
             "answer1": "마스킹",
@@ -6911,7 +6911,7 @@
         },
         {
             "type": "char",
-            "subType": "char01",
+            "subType": "char02",
             "quiz": "이 프로필과 관련된 캐릭터는?",
             "quizTable": "싫어하는 음식:없음",
             "answer1": "마스킹",
@@ -6921,7 +6921,7 @@
         },
         {
             "type": "char",
-            "subType": "char01",
+            "subType": "char02",
             "quiz": "이 프로필과 관련된 캐릭터는?",
             "quizTable": "취미:만화책 읽기",
             "answer1": "마스킹",
@@ -6931,7 +6931,7 @@
         },
         {
             "type": "char",
-            "subType": "char01",
+            "subType": "char02",
             "quiz": "이 프로필과 관련된 캐릭터는?",
             "quizTable": "학년/생일:카모가와 2학년, 3월 25일",
             "answer1": "파레오",
@@ -6941,7 +6941,7 @@
         },
         {
             "type": "char",
-            "subType": "char01",
+            "subType": "char02",
             "quiz": "이 프로필과 관련된 캐릭터는?",
             "quizTable": "좋아하는 음식:양배추",
             "answer1": "파레오",
@@ -6951,7 +6951,7 @@
         },
         {
             "type": "char",
-            "subType": "char01",
+            "subType": "char02",
             "quiz": "이 프로필과 관련된 캐릭터는?",
             "quizTable": "싫어하는 음식:고수, 생양파",
             "answer1": "파레오",
@@ -6961,7 +6961,7 @@
         },
         {
             "type": "char",
-            "subType": "char01",
+            "subType": "char02",
             "quiz": "이 프로필과 관련된 캐릭터는?",
             "quizTable": "취미:아이돌",
             "answer1": "파레오",
@@ -6971,7 +6971,7 @@
         },
         {
             "type": "char",
-            "subType": "char01",
+            "subType": "char02",
             "quiz": "이 프로필과 관련된 캐릭터는?",
             "quizTable": "학년/생일:셀로시아 인터네셔널 스쿨 2학년, 12월 7일",
             "answer1": "츄츄",
@@ -6981,7 +6981,7 @@
         },
         {
             "type": "char",
-            "subType": "char01",
+            "subType": "char02",
             "quiz": "이 프로필과 관련된 캐릭터는?",
             "quizTable": "좋아하는 음식:육포",
             "answer1": "츄츄",
@@ -6991,7 +6991,7 @@
         },
         {
             "type": "char",
-            "subType": "char01",
+            "subType": "char02",
             "quiz": "이 프로필과 관련된 캐릭터는?",
             "quizTable": "싫어하는 음식:샐러드",
             "answer1": "츄츄",
@@ -7001,7 +7001,7 @@
         },
         {
             "type": "char",
-            "subType": "char01",
+            "subType": "char02",
             "quiz": "이 프로필과 관련된 캐릭터는?",
             "quizTable": "취미:음악 감상",
             "answer1": "츄츄",
