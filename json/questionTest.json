@@ -3944,6 +3944,87 @@
         {
             "type": "song",
             "quiz": "이 노래 가사의 제목은?",
+            "quizTable": "하싯테타, 이츠모 하싯테타:달렸어, 언제나 달리고 있었어",
+            "answer1": "STAR BEAT! ~별의 고동 소리~",
+            "answer2": "이제 막 달리기 시작한 너에게",
+            "answer3": "두근두근 익스피리언스!",
+            "answer4": "반짝임이나 꿈이나 ~Sing Girls~"
+        },
+        {
+            "type": "song",
+            "quiz": "이 노래 가사의 제목은?",
+            "quizTable": "POPIPA! PIPOPA! POPIPA! PA! PIPOPA!:POPIPA! PIPOPA! POPIPA! PA! PIPOPA!",
+            "answer1": "여름 하늘 SUN! SUN! SEVEN!",
+            "answer2": "Yes! BanG_Dream!",
+            "answer3": "팝핀 셔플",
+            "answer4": "여름의 펑!"
+        },
+        {
+            "type": "song",
+            "quiz": "이 노래 가사의 제목은?",
+            "quizTable": "유메미루토키 히토와 츠요쿠 나레룬다네:꿈을 꿀 때 사람은 강해질 수 있구나",
+            "answer1": "B.O.F",
+            "answer2": "꿈꾸는 Sunflower",
+            "answer3": "Light Delight",
+            "answer4": "꿈을 꿰뚫는 순간에!"
+        },
+        {
+            "type": "song",
+            "quiz": "이 노래 가사의 제목은?",
+            "quizTable": "아노히노 키라키라 오보에테마스카?:그 날의 반짝임을 기억하고 있니?",
+            "answer1": "쌍무지개 (더블 레인보우)",
+            "answer2": "8월의 if",
+            "answer3": "크리스마스의 노래",
+            "answer4": "미래 트레인"
+        },
+        {
+            "type": "song",
+            "quiz": "이 노래 가사의 제목은?",
+            "quizTable": "치큐우와 다레노 모노캇테? 손나 코토요리모 I love you:지구는 누구의 것이냐고? 그런것보다는 I love you",
+            "answer1": "이니셜",
+            "answer2": "Breakthrough!",
+            "answer3": "Dreamers Go!",
+            "answer4": "NO GIRL NO CRY"
+        },
+        {
+            "type": "song",
+            "quiz": "이 노래 가사의 제목은?",
+            "quizTable": "라이슈우우마레루 우사기노아카챠응:다음 주에 태어나는 토끼의 새끼",
+            "answer1": "Photograph",
+            "answer2": "걸즈 코드",
+            "answer3": "기념일",
+            "answer4": "열어보니 Dream!"
+        },
+        {
+            "type": "song",
+            "quiz": "이 노래 가사의 제목은?",
+            "quizTable": "코노 유메노 사키마데 이잇쇼니 스슨데이코오네:이 꿈의 끝까지 함께 나아가자",
+            "answer1": "미래 트레인",
+            "answer2": "앞으로 나아가자!",
+            "answer3": "최고(자, 가자)!",
+            "answer4": "Dreamers Go!"
+        },
+        {
+            "type": "song",
+            "quiz": "이 노래 가사의 제목은?",
+            "quizTable": "돈나니 소라가 마부시쿠테모:아무리 하늘이 눈부셔도",
+            "answer1": "Returns",
+            "answer2": "CiRCLING",
+            "answer3": "White Afternoon",
+            "answer4": "Jumpin'"
+        },
+        {
+            "type": "song",
+            "quiz": "이 노래 가사의 제목은?",
+            "quizTable": "키노우요리 우츠쿠시이 하나오 사카세요우:어제보다 아름다운 꽃을 피워보자",
+            "answer1": "SAKURA MEMORIES",
+            "answer2": "꿈꾸는 Sunflower",
+            "answer3": "인연 뮤직♪",
+            "answer4": "Photograph"
+        },
+        {
+            "type": "song",
+            "quiz": "이 노래 가사의 제목은?",
             "quizTable": "카베노 타카사난테 칸케이 나이요:벽의 높이 같은 건 상관없어",
             "answer1": "Y.O.L.O!!!!!",
             "answer2": "이어진, 하늘 모양",
@@ -3985,6 +4066,51 @@
             "answer2": "ON YOUR MARK",
             "answer3": "RED RED RED",
             "answer4": "SENSENFUKOKU"
+        },
+        {
+            "type": "song",
+            "quiz": "이 노래 가사의 제목은?",
+            "quizTable": "이츠모도-리노 민나가 \"마잇카\"데 에가오니 나루:평소대로의 모두가 \"뭐 됐나\"라며 웃는 얼굴이 돼",
+            "answer1": "COMIC PANIC!!!",
+            "answer2": "Scarlet Sky",
+            "answer3": "평소대로의 Brand new days",
+            "answer4": "RED RED RED"
+        },
+        {
+            "type": "song",
+            "quiz": "이 노래 가사의 제목은?",
+            "quizTable": "가코모 켄자이모 미라이닷테 츠나이데루모노와: 과거도 현재도 미래도 잡고있는 것은",
+            "answer1": "Rumbling Memory",
+            "answer2": "이어진 하늘 모양",
+            "answer3": "COMIC PANIC!!!",
+            "answer4": "Sasanqua"
+        },
+        {
+            "type": "song",
+            "quiz": "이 노래 가사의 제목은?",
+            "quizTable": "Thank you! 키미토 이루토 난도모 유우키오 모라에: 고마워! 너와 있으면 언제나 용기를 얻어",
+            "answer1": "I love your way!",
+            "answer2": "COMIC PANIC!!!",
+            "answer3": "I love your way!",
+            "answer4": "Easy come, Easy go!"
+        },
+        {
+            "type": "song",
+            "quiz": "이 노래 가사의 제목은?",
+            "quizTable": "얏파이이네 키미가이테 아타시가이루 세카이와 Everything:역시 좋아 네가 있고 내가 있는 세상은 Everything",
+            "answer1": "I knew it!",
+            "answer2": "Jamboree!Journey!",
+            "answer3": "ON YOUR MARK",
+            "answer4": "I love your way!"
+        },
+        {
+            "type": "song",
+            "quiz": "이 노래 가사의 제목은?",
+            "quizTable": "에이엔노 유우죠오가 테라시다스:영원한 우정이 빛나고 있어",
+            "answer1": "Jamboree!Journey!",
+            "answer2": "True color",
+            "answer3": "Rumbling Memory",
+            "answer4": "Sasanqua"
         },
         {
             "type": "song",
@@ -4034,6 +4160,33 @@
         {
             "type": "song",
             "quiz": "이 노래 가사의 제목은?",
+            "quizTable": "돈나 코토가 오키테모 지분 카라푸루니 미라쿠루오!:어떤 일이 일어나도 자신답게 컬러풀에 기적을!",
+            "answer1": "파스파레볼루션즈☆",
+            "answer2": "슈와링☆드리~밍",
+            "answer3": "Wonderland Girl",
+            "answer4": "Wonderful Sweet!"
+        },
+        {
+            "type": "song",
+            "quiz": "이 노래 가사의 제목은?",
+            "quizTable": "다이죠부다요 세나카와 누쿠모리가 와타시오:괜찮아 등은 온기가 나를",
+            "answer1": "하나마루◎안단테",
+            "answer2": "큐～마이＊flower",
+            "answer3": "두근두근 meet 트립",
+            "answer4": "Power of LOVE!!!"
+        },
+        {
+            "type": "song",
+            "quiz": "이 노래 가사의 제목은?",
+            "quizTable": "「기부아푸 시챠에바 이이」 와루이 코에가 스루:\"포기해버리면 돼\" 나쁜 목소리가 들려",
+            "answer1": "절대 선언～Recital～",
+            "answer2": "SURVIVOR 네버 기브 업!",
+            "answer3": "따끈따끈 언제나 여름 러브☆서머~!",
+            "answer4": "TITLE IDOL"
+        },
+        {
+            "type": "song",
+            "quiz": "이 노래 가사의 제목은?",
             "quizTable": "No more need to cry 킷토:No more need to cry 분명",
             "answer1": "LOUDER",
             "answer2": "BLACK SHOUT",
@@ -4075,6 +4228,69 @@
             "answer2": "Neo-Aspect",
             "answer3": "R",
             "answer4": "약속"
+        },
+        {
+            "type": "song",
+            "quiz": "이 노래 가사의 제목은?",
+            "quizTable": "코도쿠노 소바에 요리소우 이노치노 코에와:고독의 곁으로 다가서는 생명의 목소리는",
+            "answer1": "Re:birth day",
+            "answer2": "양지 로도나이트",
+            "answer3": "Opera of the wasteland",
+            "answer4": "궤적"
+        },
+        {
+            "type": "song",
+            "quiz": "이 노래 가사의 제목은?",
+            "quizTable": "킷토 쿠야시쿠테 나사케나쿳테:분명 분해서 한심해서",
+            "answer1": "Neo-Aspect",
+            "answer2": "BRAVE JEWEL",
+            "answer3": "PASSIONATE ANTHEM",
+            "answer4": "Song I am."
+        },
+        {
+            "type": "song",
+            "quiz": "이 노래 가사의 제목은?",
+            "quizTable": "오모우마마 Bring it on down 케츠이노 시라베:생각하는 대로 Bring it on down 결의의 선율",
+            "answer1": "Determination Symphony",
+            "answer2": "Legendary",
+            "answer3": "“UNIONS” Road",
+            "answer4": "Avant-garde HISTORY"
+        },
+        {
+            "type": "song",
+            "quiz": "이 노래 가사의 제목은?",
+            "quizTable": "이시즈에나루 one's intention 우타와 리리시쿠 하카료란:초석이 되는 one's interaction 노래는 늠름하게 백화요란",
+            "answer1": "R",
+            "answer2": "Determination Symphony",
+            "answer3": "Neo-Aspect",
+            "answer4": "Sanctuary"
+        },
+        {
+            "type": "song",
+            "quiz": "이 노래 가사의 제목은?",
+            "quizTable": "아나타노 무네 이츠닷테 토모스 유메가 아루카라:당신의 가슴엔 언제나 불타는 꿈이 있으니까",
+            "answer1": "FIRE BIRD",
+            "answer2": "BRAVE JEWEL",
+            "answer3": "Avant-garde HISTORY",
+            "answer4": "ZEAL of proud"
+        },
+        {
+            "type": "song",
+            "quiz": "이 노래 가사의 제목은?",
+            "quizTable": "호코리오 우시나 우토모 코코니 이타이토네가앗다:긍지를 잃어버리더라도 여기에 있고 싶다고 빌었어",
+            "answer1": "Avant-garde HISTORY",
+            "answer2": "R",
+            "answer3": "“UNIONS” Road",
+            "answer4": "ZEAL of proud"
+        },
+        {
+            "type": "song",
+            "quiz": "이 노래 가사의 제목은?",
+            "quizTable": "테노히라노 츠메아토야 카미시메타 쿠치비루노 이타미가 오시에타:손바닥의 손톱자국과 깨문 입술의 아픔이 가르쳐줬어",
+            "answer1": "Blessing Chord",
+            "answer2": "궤적",
+            "answer3": "Break your desire",
+            "answer4": "Song I am."
         },
         {
             "type": "song",
@@ -4124,6 +4340,24 @@
         {
             "type": "song",
             "quiz": "이 노래 가사의 제목은?",
+            "quizTable": "츠나이다 테오 츠나이데코- 오오키나 와니 낫테:맞잡은 손을 이어나가자! 커다란 연결고리가 되어",
+            "answer1": "웃는 얼굴의 오케스트라!",
+            "answer2": "해피니스! 해피 매지컬♪",
+            "answer3": "YAPPY!\r\nSCHOOL CARNIVAL☆彡",
+            "answer4": "맑게 튼튼하게 반짝반짝♪"
+        },
+        {
+            "type": "song",
+            "quiz": "이 노래 가사의 제목은?",
+            "quizTable": "쿠마상토 우사기상토 츠레테 마슈마로노 우미에 쟘푸!:곰 씨랑 토끼 씨를 데려가서 마시멜로 바다에 점프!",
+            "answer1": "푹신푹신☆꿈빛 샌드위치",
+            "answer2": "하이파이브∞어드벤처",
+            "answer3": "추억 일루미네이션",
+            "answer4": "스마일 부케로 타~마야~!"
+        },
+        {
+            "type": "song",
+            "quiz": "이 노래 가사의 제목은?",
             "quizTable": "포츠포츠 코보시타 후안가:방울, 방울, 흘러나온 불안이",
             "answer1": "Daylight -데이라이트-",
             "answer2": "금빛의 프렐류드",
@@ -4164,16 +4398,34 @@
             "answer1": "EXPOSE ‘Burn out!!!’",
             "answer2": "R・I・O・T",
             "answer3": "Beautiful Birthday",
+            "answer4": "HELL! or HELL?"
+        },
+        {
+            "type": "song",
+            "quiz": "이 노래 가사의 제목은?",
+            "quizTable": "세카이와 아나타오 마앗테타:세상은 당신을 기다리고 있었어",
+            "answer1": "Beautiful Birthday",
+            "answer2": "UNSTOPPABLE",
+            "answer3": "EXPOSE ‘Burn out!!!’",
             "answer4": "!NVADE SHOW!"
         },
         {
             "type": "song",
             "quiz": "이 노래 가사의 제목은?",
-            "quizTable": "세카이와 아나타오 마앗테타:세상은:당신을 기다리고 있었어",
-            "answer1": "Beautiful Birthday",
-            "answer2": "UNSTOPPABLE",
-            "answer3": "EXPOSE ‘Burn out!!!’",
-            "answer4": "!NVADE SHOW!"
+            "quizTable": "우잣타이토 지렛타이가 아마에테:성가시는 말들이 어리광을 부려",
+            "answer1": "UNSTOPPABLE",
+            "answer2": "Sacred world",
+            "answer3": "HELL! or HELL?",
+            "answer4": "Beautiful Birthday"
+        },
+        {
+            "type": "song",
+            "quiz": "이 노래 가사의 제목은?",
+            "quizTable": "세카이와 보쿠라노 모노사　Keep in touch!!!:세계는 우리들의 것이야　Keep in touch!!!",
+            "answer1": "!NVADE SHOW!",
+            "answer2": "A DECLARATION OF ×××",
+            "answer3": "REIGNING",
+            "answer4": "mind of Prominence"
         },
         {
             "type": "bg",
