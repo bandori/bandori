@@ -4473,6 +4473,16 @@
             "type": "song",
             "subType": "song03",
             "quiz": "이 노래 가사의 제목은?",
+            "quizTable": "후리무이타라 소라 미아게루 키미노 요코가오니--:뒤돌아보니 하늘을 올려다보는 네 옆 모습에--",
+            "answer1": "여름의 펑!",
+            "answer2": "여름 하늘 SUN! SUN! SEVEN!",
+            "answer3": "8월의 if",
+            "answer4": "Time Lapse"
+        },
+        {
+            "type": "song",
+            "subType": "song03",
+            "quiz": "이 노래 가사의 제목은?",
             "quizTable": "카베노 타카사난테 칸케이 나이요:벽의 높이 같은 건 상관없어",
             "answer1": "Y.O.L.O!!!!!",
             "answer2": "이어진, 하늘 모양",
@@ -4918,6 +4928,106 @@
             "answer2": "A DECLARATION OF ×××",
             "answer3": "REIGNING",
             "answer4": "mind of Prominence"
+        },
+        {
+            "type": "song",
+            "subType": "song04",
+            "quiz": "이 노래는?",
+            "quizSound": "https://bandori.github.io/bandori/sound/song/song_slice_01.mp3",
+            "answer1": "두근두근 익스피리언스!",
+            "answer2": "ㅇㅇ",
+            "answer3": "ㅇㅇ",
+            "answer4": "ㅇㅇ"
+        },
+        {
+            "type": "song",
+            "subType": "song04",
+            "quiz": "이 노래는?",
+            "quizSound": "https://bandori.github.io/bandori/sound/song/song_slice_02.mp3",
+            "answer1": "여름하늘 SUN! SUN! SEVEN!",
+            "answer2": "ㅇㅇ",
+            "answer3": "ㅇㅇ",
+            "answer4": "ㅇㅇ"
+        },
+        {
+            "type": "song",
+            "subType": "song04",
+            "quiz": "이 노래는?",
+            "quizSound": "https://bandori.github.io/bandori/sound/song/song_slice_03.mp3",
+            "answer1": "앞으로 나아가자!",
+            "answer2": "ㅇㅇ",
+            "answer3": "ㅇㅇ",
+            "answer4": "ㅇㅇ"
+        },
+        {
+            "type": "song",
+            "subType": "song04",
+            "quiz": "이 노래는?",
+            "quizSound": "https://bandori.github.io/bandori/sound/song/song_slice_04.mp3",
+            "answer1": "티어 드롭스",
+            "answer2": "ㅇㅇ",
+            "answer3": "ㅇㅇ",
+            "answer4": "ㅇㅇ"
+        },
+        {
+            "type": "song",
+            "subType": "song04",
+            "quiz": "이 노래는?",
+            "quizSound": "https://bandori.github.io/bandori/sound/song/song_slice_05.mp3",
+            "answer1": "쌍무지개 (더블 레인보우)",
+            "answer2": "ㅇㅇ",
+            "answer3": "ㅇㅇ",
+            "answer4": "ㅇㅇ"
+        },
+        {
+            "type": "song",
+            "subType": "song04",
+            "quiz": "이 노래는?",
+            "quizSound": "https://bandori.github.io/bandori/sound/song/song_slice_06.mp3",
+            "answer1": "걸즈 코드",
+            "answer2": "ㅇㅇ",
+            "answer3": "ㅇㅇ",
+            "answer4": "ㅇㅇ"
+        },
+        {
+            "type": "song",
+            "subType": "song04",
+            "quiz": "이 노래는?",
+            "quizSound": "https://bandori.github.io/bandori/sound/song/song_slice_07.mp3",
+            "answer1": "애달픈 Sandglass",
+            "answer2": "ㅇㅇ",
+            "answer3": "ㅇㅇ",
+            "answer4": "ㅇㅇ"
+        },
+        {
+            "type": "song",
+            "subType": "song04",
+            "quiz": "이 노래는?",
+            "quizSound": "https://bandori.github.io/bandori/sound/song/song_slice_08.mp3",
+            "answer1": "인연 뮤직♪",
+            "answer2": "ㅇㅇ",
+            "answer3": "ㅇㅇ",
+            "answer4": "ㅇㅇ"
+        },
+        {
+            "type": "song",
+            "subType": "song04",
+            "quiz": "이 노래는?",
+            "quizSound": "https://bandori.github.io/bandori/sound/song/song_slice_09.mp3",
+            "answer1": "What's the POPIPA!?",
+            "answer2": "ㅇㅇ",
+            "answer3": "ㅇㅇ",
+            "answer4": "ㅇㅇ"
+        },
+        {
+            "type": "song",
+            "subType": "song04",
+            "quiz": "이 노래는?",
+            "quizSound": "https://bandori.github.io/bandori/sound/song/song_slice_10.mp3",
+            "answer1": "White Afternoon",
+            "answer2": "ㅇㅇ",
+            "answer3": "ㅇㅇ",
+            "answer4": "ㅇㅇ"
         },
         {
             "type": "bg",
@@ -7008,5 +7118,162 @@
             "answer2": "카스미",
             "answer3": "타에",
             "answer4": "유키나"
+        },
+        {
+            "type": "char",
+            "subType": "char03",
+            "quiz": "언니가 있는 캐릭터는?",
+            "answer1": "리미",
+            "answer2": "카스미",
+            "answer3": "아야",
+            "answer4": "하구미"
+        },
+        {
+            "type": "char",
+            "subType": "char03",
+            "quiz": "언니가 있는 캐릭터는?",
+            "answer1": "히마리",
+            "answer2": "츠구미",
+            "answer3": "마시로",
+            "answer4": "카논"
+        },
+        {
+            "type": "char",
+            "subType": "char03",
+            "quiz": "오빠가 있는 캐릭터는?",
+            "answer1": "하구미",
+            "answer2": "타에",
+            "answer3": "아야",
+            "answer4": "츠쿠시"
+        },
+        {
+            "type": "char",
+            "subType": "char03",
+            "quiz": "여동생이 있는 캐릭터는?",
+            "answer1": "사아야",
+            "answer2": "히마리",
+            "answer3": "카오루",
+            "answer4": "하구미"
+        },
+        {
+            "type": "char",
+            "subType": "char03",
+            "quiz": "여동생이 있는 캐릭터는?",
+            "answer1": "아야",
+            "answer2": "카논",
+            "answer3": "파레오",
+            "answer4": "이브"
+        },
+        {
+            "type": "char",
+            "subType": "char03",
+            "quiz": "여동생이 있는 캐릭터는?",
+            "answer1": "치사토",
+            "answer2": "리사",
+            "answer3": "레이야",
+            "answer4": "나나미"
+        },
+        {
+            "type": "char",
+            "subType": "char03",
+            "quiz": "여동생이 있는 캐릭터는?",
+            "answer1": "미사키",
+            "answer2": "마야",
+            "answer3": "마스킹",
+            "answer4": "토우코"
+        },
+        {
+            "type": "char",
+            "subType": "char03",
+            "quiz": "여동생이 있는 캐릭터는?",
+            "answer1": "츠쿠시",
+            "answer2": "츠구미",
+            "answer3": "록",
+            "answer4": "마시로"
+        },
+        {
+            "type": "char",
+            "subType": "char03",
+            "quiz": "남동생이 있는 캐릭터는?",
+            "answer1": "사아야",
+            "answer2": "카오루",
+            "answer3": "마스킹",
+            "answer4": "레이야"
+        },
+        {
+            "type": "char",
+            "subType": "char03",
+            "quiz": "남동생이 있는 캐릭터는?",
+            "answer1": "카논",
+            "answer2": "히마리",
+            "answer3": "토우코",
+            "answer4": "나나미"
+        },
+        {
+            "type": "char",
+            "subType": "char03",
+            "quiz": "남동생이 있는 캐릭터는?",
+            "answer1": "미사키",
+            "answer2": "코코로",
+            "answer3": "츠쿠시",
+            "answer4": "토우코"
+        },
+        {
+            "type": "char",
+            "subType": "char03",
+            "quiz": "외동딸인 캐릭터는?",
+            "answer1": "츠구미",
+            "answer2": "하구미",
+            "answer3": "아야",
+            "answer4": "치사토"
+        },
+        {
+            "type": "char",
+            "subType": "char03",
+            "quiz": "외동딸인 캐릭터는?",
+            "answer1": "코코로",
+            "answer2": "츠쿠시",
+            "answer3": "치사토",
+            "answer4": "미사키"
+        },
+        {
+            "type": "char",
+            "subType": "char03",
+            "quiz": "다음과 같이 부르는 캐릭터는?",
+            "quizTable": "???→카스미:카스미 씨",
+            "answer1": "이브",
+            "answer2": "마야",
+            "answer3": "츠쿠시",
+            "answer4": "미사키"
+        },
+        {
+            "type": "char",
+            "subType": "char03",
+            "quiz": "다음과 같이 부르는 캐릭터는?",
+            "quizTable": "???→카스미:카스미 짱",
+            "answer1": "카오루",
+            "answer2": "코코로",
+            "answer3": "미사키",
+            "answer4": "타에"
+        },
+        {
+            "type": "char",
+            "subType": "char03",
+            "quiz": "다음과 같이 부르는 캐릭터는?",
+            "quizTable": "???→타에:오타에 짱",
+            "answer1": "리미",
+            "answer2": "카스미",
+            "answer3": "사아야",
+            "answer4": "아리사"
+        },
+        {
+            "type": "char",
+            "subType": "char03",
+            "quiz": "다음과 같이 부르는 캐릭터는?",
+            "quizTable": "???→타에:타에 짱",
+            "answer1": "치사토",
+            "answer2": "모카",
+            "answer3": "히나",
+            "answer4": "츠구미"
         }
     ]
