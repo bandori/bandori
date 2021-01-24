@@ -54,27 +54,6 @@ button.mainMenu{
   margin-left: 7px;
 }
 
-button.customQuizMenu{
-  height: 30px;
-  width: 160px;
-  max-width: 33%;
-  outline: black;
-  background: rgb(255, 255, 255);
-  border: rgb(236, 78, 144) solid 3px;
-  border-radius: 20px;
-  color: rgb(0, 0, 0);
-  font-size: 16;
-  font-weight: bold;
-  transition: 0.2s;
-  margin-top: 10px;
-  margin-left: 7px;
-}
-
-button.customQuizMenu:active{
-  background: rgb(255, 209, 228)
-}
-
-
 button.answer {
   height: 45px;
   width: 250px;
@@ -165,10 +144,6 @@ table.quizTable td {
 .main{
   text-align: center;
   margin-top:3%;
-}
-
-.customQuiz{
-  display:none;
 }
 
 .mainGame{

@@ -41,37 +41,17 @@
     <div id="main" class="main">
       <img class="index" src="img/img_title_01.png" alt="대문">
       <br><br><br>
-
-      <div id="selectQuiz" class="selectQuiz">
-        <button class="mainMenu" onclick="play(); gameModeSelect(1)">1. 일러 퀴즈</button>
-        <button class="mainMenu" onclick="play(); gameModeSelect(2)">2. 노래 퀴즈</button>
-        <button class="mainMenu" onclick="play(); gameModeSelect(3)">3. 배경 퀴즈</button>
-        <button class="mainMenu" onclick="play(); gameModeSelect(4)">4. 캐릭터 퀴즈</button>
-        <button class="mainMenu" onclick="play(); gameModeSelect(99)">종합</button>
-        <button class="mainMenu" onclick="play(); customQuiz()">내맘대로 퀴즈</button>
-        <br><br><br>
-        <div id="quizCount">833개의 문제 중에서 랜덤으로 출제됩니다.</div>
-      </div>
-
-      <div id="customQuiz" class="customQuiz">
-        <div>원하는 퀴즈를 모두 선택하세요</div>
-        <button class="customQuizMenu" onclick="play(); customQuizSelect('illust01', this)">일러 이름</button>
-        <button class="customQuizMenu" onclick="play(); customQuizSelect('illust02', this)">특훈후 일러</button>
-        <button class="customQuizMenu" onclick="play(); customQuizSelect('illust03', this)">일러 조각</button>
-        <button class="customQuizMenu" onclick="play(); customQuizSelect('song01', this)">노래 난이도</button>
-        <button class="customQuizMenu" onclick="play(); customQuizSelect('song02', this)">노래 조각</button>
-        <button class="customQuizMenu" onclick="play(); customQuizSelect('song03', this)">노래 가사</button>
-        <button class="customQuizMenu" onclick="play(); customQuizSelect('song04', this)">노래 듣기</button>
-        <button class="customQuizMenu" onclick="play(); customQuizSelect('bg01', this)">배경</button>
-        <button class="customQuizMenu" onclick="play(); customQuizSelect('char01', this)">악기</button>
-        <button class="customQuizMenu" onclick="play(); customQuizSelect('char02', this)">캐릭터 프로필</button>
-        <br><br>
-        <button class="mainMenu" onclick="play(); gameModeSelect(100)">게임 시작!</button>
-      </div>
+      <button class="mainMenu" onclick="play(); gameModeSelect(1)">1. 일러 퀴즈</button>
+      <button class="mainMenu" onclick="play(); gameModeSelect(2)">2. 노래 퀴즈</button>
+      <button class="mainMenu" onclick="play(); gameModeSelect(3)">3. 배경 퀴즈</button>
+      <button class="mainMenu" onclick="play(); gameModeSelect(4)">4. 캐릭터 퀴즈</button>
+      <button class="mainMenu" onclick="play(); gameModeSelect(99)">종합</button>
+      <br><br><br>
+      <div id="quizCount">701개의 문제 중에서 랜덤으로 출제됩니다.</div>
     </div> 
 
     <div id="footer" class="footer">
-      <div>만든 사람: 카페모카 | 버전: 베타 5 (01/24 Update)</div>
+      <div>만든 사람: 카페모카 | 버전: 베타 5</div>
       <div><a href="https://forms.gle/bwxAsd2DTuQbwk9u6" target="_blank">설문조사 하러가기</a> <a href="https://www.youtube.com/channel/UCDIWNxgdDJk2J3v4UZ3U01Q">유튜브 채널 방문</a></div>
 
     </div>
@@ -95,10 +75,6 @@
 
       <div class="quizImage">
         <img id="quizImage" alt="문제 이미지" height="300">
-      </div>
-
-      <div class="quizSound">
-        <audio id="quizSound" controls></audio>
       </div>
 
       <div id="answer" class="answers">

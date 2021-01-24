@@ -1,12 +1,10 @@
 var quizType = [];
-var quizSubType = [];
 var quizName = [];
 var answer1 = []; //Right Answer
 var answer2 = [];
 var answer3 = [];
 var answer4 = [];
 var quizImage = [];
-var quizSound = [];
 var quizTable = [];
 
 var quizData = [];
@@ -17,7 +15,6 @@ var answerObj = [];
 var currentScore = 0;
 var currentLife = 10;
 var maxLife = 10;
-var gameModeList = [];
 var gameMode = "";
 var gameModeHangul = "";
 
@@ -33,41 +30,24 @@ $(document).ready(function(){
 function gameModeSelect(type){
   switch(type){
     case 1:
-      gameModeList[0]="illust01";
-      gameModeList[1]="illust02";
-      gameModeList[2]="illust03";
       gameMode="illust";
       gameModeHangul="일러스트 퀴즈";
       break;
     case 2:
-      gameModeList[0]="song01";
-      gameModeList[1]="song02";
-      gameModeList[2]="song03";
-      gameModeList[3]="song04";
       gameMode="song";
       gameModeHangul="노래 퀴즈";
       break;
     case 3:
-      gameModeList[0]="bg01";
       gameMode="bg";
       gameModeHangul="배경 퀴즈";
       break;
     case 4:
-      gameModeList[0]="char01";
-      gameModeList[1]="char02";
       gameMode="char";
       gameModeHangul="캐릭터 퀴즈";
       break;
     case 99:
       gameMode="all";
       gameModeHangul="종합 퀴즈";
-      break;
-    case 100:
-      if(gameModeList.length==0){
-        return;
-      }
-      gameMode="custom";
-      gameModeHangul="내맘대로 퀴즈";
       break;
   }
 
@@ -78,27 +58,6 @@ function gameModeSelect(type){
   $("#footer").css("display","none");
 
   gameReady();
-}
-
-function customQuiz(){
-  $("#selectQuiz").css("display","none");
-  $("#customQuiz").css("display","block");
-}
-
-function customQuizSelect(type, btn){
-  if(gameModeList.includes(type)){
-    gameModeList.splice(gameModeList.indexOf(type),1)
-    $(btn).css("background-color", "rgb(255, 255, 255)");
-  }
-  else{
-    gameModeList.push(type)
-    $(btn).css("background-color", "rgb(255, 209, 228)");
-  }
-
-  console.log("-----");
-  for(i=0; i<gameModeList.length; i++){
-    console.log(gameModeList[i]);
-  }
 }
 
 function gameReady(){
@@ -120,9 +79,6 @@ function gameReady(){
           if(data[index].quizImage == undefined) {quizImage[index] = "none";}
           else{quizImage[index] = data[index].quizImage;}
 
-          if(data[index].quizSound == undefined) {quizSound[index] = "none";}
-          else{quizSound[index] = data[index].quizSound;}
-
           if(data[index].quizTable == undefined) {quizTable[index] = "none";}
           else{quizTable[index] = data[index].quizTable;}
 
@@ -134,26 +90,19 @@ function gameReady(){
           _count++;
         }
         else{
-          if(gameModeList.includes(data[index].subType)){
+          if(data[index].type == gameMode){
             quizType[_num] = data[index].type;
             quizName[_num] = data[index].quiz;
         
             if(data[index].quizImage == undefined) {quizImage[_num] = "none";}
             else{quizImage[_num] = data[index].quizImage;}
 
-            if(data[index].quizSound == undefined) {quizSound[_num] = "none";}
-            else{quizSound[_num] = data[index].quizSound;}
-
             if(data[index].quizTable == undefined) {quizTable[_num] = "none";}
             else{quizTable[_num] = data[index].quizTable;}
-
             answer1[_num] = data[index].answer1;
             answer2[_num] = data[index].answer2;
             answer3[_num] = data[index].answer3;
             answer4[_num] = data[index].answer4;
-
-            console.log(_num + " " + quizSound[_num] + answer1[_num]);
-
             _num++;
             _count++;
           }
@@ -183,12 +132,10 @@ function shuffle(o, shuffleType, answer1) {
 function btnProvideQuestion() { 
   randomNum = Math.floor(Math.random()*quizName.length);
   randomAnswers = [answer1[randomNum], answer2[randomNum], answer3[randomNum], answer4[randomNum]];
-  console.log(answer1[randomNum])
   shuffle(randomAnswers, quizType[randomNum], answer1[randomNum]);
 
   var _quizName = document.getElementById("quizName");
   var _quizImage = document.getElementById("quizImage");
-  var _quizSound = document.getElementById("quizSound"); _quizSound.volume = 0.5;
   var _quizTable= document.getElementById("quizTable");
   var _answersImages = [document.getElementById("answerImageA"),document.getElementById("answerImageB"),document.getElementById("answerImageC"),document.getElementById("answerImageD")];
   answerObj = [document.getElementById("answerA"), document.getElementById("answerB"), document.getElementById("answerC"), document.getElementById("answerD")]
@@ -203,17 +150,6 @@ function btnProvideQuestion() {
     _quizImage.style.display="block";
     _quizImage.style.margin="0 auto";
     _quizImage.src = quizImage[randomNum];
-  }
-
-  //문제 사운드
-  if(quizSound[randomNum] == "none"){
-    _quizSound.style.display="none";
-  }
-  else{
-    _quizSound.style.display="block";
-    _quizSound.style.margin="0 auto";
-    _quizSound.src = quizSound[randomNum];
-    console.log("랜덤 " + randomNum + " " + _quizSound.src + " " + answer1[randomNum]);
   }
 
   //테이블
@@ -278,7 +214,6 @@ function checkAnswer(selectAnswer, answerObject) {
 
     quizName.splice(randomNum, 1);
     quizImage.splice(randomNum, 1);
-    quizSound.splice(randomNum, 1);
     quizTable.splice(randomNum, 1);
     quizType.splice(randomNum, 1);
     answer1.splice(randomNum, 1);
@@ -415,4 +350,7 @@ function result_gotoMain_clicked() {
   initalize();
   window.location.reload();
 }
+
+
+
 
