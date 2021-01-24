@@ -137,6 +137,10 @@ img.resultImage{
   margin-bottom: 50px;
 }
 
+.quizSound{
+  margin-bottom: 70px;
+}
+
 table.quizTable {
   border-collapse: collapse;
   line-height: 1.5;
