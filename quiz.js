@@ -367,11 +367,11 @@ function result(){
     resultImage.src = "https://bandori.github.io/bandori/img/result/img_result_06.png";
   }
   else if(currentScore >= 500){
-    _review = "고인물";
+    _review = "핵거병";
     resultImage.src = "https://bandori.github.io/bandori/img/result/img_result_05.png";
   }
   else if(currentScore >= 300){
-    _review = "핵고수";
+    _review = "거병";
     resultImage.src = "https://bandori.github.io/bandori/img/result/img_result_04.png";
   }
   else if(currentScore >= 200){

@@ -6582,9 +6582,12 @@
     {
         "type": "song",
         "subType": "song04",
-        "quiz": "이 노래의 첫 글자는?",
+        "quiz": "이 노래는?",
         "quizSound": "https://bandori.github.io/bandori/sound/song/song_slice_115.mp3",
-        "answer1": "S"
+        "answer1": "Sweets BAN!",
+        "answer2": "최고(자, 가자)!",
+        "answer3": "SAKURA MEMORIES",
+        "answer4": "Breakthrough!"
     },
     {
         "type": "song",
@@ -6609,12 +6612,12 @@
     {
         "type": "song",
         "subType": "song04",
-        "quiz": "이 노래의 EXPERT 난이도는?",
+        "quiz": "이 노래는?",
         "quizSound": "https://bandori.github.io/bandori/sound/song/song_slice_118.mp3",
-        "answer1": "26",
-        "answer2": "24",
-        "answer3": "25",
-        "answer4": "27"
+        "answer1": "여름에 가둬두고",
+        "answer2": "이 다음부터는 노래할 수 없어",
+        "answer3": "Live Beyond!!",
+        "answer4": "Photograph"
     },
     {
         "type": "song",
@@ -6659,12 +6662,12 @@
     {
         "type": "song",
         "subType": "song04",
-        "quiz": "이 노래의 첫 글자는?",
+        "quiz": "이 노래는?",
         "quizSound": "https://bandori.github.io/bandori/sound/song/song_slice_123.mp3",
-        "answer1": "T",
-        "answer2": "O",
-        "answer3": "R",
-        "answer4": "I"
+        "answer1": "Trouble Joyfull!!",
+        "answer2": "평소대로의 Brand new days",
+        "answer3": "I love your way!",
+        "answer4": "ON YOUR MARK"
     },
     {
         "type": "song",
