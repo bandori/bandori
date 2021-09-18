@@ -83,6 +83,7 @@ function gameModeSelect(type){
 function customQuiz(){
   $("#selectQuiz").css("display","none");
   $("#customQuiz").css("display","block");
+  $("#footer").css("display","none");
 }
 
 function customQuizSelect(type, btn){
