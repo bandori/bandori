@@ -142,6 +142,7 @@ function gameReady(){
           _count++;
         }
         else{
+          console.log(data[index].subType);
           if(gameModeList.includes(data[index].subType)){
             quizType[_num] = data[index].type;
             quizName[_num] = data[index].quiz;
@@ -405,7 +406,15 @@ function clear(){
     $("#clear").fadeIn(300);
   });
 
-  document.getElementById("clearReview").innerHTML = "당신은 "+gameModeHangul+"를 모두 맞추었습니다!<br><br>상으로 모카의 빵을 드립니다.";
+  if(gameMode=="kasumi"){
+    document.getElementById("clearImage").src = "https://bandori.github.io/bandori/img/img_result_02.png";
+    document.getElementById("clearReview").innerHTML = "당신은 "+gameModeHangul+"를 모두 맞추었습니다!<br><br>상으로 카스미의 별 스티커를 받았습니다!";
+
+  }
+  else{
+    document.getElementById("clearReview").innerHTML = "당신은 "+gameModeHangul+"를 모두 맞추었습니다!<br><br>상으로 모카의 빵을 드립니다.";
+  }
+
 }
 
 function result_retry_clicked() {
