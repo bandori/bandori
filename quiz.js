@@ -58,6 +58,11 @@ function gameModeSelect(type){
       gameMode="char";
       gameModeHangul="캐릭터 퀴즈";
       break;
+    case 90:
+      gameModeList[0]="kasumi";
+      gameMode="kasumi";
+      gameModeHangul="카스미 퀴즈";
+      break;
     case 99:
       gameMode="all";
       gameModeHangul="종합 퀴즈";
@@ -110,6 +115,8 @@ function gameReady(){
       var _num=0;
       var _count=0;
       shuffle(data);
+
+      console.log("게임모드 :" + gameMode);
 
       $.each(data, function(index){
         if(_count >= 100) { return false; }

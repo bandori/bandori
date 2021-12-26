@@ -1,3 +1,4 @@
+
 [
     {
         "type": "illust",
@@ -6494,20 +6495,20 @@
         "subType": "song04",
         "quiz": "이 노래의 첫 글자는?",
         "quizSound": "https://bandori.github.io/bandori/sound/song/song_slice_106.mp3",
-        "answer1": "I",
-        "answer2": "U",
-        "answer3": "S",
-        "answer4": "R"
+        "answer1": "Invisible Fighter",
+        "answer2": "UNSTOPPABLE",
+        "answer3": "OUTSIDER RODEO",
+        "answer4": "EXIST"
     },
     {
         "type": "song",
         "subType": "song04",
         "quiz": "이 노래의 첫 글자는?",
         "quizSound": "https://bandori.github.io/bandori/sound/song/song_slice_107.mp3",
-        "answer1": "D",
-        "answer2": "H",
-        "answer3": "S",
-        "answer4": "B"
+        "answer1": "DRIVE US CRAZY",
+        "answer2": "Invisible Fighter",
+        "answer3": "A DECLARATION OF ×××",
+        "answer4": "Domination to world"
     },
     {
         "type": "song",
@@ -6524,10 +6525,10 @@
         "subType": "song04",
         "quiz": "이 노래의 첫 글자는?",
         "quizSound": "https://bandori.github.io/bandori/sound/song/song_slice_109.mp3",
-        "answer1": "S",
-        "answer2": "H",
-        "answer3": "D",
-        "answer4": "J"
+        "answer1": "SOUL SOLDIER",
+        "answer2": "DRIVE US CRAZY",
+        "answer3": "OUTSIDER RODEO",
+        "answer4": "!NVADE SHOW!"
     },
     {
         "type": "song",
@@ -8816,7 +8817,7 @@
         "quizTable": "학년/생일:카모가와 2학년, 3월 25일",
         "answer1": "파레오",
         "answer2": "마스킹",
-        "answer3": "파레오",
+        "answer3": "록",
         "answer4": "츄츄"
     },
     {
@@ -9045,5 +9046,23 @@
         "answer2": "모카",
         "answer3": "히나",
         "answer4": "츠구미"
+    },
+    {
+        "type": "kasumi",
+        "subType": "kasumi",
+        "quiz": "카스미의 생일은?",
+        "answer1": "7월 14일",
+        "answer2": "7월 11일",
+        "answer3": "7월 17일",
+        "answer4": "7월 23일"
+    },
+    {
+        "type": "kasumi",
+        "subType": "kasumi",
+        "quiz": "애니메이션 2~3기 기준, 카스미가 다니는 학교와 반은?",
+        "answer1": "하나사키가와 2학년 A반",
+        "answer2": "하나사키가와 2학년 B반",
+        "answer3": "하네오카 2학년 A반",
+        "answer4": "하네오카 2학년 B반"
     }
 ]
