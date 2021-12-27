@@ -44,7 +44,7 @@
 
       <div id="selectQuiz" class="selectQuiz">
         <button class="mainMenu" onclick="play(); gameModeSelect(90)">시작하기</button>
-        <button class="ranking" onclick="play(); gotoRanking()">기록 보기</button>
+        <button class="mainMenu" onclick="play(); gotoRanking()">기록 보기</button>
 
         <br><br><br>
         <div id="quizCount">제 1회 카스미능력평가! 총 50문항이며 10번 틀릴 시 게임이 종료됩니다.</div>
@@ -130,6 +130,7 @@
     </div>
 
     <div id="ranking" class="ranking">
+      <button class="gotoMain" onclick="play(); location.href='kasumi.html'">메인 메뉴로</button> 
       <h1><div>기록실</div></h1>
       <br><br>
       <div id="bestRanking" style="display:inline">최고 기록: 0</div>

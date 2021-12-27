@@ -245,6 +245,13 @@ table.quizTable td {
   display: none;
 }
 
+.ranking{
+  text-align: center;
+  margin-top:5%;
+  font-weight: bold;
+  display: none;
+}
+
 .footer {
   position:absolute;
   bottom:0;
