@@ -454,7 +454,7 @@ function gotoRanking(){
 
   bestScore = localStorage.getItem("bestScore");
 
-  if(bestScore != null){
+  if(bestScore != null && bestScore != undefined){
     document.getElementById("bestRanking").innerHTML = "최고 기록: "+bestScore;
   }
   else{
