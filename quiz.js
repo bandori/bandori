@@ -17,6 +17,7 @@ var answerObj = [];
 var currentScore = 0;
 var currentLife = 10;
 var bestScore = 0;
+var recentScore = [];
 var maxLife = 10;
 var gameModeList = [];
 var gameMode = "";
@@ -422,6 +423,20 @@ function clear(){
 }
 
 function saveScore(){
+  //localStorage.clear();
+
+  console.log("saveScore");
+  var output = localStorage.getItem("recentScore");
+  recentScore = JSON.parse(output);
+
+  if(recentScore == null || recentScore == undefined){
+    console.log("recentScore is Null");
+    recentScore = [];
+  }
+
+  recentScore.push(currentScore);
+  localStorage.setItem("recentScore",JSON.stringify(recentScore));
+
   bestScore = localStorage.getItem("bestScore");
   if(currentScore > bestScore){
     localStorage.setItem("bestScore",currentScore);
@@ -453,14 +468,59 @@ function gotoRanking(){
   $("#footer").css("display","none");
 
   bestScore = localStorage.getItem("bestScore");
-
+  console.log("bestScore: " + bestScore);
   if(bestScore != null && bestScore != undefined){
-    document.getElementById("bestRanking").innerHTML = "최고 기록: "+bestScore;
+    document.getElementById("bestRanking").innerHTML = bestScore+"점";
   }
   else{
     document.getElementById("bestRanking").innerHTML = "아직 기록이 없어!"
   }
 
+  var output = localStorage.getItem("recentScore");
+  recentScore = JSON.parse(output);
 
+  if(recentScore != null && recentScore != undefined){
+
+    var maxCount = 10;
+    if(recentScore.length < maxCount) maxCount = recentScore.length-1;
+
+    var outputScore = recentScore;
+    console.log(outputScore.length);
+    if(outputScore.length > 10){
+      outputScore = outputScore.slice(outputScore.length-10);
+      console.log(outputScore.length);
+    }
+
+    var scoreList = "";
+    for(var i=0; i<outputScore.length; i++){
+      scoreList = scoreList + outputScore[i]+"점<br>";
+    }
+
+    document.getElementById("recentRanking").innerHTML = scoreList+"<br>";
+  }
+  else{
+    document.getElementById("recentRanking").innerHTML = "아직 기록이 없어!"
+  }
+}
+
+function ranking(count, name) {
+  var nameAndCount = {
+      name: name,
+      count: count
+  };
+  nameAndCountArray.push(nameAndCount);
+  nameAndCountArray.sort(NumberCompare);
+  var rankingElem = document.getElementById("ranking");
+  var printArray = [];
+  for (var i = 0; i < nameAndCountArray.length; i++) {
+      if (i >= 5) {
+          break;
+      }
+      printArray.push((i + 1) + '등 : ' + nameAndCountArray[i].name + " " + nameAndCountArray[i].count + '점');
+  }
+  rankingElem.innerHTML = printArray.join("<br/>");
+}
+function NumberCompare(a, b) {
+  return a.count - b.count;
 }
 
