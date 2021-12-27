@@ -179,6 +179,10 @@ table.quizTable td {
   display:none;
 }
 
+.ranking{
+  display:none;
+}
+
 .result{
   display:none;
 }

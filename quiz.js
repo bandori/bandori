@@ -16,6 +16,7 @@ var randomNum;
 var answerObj = [];
 var currentScore = 0;
 var currentLife = 10;
+var bestScore = 0;
 var maxLife = 10;
 var gameModeList = [];
 var gameMode = "";
@@ -396,7 +397,7 @@ function result(){
   }
   document.getElementById("resultReview").innerHTML = "평가: "+_review;
 
-
+  saveScore();
 }
 
 function clear(){
@@ -416,6 +417,12 @@ function clear(){
     document.getElementById("clearReview").innerHTML = "당신은 "+gameModeHangul+"를 모두 맞추었습니다!<br><br>상으로 모카의 빵을 드립니다.";
   }
 
+  saveScore();
+
+}
+
+function saveScore(){
+  localStorage.setItem("bestScore",currentScore);
 }
 
 function result_retry_clicked() {
@@ -432,5 +439,17 @@ function result_gotoMain_clicked() {
   $("#clear").css("display","none");
   initalize();
   window.location.reload();
+}
+
+function gotoRanking(){
+  $("#main").fadeOut(300, function(){
+    $("#ranking").fadeIn(300);
+  });
+
+  $("#footer").css("display","none");
+
+  bestScore = localStorage.getItem("bestScore");
+
+  document.getElementById("bestRanking").innerHTML = "최고 기록: "+bestScore;
 }
 
