@@ -325,7 +325,7 @@ function adjustScore(isCorrect, isInitalized) {
   } 
   else {
     if (currentScore > 0) {
-      //currentScore-=5;
+      currentScore-=2;
     }
   }
   document.getElementById("score").innerHTML = "점수: "+currentScore;
@@ -376,7 +376,7 @@ function result(){
     _review = "나나미";
     resultImage.src = "https://bandori.github.io/bandori/img/result/img_result_06.png";
   }
-  else if(currentScore >= 500){
+  else if(currentScore >= 400){
     _review = "핵거병";
     resultImage.src = "https://bandori.github.io/bandori/img/result/img_result_05.png";
   }
@@ -471,6 +471,10 @@ function gotoRanking(){
   console.log("bestScore: " + bestScore);
   if(bestScore != null && bestScore != undefined){
     document.getElementById("bestRanking").innerHTML = bestScore+"점";
+    if(bestScore >= 500){
+      document.getElementById("starSticker").style.display="block";
+      document.getElementById("starSticker").style.margin="0 auto";
+    }
   }
   else{
     document.getElementById("bestRanking").innerHTML = "아직 기록이 없어!"
