@@ -133,6 +133,11 @@ img.resultImage{
   height: auto;
 }
 
+img.clearImage{
+  max-width: 100%;
+  height: auto;
+}
+
 .quizTable{
   margin-bottom: 50px;
 }

@@ -29,9 +29,6 @@ function initalize(){
   adjustLife(true);
 }
 
-$(document).ready(function(){
-});
-
 function gameModeSelect(type){
   switch(type){
     case 1:
@@ -194,7 +191,7 @@ function shuffle(o, shuffleType, answer1) {
 function btnProvideQuestion() { 
   randomNum = Math.floor(Math.random()*quizName.length);
   randomAnswers = [answer1[randomNum], answer2[randomNum], answer3[randomNum], answer4[randomNum]];
-  console.log(answer1[randomNum])
+  //console.log(answer1[randomNum])
   shuffle(randomAnswers, quizType[randomNum], answer1[randomNum]);
 
   var _quizName = document.getElementById("quizName");
@@ -410,6 +407,7 @@ function clear(){
 
   if(gameMode=="kasumi"){
     document.getElementById("clearImage").src = "https://bandori.github.io/bandori/img/img_result_02.png";
+    document.getElementById("clearImage").style.margin="0 auto";
     document.getElementById("clearReview").innerHTML = gameModeHangul+"를 모두 맞추었습니다!<br><br>상으로 카스미의 별 스티커를 받았습니다!";
 
   }
@@ -471,7 +469,7 @@ function gotoRanking(){
   console.log("bestScore: " + bestScore);
   if(bestScore != null && bestScore != undefined){
     document.getElementById("bestRanking").innerHTML = bestScore+"점";
-    if(bestScore >= 500){
+    if(bestScore >= 482){
       document.getElementById("starSticker").style.display="block";
       document.getElementById("starSticker").style.margin="0 auto";
     }
@@ -527,4 +525,6 @@ function ranking(count, name) {
 function NumberCompare(a, b) {
   return a.count - b.count;
 }
+
+
 
