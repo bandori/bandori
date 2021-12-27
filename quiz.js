@@ -422,7 +422,11 @@ function clear(){
 }
 
 function saveScore(){
-  localStorage.setItem("bestScore",currentScore);
+  bestScore = localStorage.getItem("bestScore");
+  if(currentScore > bestScore){
+    localStorage.setItem("bestScore",currentScore);
+  }
+
 }
 
 function result_retry_clicked() {
@@ -450,6 +454,13 @@ function gotoRanking(){
 
   bestScore = localStorage.getItem("bestScore");
 
-  document.getElementById("bestRanking").innerHTML = "최고 기록: "+bestScore;
+  if(bestScore != null){
+    document.getElementById("bestRanking").innerHTML = "최고 기록: "+bestScore;
+  }
+  else{
+    document.getElementById("bestRanking").innerHTML = "아직 기록이 없어!"
+  }
+
+
 }
 
