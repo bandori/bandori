@@ -408,10 +408,11 @@ function clear(){
 
   if(gameMode=="kasumi"){
     document.getElementById("clearImage").src = "https://bandori.github.io/bandori/img/img_result_02.png";
-    document.getElementById("clearReview").innerHTML = "당신은 "+gameModeHangul+"를 모두 맞추었습니다!<br><br>상으로 카스미의 별 스티커를 받았습니다!";
+    document.getElementById("clearReview").innerHTML = gameModeHangul+"를 모두 맞추었습니다!<br><br>상으로 카스미의 별 스티커를 받았습니다!";
 
   }
   else{
+    document.getElementById("clearImage").src = "https://bandori.github.io/bandori/img/img_result_01.png";
     document.getElementById("clearReview").innerHTML = "당신은 "+gameModeHangul+"를 모두 맞추었습니다!<br><br>상으로 모카의 빵을 드립니다.";
   }
 
